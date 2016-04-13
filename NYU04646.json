@@ -1,0 +1,53 @@
+{
+  "id": "11156247",
+  "name": "Testaments to the Holocaust",
+  "description": "Testaments to the Holocaust is the online publication of the archives of the Wiener Library, London, the first archive to collect evidence of the Holocaust and the anti-semitic activities of the German Nazi Party. It contains documentary evidence and a collection of postcards of synagogues in Germany and eastern Europe and other materials.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04646",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "more_info": "",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 19:33:19",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11156247",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11156247",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

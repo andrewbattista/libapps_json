@@ -1,0 +1,35 @@
+{
+  "id": "11155431",
+  "name": "Contemporary Women's Issues",
+  "description": "A multi-disciplinary full-text database that brings together relevant content from mainstream periodicals, 'gray' literature, and the alternative press -- with a focus on the critical issues and events that influence women's lives in more than 190 countries. It includes English-language titles from East and West Africa, Asia, and South and Central America, the Caribbean, North America and Europe.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01574",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 21:53:05",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155431",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

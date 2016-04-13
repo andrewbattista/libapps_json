@@ -1,0 +1,54 @@
+{
+  "id": "11155373",
+  "name": "Canadian Heritage Information Network (CHIN)",
+  "description": "Allows you to search digital objects and other content related to the digital heritage of Canada. Includes Artifacts Canada Humanities which contains more than 3 million object records and 580,000 images from hundreds of museums across the country.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02233",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 23:52:36",
+  "slug_id": "635172",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155373",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155373",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/chin",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

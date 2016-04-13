@@ -1,0 +1,35 @@
+{
+  "id": "11155297",
+  "name": "Black Studies Center (ProQuest)",
+  "description": "Black Studies Center is a fully cross-searchable gateway to Black Studies including scholarly essays, recent periodicals, historical newspaper articles, the Schomburg Studies, and much more. It combines several resources for research and teaching in Black Studies: Schomburg Studies on the Black Experience, International Index to Black Periodicals (IIBP), historical black newspapers, and the Black Literature Index.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02304",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-06-09 17:59:40",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155297",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

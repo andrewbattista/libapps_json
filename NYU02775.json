@@ -1,0 +1,43 @@
+{
+  "id": "11155567",
+  "name": "Encyclopedia of Global Change",
+  "description": "Encompassing tsunamis, elephant conservation, ocean pollution, mining regulation, and permafrost melt, the 300 authoritative articles in this unique and wide-ranging encyclopedia investigate all types of phenomena that change life on Earth. The entries cover a range of general research categories: altered ecosystems, climate change, food and water supply, population, politics and global change, institutions and policies, biographies, and case studies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02775",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:23:49",
+  "slug_id": "662177",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155567",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/globalchange",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

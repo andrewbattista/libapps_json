@@ -1,0 +1,80 @@
+{
+  "id": "11155657",
+  "name": "GenderWatch",
+  "description": "A full text database of unique and diverse publications that focus on how gender impacts a broad spectrum of subject areas. Dates of coverage: 1970 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00759",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 21:38:51",
+  "slug_id": "635114",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155657",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155657",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155657",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11155657",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155657",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/genderwatch"
+}

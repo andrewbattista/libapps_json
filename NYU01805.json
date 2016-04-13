@@ -1,0 +1,153 @@
+{
+  "id": "11155129",
+  "name": "ABI/INFORM",
+  "description": "Indexes and abstracts articles from more than 1,000 leading business and management publications, including over 350 English-language titles from outside the United States. Provides in-depth coverage of business issues, management techniques, competitive information, and a variety of other topics. Dates of coverage: 1971 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01805",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 05:36:30",
+  "slug_id": "635096",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155129",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155129",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11155129",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155129",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155129",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155129",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155129",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11155129",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58945",
+      "site_id": "873",
+      "name": "Real Estate",
+      "ordering": "0",
+      "slug_id": "480962",
+      "subject_id": "58945",
+      "content_id": "11155129",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155129",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155129",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ABIInform",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

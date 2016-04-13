@@ -1,0 +1,35 @@
+{
+  "id": "11155800",
+  "name": "Joanna Briggs Institute EBP Database",
+  "description": "This comprehensive database covers a wide range of medical, nursing, and health science specialties and includes a unique suite of information that’s been analyzed, appraised, and prepared by expert reviewers at JBI so you can integrate the world’s best evidence into your practice: JBI is widely regarded as one of the world’s leading providers of evidence–based information from across the globe, as well as tools to help healthcare professionals implement an effective evidence–based practice program and provide the best possible patient care.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04719",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-09 19:29:40",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155800",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

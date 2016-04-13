@@ -1,0 +1,35 @@
+{
+  "id": "11155619",
+  "name": "FDsys: Federal Digital System",
+  "description": "The U.S. Government Printing Office (GPO) disseminates official information from all three branches of the Federal Government through FDsys.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00531",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-15 17:44:58",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11155619",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

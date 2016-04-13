@@ -1,0 +1,69 @@
+{
+  "id": "11155686",
+  "name": "GPO (OCLC)",
+  "description": "GPO contains bibliographic citations to United States federal government publications from 1976 to the present. Based on the Monthly Catalog of US Government Publications, GPO contains references to books, reports, studies, serials, maps, and other publications. Topics covered include finance, business, demographics, agriculture, medicine, public health, and more. The database contains over 400,000 fully indexed bibliographic records.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00160",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 00:02:55",
+  "slug_id": "652019",
+  "subjects": [
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11155686",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59190",
+      "site_id": "873",
+      "name": "Public Health",
+      "ordering": "0",
+      "slug_id": "480966",
+      "subject_id": "59190",
+      "content_id": "11155686",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11155686",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155686",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/GPO"
+}

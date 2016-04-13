@@ -1,0 +1,65 @@
+{
+  "id": "11156073",
+  "name": "Philosopher's Index",
+  "description": "Indexes and abstracts of scholarly research in all areas of philosophy. Includes journal articles, books, book chapters such as contributions to an anthology, and book reviews. Dates of coverage: 1940 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03389",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-11 18:20:25",
+  "slug_id": "651789",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11156073",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56181",
+      "site_id": "873",
+      "name": "Philosophy",
+      "ordering": "0",
+      "slug_id": "480976",
+      "subject_id": "56181",
+      "content_id": "11156073",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11156073",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/philosophersindex",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

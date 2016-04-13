@@ -1,0 +1,16 @@
+{
+  "id": "20695055",
+  "name": "Genetic Toxicology Data Bank (National Library of Medicine)",
+  "description": "Created by the Environmental Protection Agency, GeneTox is a toxicology data file containing genetic toxicology (mutagenicity) test data on over 3,000 chemicals. Data are derived from expert peer review of the open scientific literature. The database is searchable by chemical name or name fragment, other name, Chemical Abstracts Service Registry Number (RN), and/or subject terms. GeneTox is available from the National Library of Medicine's Toxicology Data Network, TOXNET.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05384",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

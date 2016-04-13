@@ -1,0 +1,46 @@
+{
+  "id": "11155629",
+  "name": "Film Literature Index",
+  "description": "Indexes 150 film and television periodicals from 30 countries cover-to-cover and 200 other periodicals selectively for articles on film and television. The periodicals range from the scholarly to the popular. Contains approximately 700,000 citations to articles, film reviews and book reviews published between 1976-2001.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02624",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:16:32",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155629",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155629",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

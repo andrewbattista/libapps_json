@@ -1,0 +1,76 @@
+{
+  "id": "11155939",
+  "name": "Netter's Online Dissection Modules",
+  "description": "This resource offers dissection videos, cross-sectional images, and three dimensional reconstructions.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04166",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:44:30",
+  "slug_id": "685151",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155939",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155939",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11155939",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11155939",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/dissectionmodules",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

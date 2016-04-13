@@ -1,0 +1,35 @@
+{
+  "id": "11156312",
+  "name": "Voprosy istorii: Complete Collection (EastView)",
+  "description": "The oldest Soviet and Russian academic history journal, Voprosy istorii (“Issues of History”) has offered scholarly perspectives on events in Russia and the world since 1926. Published by the Russian Academy of Sciences, this legendary journal covering Russian and world history was first published under the title Istorik-Marksist (Marxist Historian, 1926-1941), then Istoricheskii zhurnal (History Journal, 1937-1945) and finally under the present title (since 1945).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01929",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 19:41:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11156312",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

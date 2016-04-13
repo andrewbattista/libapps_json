@@ -1,0 +1,29 @@
+{
+  "id": "11155467",
+  "name": "Data Citation Index (Web of Science)",
+  "description": "Access an array of data across subjects and regions, providing a comprehensive picture of research output to understand data in context and maximize research efforts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04444",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0",
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155467",
+      "icon_id": "8403",
+      "custom_url": "http://images.webofknowledge.com/WOKRS5131R4.1/help/DRCI/hp_search.html"
+    }
+  ]
+}

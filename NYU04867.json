@@ -1,0 +1,42 @@
+{
+  "id": "11155143",
+  "name": "AccessPediatrics (McGraw-Hill)",
+  "description": "Covers the entire span of pediatric practice, from neonatology through adolescent medicine. Updated regularly and optimized for viewing on any device, this comprehensive online pediatric resource provides instant access to information essential for completing evaluation, diagnosis, and case management decisions, as well as for pursuing research or self-assessment and board review.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04867",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-15 11:34:52",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155143",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

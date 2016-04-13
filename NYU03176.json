@@ -1,0 +1,92 @@
+{
+  "id": "11156125",
+  "name": "PsycInfo via APA PsycNet",
+  "description": "APA PsycNET is a collection of databases from the American Psychological Association’s (APA) full-text databases, including PsycBOOKS,  and PsycCRITIQUES.  PsycARTICLES contains journals published by the APA and others in the areas of psychology, applied psychology, health, theory, research, social psychology and gray literature from newsletters, magazines, reports, brochures and other sources. PsycINFO is a bibliographic database of scholarly literature in the psychological, social, behavioral, and health sciences.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03176",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "more_info": "",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-15 11:45:42",
+  "slug_id": "635111",
+  "subjects": [
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11156125",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11156125",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56178",
+      "site_id": "873",
+      "name": "Psychology & Neuroscience",
+      "ordering": "0",
+      "slug_id": "480969",
+      "subject_id": "56178",
+      "content_id": "11156125",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156125",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156125",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/psycinfoAPA",
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "11155342",
+  "name": "Cambridge History of Judaism (via Cambridge Histories Online)",
+  "description": "Includes: Vol. 1 (Introduction; The Persian Period), Vol. 2. (The Cambridge History of Judaism), Vol. 3 (The Early Roman Period), and Vol. 4. (The Late Roman-Rabbinic Period).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03377",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28271",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-10 18:37:43",
+  "slug_id": "651791",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155342",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155342",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/cambridgejudaism",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

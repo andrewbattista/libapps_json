@@ -1,0 +1,29 @@
+{
+  "id": "11155636",
+  "name": "Foreign Broadcast Information Service (FBIS)",
+  "description": "Provides online access to the Foreign Broadcasting Information Service Daily Reports and Annexes from 1974-1996. These daily reports provide translations of news stories and broadcasts from various regions around the world. For post-1996 coverage, see World News Connection.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02626",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:47:15",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

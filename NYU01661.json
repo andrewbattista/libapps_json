@@ -1,0 +1,43 @@
+{
+  "id": "11156314",
+  "name": "Wall Street Journal (ProQuest)",
+  "description": "Provides full-text access to the Wall Street Journal. Dates of coverage: 1984 to present. NOTE: This is a text only database; does not provide PDF images of the newspaper.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01661",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:41:29",
+  "slug_id": "651577",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11156314",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/wallstreetjournal",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

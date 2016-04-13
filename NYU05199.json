@@ -1,0 +1,42 @@
+{
+  "id": "19657180",
+  "name": "The Jazz Discography Online (TJD Online)",
+  "description": "The Jazz Discography is the source of information about jazz records and jazz recording sessions. Recording sessions are listed by bandleader name and presented in chronological order. Session details include the titles of each tune recorded plus the names of all supporting musicians and the instrument(s) they played. The date and location of each recording plus matrix and record company release numbers are also shown.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05199",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51764",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 09:01:53",
+  "updated": "2016-02-18 09:01:53",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "19657180",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

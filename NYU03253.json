@@ -1,0 +1,64 @@
+{
+  "id": "11156039",
+  "name": "Oxford Encyclopedia of Theatre and Performance",
+  "description": "This encyclopedia provides authoritative and up-to-date information about theatre and performance from ancient Greek theatre to the latest developments in London, Paris, New York, and around the globe. In addition to performances in playhouses, it covers dance, opera, radio, film, television, and popular performance, including carnivals, circus, and public executions. Entries range from short definitions of terms to lengthy considerations of genres and movements, such as feminism and psychoanalytic criticism. Entries on cities and regions place performance in its local social and political context. Written in accessible language, this encyclopedia brings together an international cast of over 300 specialist contributors.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03253",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 18:34:00",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11156039",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11156039",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11156039",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

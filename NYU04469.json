@@ -1,0 +1,17 @@
+{
+  "id": "11156001",
+  "name": "Oxford Bibliographies Online: African Studies",
+  "description": "A combination of broad introductions to such subjects as African society, politics, or literature with specific studies of individual peoples, states, or literary traditions to enable the user to appreciate Africans’ distinctiveness as well as their diversity.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04469",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11156254",
+  "name": "The Literary Encyclopedia",
+  "description": "The Literary Encyclopedia is edited by a distinguished international board and owned collectively by its editors and writers. It is one of very few major publications in the world not owned by a corporation or major public institution.The vast majority of its contributors are practicing academics who teach the subjects they write about in universities across the world. The Literary Encyclopedia is emphatically not an amateur resource and it does not publish work by unqualified writers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01804",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

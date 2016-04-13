@@ -1,0 +1,54 @@
+{
+  "id": "11155555",
+  "name": "Encyclopedia Judaica (Via Gale Virtual Reference Library)",
+  "description": "Provides an exhaustive and organized overview of Jewish life and knowledge from the Second Temple period to the contemporary State of Israel, from Rabbinic to modern Yiddish literature, from Kabbalah to 'Americana' and from Zionism to the contribution of Jews to world cultures. 2nd Edition.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03374",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36968",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 19:30:51",
+  "slug_id": "635075",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155555",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155555",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/encyclopediajudaica",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

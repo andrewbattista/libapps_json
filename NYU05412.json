@@ -1,0 +1,16 @@
+{
+  "id": "20695081",
+  "name": "FIAF International Index to Film Periodicals Database (ProQuest)",
+  "description": "The International Federation of Film Archives (FIAF) brings together institutions dedicated to rescuing and preserving films. This database contains FIAF's Treasures from Film Archives; a detailed index of the silent-era film holdings of archives from around the world, a selection of Reference volumes and the linked full-text of over 60 journals.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05412",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

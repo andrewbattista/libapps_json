@@ -1,0 +1,16 @@
+{
+  "id": "20695054",
+  "name": "Hazardous Substances Data Bank (United States National Library of Medicine)",
+  "description": "HSDB focuses on the toxicology of potentially hazardous chemicals. Contents include information on human exposure, industrial hygiene, emergency handling procedures, environmental fate, and regulatory requirements. HSDB is peer-reviewed and is organized into individual chemical records.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05383",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

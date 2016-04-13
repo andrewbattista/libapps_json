@@ -1,0 +1,43 @@
+{
+  "id": "14615136",
+  "name": "Videatives",
+  "description": "Use videatives to see how children think, to see how to support their learning, and to see how to prepare environments that engage children in rich problem solving. You can use videatives to add authenticity to your lectures or clarity to your training sessions.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05226",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-08-03 18:54:49",
+  "updated": "2016-02-03 18:32:44",
+  "slug_id": "742538",
+  "subjects": [
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "14615136",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/videatives",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

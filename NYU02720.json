@@ -1,0 +1,17 @@
+{
+  "id": "11155677",
+  "name": "Global Insight",
+  "description": "IHS Global Insight provides economic, financial, and political coverage to support planning and decision making. Using a unique combination of expertise, models, data, and software within a common analytical framework, we cover over 200 countries and more than 170 industries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02720",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

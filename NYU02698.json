@@ -1,0 +1,17 @@
+{
+  "id": "11155860",
+  "name": "Louw-Nida Greek Lexicon",
+  "description": "A modern Greek lexicon using the concept of 'semantic domains.' Words are grouped by their meanings rather than arranged alphabetically. This format allows the user to easily distinguish between similar words, as well as identify overlapping word definitions. It also brings out the different meanings of a word in various contexts.**This resource is only accessible in Bobst Library. To use this resource, stop by the 5th floor Reference Center.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02698",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "11156199",
+  "name": "Simmons OneView",
+  "description": "Annual survey of 30,000 consumers, measuring 8,000 brands and 700 psychographic questions with 60,000 elements in all. Understand key demographic groups and all major media behaviors covering television, online, mobile, print, radio, social media and more. (Academic data is delayed two years.)",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04666",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-12-01 16:47:37",
+  "slug_id": "652488",
+  "subjects": [
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11156199",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/simmons",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "11450",
+      "site_id": "873",
+      "file": "videoicon.png",
+      "description": "Video instructions available",
+      "url": "",
+      "content_id": "11156199",
+      "icon_id": "11450",
+      "custom_url": "https://www.youtube.com/watch?v=-_B7cIphJ-A&feature=youtu.be"
+    }
+  ]
+}

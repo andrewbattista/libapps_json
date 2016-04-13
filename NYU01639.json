@@ -1,0 +1,54 @@
+{
+  "id": "11155512",
+  "name": "Early American Imprints, Series II. Shaw-Shoemaker, 1801-1819",
+  "description": "Search or browse the books, pamphlets, broadsides and other imprints listed in the distinguished bibliography by Ralph R. Shaw and Richard H. Shoemaker. 1801-1819",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01639",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-14 19:20:09",
+  "slug_id": "654300",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155512",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155512",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/earlyamericanimprintsII",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

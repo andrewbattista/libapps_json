@@ -1,0 +1,16 @@
+{
+  "id": "20695028",
+  "name": "Music Online: Popular Music Library",
+  "description": "Music Online: Popular Music Library contains a wide range of popular music from around the world, including hundreds of thousands of tracks from major genres in pop music, including alternative, country, Christian, electronic, hip-hop, metal, punk, new age, R&B, reggae, rock, soundtracks and many more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05237",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28929",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

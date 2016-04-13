@@ -1,0 +1,17 @@
+{
+  "id": "11155541",
+  "name": "EIU Market Indicators and Forecasts",
+  "description": "A powerful and comprehensive database of industries, demographics, consumption, average wages, income levels, market size, infrastructure and the business environment data on 60 key countries worldwide. Contains over 500 series stretching back to 1990 and forward five years.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02714",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

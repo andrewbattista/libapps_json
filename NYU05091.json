@@ -1,0 +1,17 @@
+{
+  "id": "11155959",
+  "name": "Newswires (EBSCO)",
+  "description": "EBSCO's Newswires provides near real-time access to top world-wide news from Associated Press, United Press International, PR Newswire, Xinhua, CNN Wire, and Business Wire on a continuous basis. This collection includes AP Financial News, AP Top News, AP WorldStream, AP U.S. Politics & Government, AP 50 State Reports, UPI Security Industry, UPI Emerging Threats, UPI Business, UPI Entertainment, UPI Sports, UPI Top News, Arabia 2000, and more. The index to the full text content in EBSCO Newswires is held for a rolling 30-day archive, so users can enjoy the previous 30 days of news relating to their search interests.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05091",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

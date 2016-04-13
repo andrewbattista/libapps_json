@@ -1,0 +1,36 @@
+{
+  "id": "17749828",
+  "name": "Institutional Investor Journals",
+  "description": "Institutional Investor, Inc.'s Journals are quarterly publications offering in-depth, original and practical research in global investment and finance with an extensive online archive.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05502",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-01 16:07:53",
+  "updated": "2016-04-05 14:42:42",
+  "slug_id": "777364",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17749828",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/iij"
+}

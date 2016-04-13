@@ -1,0 +1,42 @@
+{
+  "id": "11155566",
+  "name": "Encyclopedia of Food Sciences and Nutrition (via ScienceDirect)",
+  "description": "Contains entries covering the physics and chemistry of food; food production and processing techniques; quality and control and legislation; biotechnology in the food industry; role of nutrition in health and disease and the physiological and biochemical aspects of nutrition. Bibliographies; subject index",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03262",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-12-25 22:42:12",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11155566",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

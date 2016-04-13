@@ -1,0 +1,29 @@
+{
+  "id": "11155194",
+  "name": "American Historical Association's Archives Wiki",
+  "description": "Archives Wiki is sponsored by the American Historical Association. It is intended to be a clearinghouse of information about archival resources throughout the world.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03043",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-15 07:18:04",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

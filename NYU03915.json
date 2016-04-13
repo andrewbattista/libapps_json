@@ -1,0 +1,54 @@
+{
+  "id": "11156055",
+  "name": "Paley Center Seminars",
+  "description": "The Paley Center Seminars is an exclusive video collection of interviews with celebrities, television crews, and distinguished panels. It includes 300 filmed seminars from the acclaimed series held by The Paley Center for Media. These lively discussions feature the leading names in media discussing the creative process, contemporary issues in production, and issues such as the impact of the media on contemporary society. Topics covered range from presidential advertising campaigns to reality shows, from the writing process of “The Wire” and “Heroes” to Madeline Albright and Henry Kissinger on the media and foreign policy.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03915",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 19:16:02",
+  "slug_id": "652507",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11156055",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11156055",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/paleycenter",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "11155483",
+  "name": "Dictionary of Irish Biography",
+  "description": "The Dictionary of Irish Biography, a collaborative project between Cambridge University Press and the Royal Irish Academy, contains over 9,000 signed biographical articles which describe and assess the careers of subjects in all fields of endeavor, including politics, law, religion, literature, journalism, architecture, painting, music, the stage, science, medicine, engineering, entertainment and sport.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03768",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28271",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 01:37:31",
+  "slug_id": "652049",
+  "subjects": [
+    {
+      "id": "59305",
+      "site_id": "873",
+      "name": "Irish & Irish American Studies",
+      "ordering": "0",
+      "slug_id": "480999",
+      "subject_id": "59305",
+      "content_id": "11155483",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/dib",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

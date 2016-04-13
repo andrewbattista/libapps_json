@@ -1,0 +1,29 @@
+{
+  "id": "11156322",
+  "name": "Who's Who in the Classical World",
+  "description": "Focusing exclusively on real people, this is a dictionary of ancient biography, covering Greek and Roman history and politics, literature, philosophy, science, and art. Shorter entries provide lucid factual accounts, while the longer entries are short essays covering major historical and cultural themes in antiquity, centred round individuals as varied as Herodotus, Socrates, Plato, Alexander the Great, and Augustus.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02250",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:05:55",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

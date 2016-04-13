@@ -1,0 +1,53 @@
+{
+  "id": "11155582",
+  "name": "Encyclopedia of the Human Brain (via ScienceDirect)",
+  "description": "Contains clearly over 200 peer-reviewed articles related to the human brain. Covers anatomy, physiology, neuropsychology, clinical neurology, neuropharmacology, evolutionary biology, genetics, and behavioral science.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03260",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:48:46",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155582",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11155582",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11156201",
+  "name": "Sixties: Primary Documents and Personal Narratives 1960 - 1974",
+  "description": "This full text resource consists of diaries, letters, autobiographies and other memoirs, written and oral histories, manifestos, government documents, memorabilia, and scholarly commentary. With 150,000 pages of material at completion, this searchable collection is a resource for students and scholars researching this period in American history, culture, and politics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03925",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-10 01:32:41",
+  "slug_id": "651713",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11156201",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sixties"
+}

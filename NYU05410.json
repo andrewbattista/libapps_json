@@ -1,0 +1,16 @@
+{
+  "id": "20695079",
+  "name": "Johns Hopkins ABX Guide",
+  "description": "Produced by the Division of Infectious Diseases at Johns Hopkins to provide clinicians with concise, timely information about diagnosis and treatment of infectious diseases. There are two main parts of the site: the antibiotic database, accessed by searching on diagnosis, drug name, or pathogen, and the browsable areas, which include news, features, and other types of additional readings and information.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05410",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

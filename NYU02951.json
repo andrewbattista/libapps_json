@@ -1,0 +1,43 @@
+{
+  "id": "11155248",
+  "name": "Association of Religion Data Archives (ARDA)",
+  "description": "Provides access to data on religion. Founded as the American Religion Data Archive in 1997 and going online in 1998, the initial archive was targeted at researchers interested in American religion. The targeted audience and the data collection have both greatly expanded since 1998, now including American and international collections and developing features for educators, journalists, religious congregations, and researchers. Data included in the ARDA are submitted by the foremost religion scholars and research centers in the world. Currently housed in the Social Science Research Institute, the College of Liberal Arts, and the Department of Sociology at the Pennsylvania State University, the ARDA is funded by the Lilly Endowment, the John Templeton Foundation and the Pennsylvania State University.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02951",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-10 02:16:39",
+  "slug_id": "651740",
+  "subjects": [
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155248",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ARDA",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "11155246",
+  "name": "ASME Digital Collection",
+  "description": "Founded in 1880 as the American Society of Mechanical Engineers, today's ASME,conducts one of the world's largest technical publishing operations. The ASME Digital Collection includes ASME Transaction Journals, Conference Proceedings and ASME Press ebooks.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01021",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-13 22:41:58",
+  "slug_id": "0"
+}

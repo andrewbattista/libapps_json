@@ -1,0 +1,54 @@
+{
+  "id": "11155449",
+  "name": "CRCnetBASE",
+  "description": "Professional and technical books in chemistry, engineering, materials science, environmental science, mathematics, statistics, food science, forensic science, law enforcement, information security, neuroscience, nanoscience and nanotechnology.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01104",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:01:12",
+  "slug_id": "662148",
+  "subjects": [
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "11155449",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59311",
+      "site_id": "873",
+      "name": "Mathematics",
+      "ordering": "0",
+      "slug_id": "780803",
+      "subject_id": "59311",
+      "content_id": "11155449",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/crcnetbase",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

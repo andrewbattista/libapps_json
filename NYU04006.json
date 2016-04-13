@@ -1,0 +1,65 @@
+{
+  "id": "11155262",
+  "name": "BBC Shakespeare Plays",
+  "description": "The BBC Shakespeare Plays collection captures the television adaptions of Shakespeare's plays that were a defining moment in British television history. Filmed between 1978 and 1985, the full-length productions are traditional interpretations of the plays set in either Shakespeare's own time (1564 to 1616) or in the historical period of the events depicted (such as ancient Rome for Julius Caesar, or c1400 for Richard II etc). This series features one of the greatest casts ever assembled with actors from both stage and screen including notable classical actors such as John Gielgud, Patrick Stewart, Anthony Hopkins, Bob Hoskins, Jane Lapotaire and Helen Mirren.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04006",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 22:16:20",
+  "slug_id": "635125",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155262",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155262",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155262",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/BBCshakespeare",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

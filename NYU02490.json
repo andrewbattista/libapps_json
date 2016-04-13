@@ -1,0 +1,29 @@
+{
+  "id": "11156140",
+  "name": "RefWorks",
+  "description": "RefWorks is a free (to the NYU community) Web-based program you can use to organize your research. Enter citations as you work, import references retrieved from online bibliographic databases into your RefWorks database and create bibliographies in a variety of formats. Your RefWorks bibliographies are stored on the RefWorks server and are available from any computer with Internet access. For more on RefWorks, see: http://guides.nyu.edu/refworks/",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02490",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 10:27:53",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

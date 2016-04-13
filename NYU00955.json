@@ -1,0 +1,102 @@
+{
+  "id": "11155853",
+  "name": "Literature Criticism Online",
+  "description": "Literature Criticism Online brings together 10 acclaimed multidisciplinary series representing a range of modern and historical views on authors and their works across regions, eras and genres.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00955",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-18 12:26:23",
+  "slug_id": "634072",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155853",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155853",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155853",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155853",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155853",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155853",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155853",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/literaturecriticismonline"
+}

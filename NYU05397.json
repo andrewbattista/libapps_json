@@ -1,0 +1,16 @@
+{
+  "id": "20695067",
+  "name": "Nucleotide (NCBI)",
+  "description": "The Nucleotide database is a collection of genome, gene and transcript sequence data from several sources, including GenBank, RefSeq, TPA and PDB.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05397",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

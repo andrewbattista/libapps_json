@@ -1,0 +1,43 @@
+{
+  "id": "11156172",
+  "name": "SAGE Stats",
+  "description": "SAGE Stats is a data visualization and research platform hosting extensive social science data collections. The data collections contain data series based on time and geography. All of the data series are standardized and normalized allowing you to find, compare, visualize, and export. SAGE Stats currently hosts two data collections: State Stats and Local Stats. These data collections contain data from more than 100 different government and non-government sources to create a rich collection of more than 6,000 current and historical data series on high-interest research topics. Dating back more than 20 years, each data series is displayed in a clear and consistent format with detailed source information.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04929",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-16 21:03:43",
+  "slug_id": "656797",
+  "subjects": [
+    {
+      "id": "56191",
+      "site_id": "873",
+      "name": "Social Sciences",
+      "ordering": "0",
+      "slug_id": "480951",
+      "subject_id": "56191",
+      "content_id": "11156172",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sagestats",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

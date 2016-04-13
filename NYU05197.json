@@ -1,0 +1,42 @@
+{
+  "id": "11762301",
+  "name": "British Online Archives (Microform Academic Publishers)",
+  "description": "Contains a wide range of archival contents related to British history within the humanities and social sciences",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05197",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-06-03 04:40:04",
+  "updated": "2015-06-03 04:40:04",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56197",
+      "site_id": "873",
+      "name": "Special Collections",
+      "ordering": "0",
+      "slug_id": "480942",
+      "subject_id": "56197",
+      "content_id": "11762301",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10181,
+      "name": "Audio Collections",
+      "site_id": 873
+    }
+  ]
+}

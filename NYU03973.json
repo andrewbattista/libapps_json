@@ -1,0 +1,35 @@
+{
+  "id": "17791376",
+  "name": "Global ADR (CCH)",
+  "description": "This resource provides access to tax, accounting, legal and business resources.Practice areas available include advertising & marketing law, banking, capital changes, computer & internet law, environmental compliance, government contracts, tax & accounting, and more.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU03973",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51751",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-02 21:40:16",
+  "updated": "2015-12-02 21:40:16",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17791376",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

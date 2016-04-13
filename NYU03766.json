@@ -1,0 +1,48 @@
+{
+  "id": "11155321",
+  "name": "Brill Online Reference Works",
+  "description": "Brill Online is a searchable suite of databases. NYU's subscription includes the following: Brill's New Pauly, Der Neue Pauly, Encyclopaedia of Islam, First Edition, Encyclopaedia of Islam, Second Edition, Encyclopaedia of Islam, THREE, Encyclopaedia of the Quran, Encyclopedia of Women & Islamic Cultures, Brockelmann Online, Encyclopedia of Arabic Language and Linguistics and Encyclopedia of Jews in the Islamic World.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03766",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 22:19:32",
+  "slug_id": "685125",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155321",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/brillreference",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

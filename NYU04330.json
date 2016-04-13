@@ -1,0 +1,36 @@
+{
+  "id": "11156260",
+  "name": "The Victorian Web",
+  "description": "The Victorian Web presents images and documents, including entire books, as nodes in a network of complex connections. Its purpose is to emphasizes the link rather than the search.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04330",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-18 15:30:54",
+  "slug_id": "634222",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11156260",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/victorianweb"
+}

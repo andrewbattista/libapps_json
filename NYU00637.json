@@ -1,0 +1,47 @@
+{
+  "id": "11155419",
+  "name": "Compendex (Ei Village 2)",
+  "description": "Provides information research tools specifically focused on the content and intelligence that engineering researchers need to stay informed. With Compendex, a database of comprehensive interdisciplinary engineering records referencing 5,000 engineering journals and conference materials dating from 1884.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00637",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-13 22:50:29",
+  "slug_id": "678463",
+  "subjects": [
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11155419",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155419",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/compendex"
+}

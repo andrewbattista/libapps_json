@@ -1,0 +1,42 @@
+{
+  "id": "11156038",
+  "name": "Oxford Encyclopedia of Food and Drink in America",
+  "description": "The Oxford Encyclopedia of Food and Drink in America covers the significant events, inventions, and social movements in American history that have affected the way Americans view, prepare, and consume food and drink.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03263",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:04:10",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11156038",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

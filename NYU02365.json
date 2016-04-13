@@ -1,0 +1,29 @@
+{
+  "id": "11155881",
+  "name": "Masters of Architecture",
+  "description": "Contains colour images of buildings and architectural features. It has been digitised from the original collection of 58 slide sets which were published between the mid 1980s and 2003.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02365",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:22:50",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

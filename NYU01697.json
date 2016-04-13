@@ -1,0 +1,29 @@
+{
+  "id": "11155213",
+  "name": "AP Images",
+  "description": "An electronic library containing the Associated Press' current year's photo report and a selection of images from their negative and print library dating from the 1500s. Today, the Archive contains 700,000 photos, most of which are contemporary images made since late 1995, and grows daily as hundreds of new photos enter the Archive from AP's worldwide picture report. Photos may be downloaded or printed.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01697",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 07:22:10",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

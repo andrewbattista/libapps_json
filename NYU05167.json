@@ -1,0 +1,16 @@
+{
+  "id": "20695004",
+  "name": "Film Industry Data (Film ID)",
+  "description": "Film Industry Data is a proven way of gathering information about film trends and the impact of film across countries and cultures. Data sets backed by exclusive data from Nielsen include rankings, unit sales in all formats (VHS, DVD and Blu Ray), Full contributor list (Director, Stars, Producer, Composer, Camera, Lighting), and theatrical box office.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05167",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "44697",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

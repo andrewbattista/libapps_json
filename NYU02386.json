@@ -1,0 +1,54 @@
+{
+  "id": "11156243",
+  "name": "TableBase",
+  "description": "Indexes and provides access to tables from various publications. Examples of topics covered include: market share, market size, capacity, production, imports, exports, sales, product and brand rankings, forecasts, healthcare statistics and demographics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02386",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 20:17:10",
+  "slug_id": "651576",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11156243",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156243",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/tablebase",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

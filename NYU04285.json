@@ -1,0 +1,17 @@
+{
+  "id": "11156256",
+  "name": "The National Review Archive (EBSCO)",
+  "description": "This American magazine began in 1955 and was founded by William F. Buckley Jr. The magazine consists of editorial commentary on critical issues. This database offers complete indexing, abstracting, and full text coverage for all issues of the journal back to the first issue in 1955 through the present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04285",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

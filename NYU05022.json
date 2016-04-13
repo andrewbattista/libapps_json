@@ -1,0 +1,29 @@
+{
+  "id": "11156127",
+  "name": "PUNCH Historical Archive 1841-1992 (Gale)",
+  "description": "Provides the fully text searchable online archive of Punch magazine. The archive a resource for researching and teaching 19th and 20th century political and social history on key themes such as World War I and World War II; Wars and Conflicts; Colonialism, Imperialism and End of Empire; Impact of New Technology and Modernity; Public Health, Conservation and Environmentalism; Social Change; and The Role of Women.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05022",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 10:18:55",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

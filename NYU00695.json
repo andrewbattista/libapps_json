@@ -1,0 +1,47 @@
+{
+  "id": "11155130",
+  "name": "ABSEES: American Bibliography of Slavic and East European Studies (EBSCO)",
+  "description": "Indexes journals, books, dissertations, online resources and selected government publications published in the U.S. and Canada. Covers East-Central Europe and the former Soviet Union. Subjects covered include: anthropology, culture & the arts, economics, education, and geography. Dates of coverage: 1939 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00695",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 19:23:03",
+  "slug_id": "652511",
+  "subjects": [
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "11155130",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11155130",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/absees"
+}

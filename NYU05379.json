@@ -1,0 +1,16 @@
+{
+  "id": "20695050",
+  "name": "5-Minute Clinical Consult",
+  "description": "A comprehensive encyclopedia detailing over 1,400 medical topics, medications, and medical algorithms.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05379",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "11155133",
+  "name": "Academic Search Complete (EBSCO)",
+  "description": "Academic Source Complete is a multi-disciplinary full-text database with full text coverage of information in many areas of academic study including: animal science, anthropology, area studies, astronomy, biology, chemistry, civil engineering, electrical engineering, ethnic & multicultural studies, food science & technology, general science, geography, geology, law, materials science, mathematics, mechanical engineering, music, pharmaceutical sciences, physics, psychology, religion & theology, veterinary science, zoology, and other fields.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04067",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "more_info": "",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 22:50:39",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155133",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155133",
+      "icon_id": "8403",
+      "custom_url": "http://support.ebsco.com/help/?int=ehost&lang=en&feature_id=none&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=live&dbs="
+    }
+  ]
+}

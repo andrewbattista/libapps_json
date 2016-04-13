@@ -1,0 +1,29 @@
+{
+  "id": "11156265",
+  "name": "Times Digital Archive (London)",
+  "description": "Provides full-text access to back issues of The Times newspaper. Dates of coverage: 1785 to 2006.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01051",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 10:13:53",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

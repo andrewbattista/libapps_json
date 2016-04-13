@@ -1,0 +1,35 @@
+{
+  "id": "11155875",
+  "name": "Manuscript Women's Letters and Diaries",
+  "description": "Manuscript Women's Letters and Diaries from the American Antiquarian Society brings together 105,000 pages of the personal writings of women of the 18th, 19th, and 20th centuries, displayed as high-quality images of the original manuscripts, Semantically Indexed and online for the first time. The collection is drawn entirely from the extensive holdings of the American Antiquarian Society.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05026",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:09:37",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155875",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

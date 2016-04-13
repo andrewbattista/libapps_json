@@ -1,0 +1,17 @@
+{
+  "id": "11155353",
+  "name": "CBCA Complete",
+  "description": "Canadian Business & Current Affairs(CBCA) Complete is the nation's largest and most comprehensive bibliographic full-text reference and current events database. CBCA Complete combines full text and indexed content from all four CBCA database subsets (Business, Current Events, Education, and Reference). Subject coverage is comprehensive and information is available from the broadest range of Canadian sources.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03755",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

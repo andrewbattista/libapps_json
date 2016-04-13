@@ -1,0 +1,36 @@
+{
+  "id": "11156259",
+  "name": "Sol and Evelyn Henkind Talmud Text Data Bank",
+  "description": "The Sol and Evelyn Henkind Talmud Text Data Bank includes the full text of all manuscript versions and first-printed editions of the Babylonian Talmud, with sophisticated search capabilities. The computerized database provides scholars with the means to analyze the literary and stylistic features throughout the breadth and depth of the entire Talmud in its many versions. Thousands of high-resolution images of the manuscript fragments are provided to aid in in-depth study, including images of hundreds of ancient Mishnah fragments.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04552",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 19:13:52",
+  "slug_id": "635066",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11156259",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/talmuddatabank"
+}

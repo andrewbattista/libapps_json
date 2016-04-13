@@ -1,0 +1,36 @@
+{
+  "id": "11156344",
+  "name": "World Shakespeare Bibliography Online",
+  "description": "The World Shakespeare Bibliography Online is a searchable electronic database consisting of the most comprehensive record of Shakespeare-related scholarship and theatrical productions published or produced worldwide between 1961 and 2009. Containing over 120,860 annotated entries, this collected information is an essential tool for anyone engaged in research on Shakespeare or early modern England.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02596",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 22:17:35",
+  "slug_id": "635126",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11156344",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/worldshakespeare"
+}

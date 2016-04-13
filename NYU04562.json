@@ -1,0 +1,43 @@
+{
+  "id": "11155515",
+  "name": "Early European Books",
+  "description": "Early European Books Online encompasses European printed material, and material printed in European languages, from the early modern period. The contents are drawn from major repositories including the Danish Royal Library, the National Central Library in Florence, the National Library of France, the National Library of the Netherlands, and the Wellcome Library in London. The works encompass all the major fields of human endeavor, including science, medicine, philosophy, theology, literature, history, political science, travel and exploration. The database features full-color, high-resolution (400 ppi) facsimile images scanned directly from the original printed sources. Each book has been captured in its entirety, complete with its binding, edges, endpapers, blank pages and any loose inserts, providing scholars with a wealth of information about the physical characteristics and provenance histories of the original artifacts. The database also allows users to search for and zoom in on specific pages that feature illuminated lettering, marginalia, maps, portraits or other graphic features.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04562",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "more_info": "",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:55:28",
+  "slug_id": "662198",
+  "subjects": [
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155515",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/earlyeuropeanbooksonline",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

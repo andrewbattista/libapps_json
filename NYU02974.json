@@ -1,0 +1,92 @@
+{
+  "id": "11155249",
+  "name": "ASTM International Digital Library",
+  "description": "ASTM International is one of the largest voluntary standards development organizations in the world-a trusted source for technical standards for materials, products, systems, and services. Known for their high technical quality and market relevancy, ASTM International standards have an important role in the information infrastructure that guides design, manufacturing and trade in the global economy.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02974",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-12 14:35:03",
+  "slug_id": "676545",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155249",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11155249",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11155249",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155249",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155249",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ASTM",
+  "icons": [
+    {
+      "id": "11450",
+      "site_id": "873",
+      "file": "videoicon.png",
+      "description": "Video instructions available",
+      "url": "",
+      "content_id": "11155249",
+      "icon_id": "11450",
+      "custom_url": "http://compass.astm.org/SUPPORT/video-tutorials.html"
+    }
+  ]
+}

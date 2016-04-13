@@ -1,0 +1,17 @@
+{
+  "id": "11155666",
+  "name": "Geolytics Neighborhood Change Database",
+  "description": "Neighborhood Change Database (NCDB) gives users access to US Census data from 1970, 1980, 1990, 2000, and 2010 at the census tract level, with the additional option to access data for all four decades normalized to 2010 tract boundaries. This lets you view and display data as if the 2010 tracts existed and all the data is weighted to these areas. Variables include population, household, and housing characteristics, income, poverty status, education level, employment, housing costs, immigration, and others. Export data as dbf, ASCII, shapefile, or mid/mif files.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04276",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

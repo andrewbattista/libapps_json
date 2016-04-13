@@ -1,0 +1,17 @@
+{
+  "id": "11155664",
+  "name": "Geolytics CensusCD 1990 long form",
+  "description": "Complete 1990 Census Long Form (STF3) census data, plus a built-in mapping function. Includes about 3500 variables and 11 boundaries such as tracts, block groups, zip codes, MSA and more. Export data as dbf, ASCII, shapefile, or mid/mif files.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04274",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11156262",
+  "name": "Thieme eJournals",
+  "description": "The online journal service of the Thieme Publishing Group provides access to medical and scientific journals.Access to both current and back-files is available.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03295",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

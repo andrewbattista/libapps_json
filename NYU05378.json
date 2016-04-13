@@ -1,0 +1,16 @@
+{
+  "id": "20695049",
+  "name": "Dietary Supplement Label Database (United States National Library of Medicine)",
+  "description": "The Dietary Supplement Label Database (DSLD) is a joint project of the National Institutes of Health (NIH) Office of Dietary Supplements (ODS) and National Library of Medicine (NLM). The DSLD contains the full label contents from a sample of dietary supplement products marketed in the U.S.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05378",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

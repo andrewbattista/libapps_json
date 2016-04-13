@@ -1,0 +1,35 @@
+{
+  "id": "11155866",
+  "name": "Making of Modern Law : U.S. Supreme Court Records and Briefs, 1832-1978",
+  "description": "This full text resource includes transcripts, applications for review, motions, petitions, supplements and other official papers of the most-studied and talked-about cases, including many that resulted in landmark decisions. It serves the needs of students and researchers in American legal history, politics, society and government, as well as practicing attorneys.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03867",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-21 00:51:48",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11155866",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "11155563",
+  "name": "Encyclopedia of Ecotourism (via ebrary)",
+  "description": "Provides information on the ecotourism sector from the perspective of academic experts and practitioners from around the world. It contains 41 chapters that combine theory and practice in a complementary way. Includes definitions, regional perspectives, venues, impacts, planning and management considerations, and issues associated with ecotourism businesses, research and training.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02774",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:24:13",
+  "slug_id": "662178",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155563",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ecotourism",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

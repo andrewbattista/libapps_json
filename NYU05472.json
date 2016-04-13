@@ -1,0 +1,16 @@
+{
+  "id": "20695091",
+  "name": "Environmental Health and Toxicology Information Program (TEHIP)",
+  "description": "The National Library of Medicine (NLM) Toxicology and Environmental Health Information Program (TEHIP) evolved from the Toxicology Information Program (TIP) that was established in 1967 at the (NLM) in response to recommendations made in the 1966 report \"Handling of Toxicological Information,\" prepared by the President's Science Advisory Committee.####TEHIP maintains a comprehensive web site that provides access to resources produced by it and by other government agencies and organizations. This web site includes links to databases, bibliographies, tutorials, and other scientific and consumer-oriented resources. TEHIP also is responsible for the Toxicology Data Network (TOXNET), an integrated system of toxicology and environmental health databases that are available free of charge on the web.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05472",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

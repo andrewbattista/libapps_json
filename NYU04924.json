@@ -1,0 +1,29 @@
+{
+  "id": "11156122",
+  "name": "Psychological Experiments Online (Alexander Street Press)",
+  "description": "Psychological Experiments Online pairs audio and video recordings of quintessential experiments in psychology with thousands of pages of primary-source documents. It's packed with exclusive and hard-to-find materials, including notes from experiment participants, journal articles, books, field notes, and final reports in topics from obedience to authority and conformity to operant conditioning.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04924",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-15 11:44:54",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

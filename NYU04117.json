@@ -1,0 +1,48 @@
+{
+  "id": "11156023",
+  "name": "Oxford Bibliographies Online: Philosophy",
+  "description": "Authoritative research guides to the current scholarship in philosophy.  Articles feature bibliographies,  high-level encyclopedic content, commentary and annotations by top scholars.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04117",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-11 23:08:31",
+  "slug_id": "676313",
+  "subjects": [
+    {
+      "id": "56181",
+      "site_id": "873",
+      "name": "Philosophy",
+      "ordering": "0",
+      "slug_id": "480976",
+      "subject_id": "56181",
+      "content_id": "11156023",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/oxfordbibliographiesonlinephilosopy",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    },
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

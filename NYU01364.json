@@ -1,0 +1,17 @@
+{
+  "id": "11156175",
+  "name": "Schomburg Studies on the Black Experience (ProQuest)",
+  "description": "This searches the complete contents of Schomburg Studies on the Black Experience, a unique database detailing the rich tapestry of the African experience throughout the Americas. It comprises interdisciplinary essays written by leading scholars on the Black Experience accompanied by a timeline, images, video clips, reference works and other selected research materials.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01364",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

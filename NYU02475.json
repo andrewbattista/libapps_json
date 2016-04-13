@@ -1,0 +1,36 @@
+{
+  "id": "11155825",
+  "name": "Latino American Experience",
+  "description": "A full-text digital resource exploring the history and culture of U.S. Latinos. Focuses on the history and culture of Latinos living in the United States. Its content spans from the pre-Columbian Indigenous civilizations of the Americas, through the Spanish and Mexican settlement of much of what is now the United States, to the triumphs and challenges facing present-day U.S. Latinos.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02475",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:20:25",
+  "slug_id": "673783",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11155825",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/latinoamericanexperience"
+}

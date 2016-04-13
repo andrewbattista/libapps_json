@@ -1,0 +1,35 @@
+{
+  "id": "11156356",
+  "name": "Zoological Record (Web of Science)",
+  "description": "Zoological Record is the world's oldest continuing database of animal biology. It is considered the world's leading taxonomic reference, and with coverage back to 1864, has long acted as the world's unofficial register of animal names. The broad scope of coverage ranges from biodiversity and the environment to taxonomy and veterinary sciences.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04052",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:50:16",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11156356",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

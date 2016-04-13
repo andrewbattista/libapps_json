@@ -1,0 +1,54 @@
+{
+  "id": "11155857",
+  "name": "Loeb Classical Library",
+  "description": "The Loeb Classical Library presents an interconnected, fully searchable, virtual library of Greek and Latin literature. The collection contains epic and lyric poetry; tragedy and comedy; history, travel, philosophy, and oratory; the great medical writers and mathematicians; and, those Church Fathers who made particular use of pagan culture.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05106",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-04-05 02:14:42",
+  "slug_id": "790145",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11155857",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79675",
+      "site_id": "873",
+      "name": "Hellenic Studies",
+      "ordering": "0",
+      "slug_id": "780802",
+      "subject_id": "79675",
+      "content_id": "11155857",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/loeb",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

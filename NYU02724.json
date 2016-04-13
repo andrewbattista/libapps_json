@@ -1,0 +1,36 @@
+{
+  "id": "11155698",
+  "name": "Hapi Online- Hispanic American Periodicals Index",
+  "description": "The Hispanic American Periodicals Index (HAPI) is your source for over 275,000 journal article citations about Central America, South America, the Caribbean, Mexico, Brazil, and Hispanics/Latinos in the United States. HAPI currently provides over 60,000 links to the full text of articles appearing in more than 600 key social science and humanities journals published throughout the world.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02724",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:07:34",
+  "slug_id": "673767",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11155698",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/Hapionline"
+}

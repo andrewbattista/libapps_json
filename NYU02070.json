@@ -1,0 +1,35 @@
+{
+  "id": "11155710",
+  "name": "Hispanic American Historical Review",
+  "description": "The Hispanic American Historical Review pioneered the study of Latin American history and culture in the United States and remains the most widely respected journal in the field. HAHR's comprehensive book review section provides commentary, ranging from brief notices to review essays, on every facet of scholarship on Latin American history and culture. Regular notices of the activities of the Conference on Latin American History appear in the journal.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02070",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:18:09",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11155710",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

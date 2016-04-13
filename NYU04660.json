@@ -1,0 +1,29 @@
+{
+  "id": "11156142",
+  "name": "Rehabilitation Therapy in Video",
+  "description": "Rehabilitation Therapy in Video is the largest and richest streaming video resource ever assembled for the study of occupational therapy, physical/physiotherapy, and speech-language pathology. The collection allows students and faculty to easily find, cite, and share footage of top clinicians and academics explaining the underlying anatomical and neurological issues in specific patient populations, while demonstrating effective techniques and methods for their treatment.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04660",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-15 11:42:12",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

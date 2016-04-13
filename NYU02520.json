@@ -1,0 +1,17 @@
+{
+  "id": "11155695",
+  "name": "Gutenberg-e",
+  "description": "These award winning monographs, coordinated with the American Historical Association, afford emerging scholars new possibilities for online publications, weaving traditional narrative with digitized primary sources, including maps, photographs, and oral histories.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02520",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

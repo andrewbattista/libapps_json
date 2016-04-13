@@ -1,0 +1,135 @@
+{
+  "id": "11155149",
+  "name": "ACM Digital Library",
+  "description": "Full text of every article ever published by Association for Computing Machinery (ACM)",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00676",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:12:22",
+  "slug_id": "651488",
+  "subjects": [
+    {
+      "id": "59272",
+      "site_id": "873",
+      "name": "Astronomy",
+      "ordering": "0",
+      "slug_id": "480948",
+      "subject_id": "59272",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11155149",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59311",
+      "site_id": "873",
+      "name": "Mathematics",
+      "ordering": "0",
+      "slug_id": "780803",
+      "subject_id": "59311",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59312",
+      "site_id": "873",
+      "name": "Statistics",
+      "ordering": "0",
+      "slug_id": "480941",
+      "subject_id": "59312",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155149",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/acm"
+}

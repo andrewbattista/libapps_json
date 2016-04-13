@@ -1,0 +1,17 @@
+{
+  "id": "11155309",
+  "name": "Bodleian Library Pre-1920 Catalogue of Printed Books",
+  "description": "A CD-ROM catalogue of all printed works in European languages and scripts published before 1920 and acquired by the Bodleian Library in Oxford before 1989. **This resource is only accessible in Bobst Library. To use this resource, stop by the 5th floor Reference Center.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU02675",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

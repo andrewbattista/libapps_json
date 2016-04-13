@@ -1,0 +1,65 @@
+{
+  "id": "11155144",
+  "name": "AccessScience",
+  "description": "AccessScience contains articles illustrations, graphics, and animations from the McGraw-Hill Encyclopedia of Science & Technology 10th edition, the McGraw-Hill Yearbooks of Science & Technology, the McGraw-Hill Dictionary of Scientific and Technical Terms, and the Hutchinson Dictionary of Scientific Biography. It also provides access to science in technology news from Science News and ScienCentral videos.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02259",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-24 10:25:18",
+  "slug_id": "662180",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155144",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155144",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11155144",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/accessscience",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

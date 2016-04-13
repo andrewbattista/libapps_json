@@ -1,0 +1,29 @@
+{
+  "id": "11155495",
+  "name": "Digitalia",
+  "description": "Full text of current Spanish language scholarly journals and books. ** First time users: In order to use this collection, you must have Adobe Acrobat 4.0 or later (Reader or full version), already installed. Also you will be able to download the collection using Adobe DRM. (Please see the following link for more details; https://www.digitaliapublishing.com/ar/2/descargar-textos-completos.) NOTE: Mac users must have Acrobat installed; the pdfs can NOT be opened in Preview. **",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03241",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-08-24 18:58:33",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

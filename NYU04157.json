@@ -1,0 +1,17 @@
+{
+  "id": "11155858",
+  "name": "London Low Life",
+  "description": "London Low Life is a full-text searchable resource, containing colour digital images of rare books, ephemera, maps and other materials relating to 18th, 19th and early 20th century London.In addition to the digital documents, London Low Life contains a wealth of secondary resources, including a chronology, interactive maps, essays, online galleries and links to other useful websites.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04157",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

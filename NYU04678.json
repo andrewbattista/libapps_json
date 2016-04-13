@@ -1,0 +1,43 @@
+{
+  "id": "11155688",
+  "name": "Grand Tour",
+  "description": "The Grand Tour was a rite-of-passage for many aristocratic and wealthy young men of the eighteenth century: a phenomenon which shaped the creative and intellectual sensibilities of some of the eighteenth century’s greatest artists, writers and thinkers. These accounts of the English abroad, c1550-1850, highlight the influence of continental travel on British art, architecture, urban planning, literature and philosophy. This collection of manuscript, visual and printed works allows scholars to compare a range of sources on the history of travel for the first time, including many from private or neglected collections. We include letters; diaries and journals; account books; printed guidebooks; published travel writing; paintings and sketches; architectural drawings and maps.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04678",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:57:25",
+  "slug_id": "662201",
+  "subjects": [
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155688",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/grandtour",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

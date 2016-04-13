@@ -1,0 +1,48 @@
+{
+  "id": "11155140",
+  "name": "AccessEngineering",
+  "description": "AccessEngineering is focused around 14 major areas of engineering: • Biomedical • Chemical • Civil • Communications • Construction • Electrical • Energy • Environmental • Green/Sustainable • Industrial • Material Science • Mechanical • Nanotechnology • Opticalfeatures It features content from a broad range of engineering publications, including the latest editions of classics such as Marks' Standard Handbook for Mechanical Engineers, Perry's Chemical Engineers Handbook, Standard Handbook for Electrical Engineers, Roark's Formulas for Stress and Strain, and many more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04096",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-15 11:34:33",
+  "slug_id": "677046",
+  "subjects": [
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11155140",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/accessengineering",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "11156249",
+  "name": "Text Creation Partnership Collection",
+  "description": "TCP provides access to subsets of the texts contained in three large historical text collections: Early English Books Online, Eighteenth Century Collections Online, and Early American Imprints, Series I: Evans. Texts in the TCP subsets have been enhanced by additional textual mark-up to enable searching options more sophisticated than what is possible in the original databases.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04287",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 20:28:52",
+  "slug_id": "673737",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11156249",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11156249",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/textcreationparternership",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

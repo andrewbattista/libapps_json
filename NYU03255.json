@@ -1,0 +1,42 @@
+{
+  "id": "11155564",
+  "name": "Encyclopedia of Education (via Gale Virtual Reference Library)",
+  "description": "Offers a complete view of the institutions, people, processes, roles and philosophies found in educational practice in the United States and throughout the world.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03255",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 06:58:04",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11155564",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

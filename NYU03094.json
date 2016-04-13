@@ -1,0 +1,43 @@
+{
+  "id": "11155622",
+  "name": "FedStats",
+  "description": "Provides easy access to statistics and information produced by more than 100 US Federal Government agencies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03094",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 20:45:41",
+  "slug_id": "673749",
+  "subjects": [
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11155622",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/fedstats",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

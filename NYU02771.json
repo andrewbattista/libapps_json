@@ -1,0 +1,17 @@
+{
+  "id": "11155234",
+  "name": "ARTFL: The Project for American and French Research on the Treasury of the French Language",
+  "description": "Provides access to full-text French literature projects and reference works. Includes FRANTEXT, French Women Writers, Provençal Poetry, Textes de Français Ancien, The Journal de Trévoux, ou Mémoires pour l'Histoire des Sciences & des Beaux-Arts, Pierre Bayle -Dictionnaire historique et critique, Louis Moréri - Le Grand dictionnaire historique, ou le Mélange curieux de l'Histoire sacrée et profane, B.A.S.I.L.E, Bibliopolis Bibliothèque des lettres, Opera del Vocabolario Italiano etc.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02771",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

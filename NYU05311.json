@@ -1,0 +1,43 @@
+{
+  "id": "17437958",
+  "name": "Food Studies Online",
+  "description": "Food Studies Online includes visual, text, and video materials for food studies, including documentaries, over 5,000 pages of ephemeral materials from the turn of the century through the 1960s, menus from the New York Public Library and Los Angeles Public Library menu collections, and government documents related to food campaigns during WWII and to the US school lunch program.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05311",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-13 22:22:57",
+  "updated": "2016-02-03 15:05:09",
+  "slug_id": "678453",
+  "subjects": [
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "17437958",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/foodstudiesonline",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

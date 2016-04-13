@@ -1,0 +1,17 @@
+{
+  "id": "11155902",
+  "name": "Mergent Bond Viewer",
+  "description": "Provides on-demand access to a wide-range of bond data including both issuer and bond level terms and condition data, US taxable bonds, municipal bonds and retail notes.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02892",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

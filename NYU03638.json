@@ -1,0 +1,35 @@
+{
+  "id": "11156203",
+  "name": "Slavery, Abolition and Social Justice",
+  "description": "Bringing together primary source documents from archives and libraries across the Atlantic world, this resource allows students and researchers to explore and compare unique material relating to the complex subjects of slavery, abolition and social justice.In addition to the primary source documents there are secondary sources for research and teaching; including an interactive map, scholarly essays, tutorials, a visual sources gallery, chronology and bibliography.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03638",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 19:08:23",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11156203",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

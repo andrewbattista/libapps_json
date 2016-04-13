@@ -1,0 +1,16 @@
+{
+  "id": "20695007",
+  "name": "Database of Chinese Local Records",
+  "description": "The Database of Chinese Local Records, when finished, will include more than 10,000 local gazetteers, comprising not only gazetteers of jurisdictions, but also gazetteers of temples, mountains etc. The presently completed portion (two parts of a planned five) reproduces 4000 titles dating as far back as the Song Dynasty. The database includes searchable full text, along with page-image reproductions, including original maps and tables.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05172",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "44699",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

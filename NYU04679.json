@@ -1,0 +1,17 @@
+{
+  "id": "11155849",
+  "name": "Literary Manuscripts Berg",
+  "description": "The Berg Collection is recognized as one of the finest literary research collections in the world, and the Victorian holdings are the undisputed jewel in its crown. A broad range of authors from across the nineteenth century make this an essential research tool for all scholars and students researching Victorian literature. Most of these unique manuscripts are unavailable in any medium elsewhere. They are supplemented by some rare printed materials, including early editions annotated by the authors.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04679",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

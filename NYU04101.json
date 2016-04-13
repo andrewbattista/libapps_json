@@ -1,0 +1,43 @@
+{
+  "id": "11155501",
+  "name": "Dissertations of China (Wanfang Data)",
+  "description": "Dissertations of China (DOC) contains information on research activities by graduate students and their graduate supervisors in China. The database includes Masters, Doctoral, and Post-doctoral dissertations and theses from KEY Chinese research institutions from 1986 onward. ** Note that NYU subscribes to the following categories: Philosophy/Politics/Law, Social Sciences, Economics/Finance, Education/Literature/Art. **",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04101",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 05:48:14",
+  "slug_id": "676286",
+  "subjects": [
+    {
+      "id": "56181",
+      "site_id": "873",
+      "name": "Philosophy",
+      "ordering": "0",
+      "slug_id": "480976",
+      "subject_id": "56181",
+      "content_id": "11155501",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/dissertationsofchina",
+  "az_types": [
+    {
+      "id": 14466,
+      "name": "Dissertation Collections",
+      "site_id": 873
+    }
+  ]
+}

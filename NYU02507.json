@@ -1,0 +1,17 @@
+{
+  "id": "11155675",
+  "name": "Global Financial Development",
+  "description": "Offers external debt and financial flow data for the 135 countries that report public and publicly-guaranteed debt to the World Bank's Debtor Reporting System. The timeseries for 216 indicators run from 1970 to 2006, with contractual obligations data until 2015. The indicators include external debt stocks and flows, major economic aggregates, and key debt ratios as well as average terms of new commitments, currency composition of long-term debt, debt restructurings, and scheduled debt service projections.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02507",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

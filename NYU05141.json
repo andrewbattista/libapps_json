@@ -1,0 +1,35 @@
+{
+  "id": "11155436",
+  "name": "Counseling and Psychotherapy Transcripts: Volume II",
+  "description": "Counseling and Psychotherapy Transcripts, Volume II provides a deep look into the client-therapist office, allowing readers to follow the progress and setbacks of clients over the course of multiple therapy sessions. This collection features a diverse set of clients, a wide range of presenting issues, and multiple therapeutic approaches. Because all content was recorded in 2012 or later, Volume II features contemporary issues and the most up-to-date therapeutic approaches to treat them. The collection is an outstanding resource for teaching and research and adheres to the American Psychological Association’s Ethics Guidelines for use and anonymity.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05141",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 21:22:51",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155436",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

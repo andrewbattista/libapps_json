@@ -1,0 +1,42 @@
+{
+  "id": "11155917",
+  "name": "MIT Encyclopedia of the Cognitive Sciences (MITECS)",
+  "description": "MITECS classifies the cognitive and brain sciences into six domains: (1) computational intelligence (2) culture, cognition, and evolution (3) linguistics and language (4) neuroscience (5) philosophy, and (6) psychology. Each section contains an extended series of brief entries on the defining research topics of the domain.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03266",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-12-25 23:09:02",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11155917",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

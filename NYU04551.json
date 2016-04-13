@@ -1,0 +1,17 @@
+{
+  "id": "11155794",
+  "name": "JAMA Network",
+  "description": "The JAMA Network brings JAMA together with the nine JAMA specialty journals to offer enhanced access to the research, reviews, and perspectives shaping the future of medicine. Through a variety of innovative tools, The JAMA Network provides the insights that matter most to medical research and practice",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04551",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

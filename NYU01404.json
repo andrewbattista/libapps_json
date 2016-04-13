@@ -1,0 +1,29 @@
+{
+  "id": "11155811",
+  "name": "Keesing's World News Archive",
+  "description": "Keesing’s World News Archive is a web-based database comprising our full archive - more than 95,000 articles, first from 1931-87 as Keesing’s Contemporary Archives, and then as Keesing’s Record of World Events from 1987 to the present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01404",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 10:14:51",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

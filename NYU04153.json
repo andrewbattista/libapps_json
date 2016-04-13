@@ -1,0 +1,54 @@
+{
+  "id": "11156235",
+  "name": "Statista",
+  "description": "Statista aggregates data on markets, industry, politics, economics and population. Sources include trade publications, market and opinion research institutions, government sources, business and economic databases, reference publications, media sources and scholarly articles. It has an international scope and covers over 600 industries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04153",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-12-04 20:54:38",
+  "slug_id": "694322",
+  "subjects": [
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11156235",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11156235",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/statista",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

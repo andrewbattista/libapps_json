@@ -1,0 +1,42 @@
+{
+  "id": "11155771",
+  "name": "International Encyclopedia of Dance",
+  "description": "With nearly 2,000 articles written by scholars from fifty countries, this Encyclopedia covers the full spectrum of dance - theatrical, ritual, dance-drama, folk, traditional, ethnic, and social dance. Cultural and national overviews are accompanied by entries on dance forms, music and costumes, performances, and biographies of dancers and choreographers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03251",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 18:33:36",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155771",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

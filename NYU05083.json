@@ -1,0 +1,36 @@
+{
+  "id": "11155168",
+  "name": "AHFS consumer medication information",
+  "description": "AHFS Consumer Medication Information is a trusted source and recognized standard for patient drug information, available in both English and Spanish. Published by the American Society of Health-System Pharmacists, AHFS includes more than a thousand drug information monographs written in lay language for consumers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05083",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-04-05 02:39:26",
+  "slug_id": "790157",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155168",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/AHFS"
+}

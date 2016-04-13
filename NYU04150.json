@@ -1,0 +1,36 @@
+{
+  "id": "11155719",
+  "name": "History Vault",
+  "description": "This resource consists of a few collections which can be cross-searched, these collections are: -Black Freedom Struggle in the 20th Century: Federal Government Records -Black Freedom Struggle in the 20th Century: Organizational Records and Personal Papers, Part 1 -Vietnam War and American Foreign Policy, 1960-1975 -NAACP Papers: Board of Directors, Annual Conferences, Major Speeches, and National Staff Files -NAACP Papers: The NAACP's Major Campaigns--Education, Voting, Housing, Employment, Armed Forces -Southern Life and African American History, 1775-1915, Plantations Records, Part 1 -Slavery and the Law",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04150",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-10 01:45:16",
+  "slug_id": "651719",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155719",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/historyvault"
+}

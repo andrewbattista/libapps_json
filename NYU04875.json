@@ -1,0 +1,17 @@
+{
+  "id": "11155750",
+  "name": "Index Religiosus (Brepolis)",
+  "description": "The Index Religiosus is the international reference bibliography for academic publications in Theology, Religious Studies and Church History. Initial information drawn from the bibliography of the Revue d’histoire ecclésiastique and the Ephemerides Theologicae Lovanienses. It covers publications written in various European languages (English, French, German, Italian, Spanish, Dutch, etc. . ) and is the result of collaboration between the Université catholique de Louvain (UCL) and KU Leuven.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04875",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

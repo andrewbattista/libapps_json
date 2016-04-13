@@ -1,0 +1,29 @@
+{
+  "id": "11155534",
+  "name": "Eighteenth Century Journals",
+  "description": "Brings together rare journals printed between c1685 and 1835, illuminating all aspects of eighteenth-century social, political and literary life. Many are ephemeral, lasting only for a handful of issues, others run for several years. Topics covered include: colonial life; provincial and rural affairs; the French and American revolutions; reviews of literature and fashion throughout Europe; political debates; and London coffee house gossip and discussion.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02512",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 10:17:27",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

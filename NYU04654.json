@@ -1,0 +1,42 @@
+{
+  "id": "11155400",
+  "name": "Clinical Key",
+  "description": "A single source (aimed at a physician audience) to search across a collection of Elsevier journals, 900 medical and surgical reference books, Pubmed abstracts, Medical and Surgical clinics, First Consult point of care clinical monographs, Procedures Consult, drug monographs, videos, images, practice guidelines, patient education handouts (in both English and Spanish, where available), and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04654",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 20:05:38",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155400",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

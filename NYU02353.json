@@ -1,0 +1,17 @@
+{
+  "id": "11155433",
+  "name": "Copyright Information: US Government Copyright Office",
+  "description": "Search works registered and documents recorded by the U.S. Copyright Office since January 1, 1978.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02353",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

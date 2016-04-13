@@ -1,0 +1,17 @@
+{
+  "id": "11155812",
+  "name": "Kikuzo II Visual",
+  "description": "A newspaper database for Asahi shinbun containing 12 million articles published from 1879 to present. Also includes articles from the weekly magazines Aera as well as Shūkan Asahi, from the annual new-word dictionary Chiezō, Asahi shinbun jinbutsu dētabēsu, and Aashi shinbun rekishi shashin ākaibu.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04532",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

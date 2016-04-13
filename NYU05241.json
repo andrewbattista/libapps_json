@@ -1,0 +1,16 @@
+{
+  "id": "20695030",
+  "name": "National Population Census of China Database",
+  "description": "The National Population Census Database (NPCC) is a full-text database and census analysis system, which is based on all previous census data launched by statistical department of Chinese government.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05241",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

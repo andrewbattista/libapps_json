@@ -1,0 +1,76 @@
+{
+  "id": "11155281",
+  "name": "Bilingual Dictionaries",
+  "description": "Full text of Spanish, French, German, Italian, Irish, Welsh -English dictionaries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02760",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-24 10:39:46",
+  "slug_id": "662185",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155281",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155281",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155281",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155281",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/bilingualdictionaries",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

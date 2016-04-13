@@ -1,0 +1,69 @@
+{
+  "id": "11155444",
+  "name": "CQ Public Affairs Collection",
+  "description": "Organized by 22 key public affairs subject headings like Advocacy and Public Service, Education, Energy, the Environment, Health, and Transportation the CQ Public Affairs Collection features in-depth reporting on vital issues, statistical and historical analyses, historic documents and primary source materials, as well as a directory of key government, nonprofit, and private organizations in each of the major policy areas.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00629",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:09:29",
+  "slug_id": "673772",
+  "subjects": [
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11155444",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11155444",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155444",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155444",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/CQ"
+}

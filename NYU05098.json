@@ -1,0 +1,42 @@
+{
+  "id": "11155454",
+  "name": "Criterion Collection (Alexander Street Press)",
+  "description": "The Criterion Collection, an imprint of Janus Films, is an online collection that addresses these needs by delivering 315 of Criterion’s most influential films on one optimized learning interface. Content covers the history of cinema throughout the 20th century, from early silent films like Charlie Chaplin’s The Gold Rush (1925) to releases from contemporary filmmakers like Gus Van Sant and Guillermo del Toro.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05098",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 21:44:27",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155454",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

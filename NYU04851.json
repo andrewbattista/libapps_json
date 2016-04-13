@@ -1,0 +1,17 @@
+{
+  "id": "11155455",
+  "name": "Cross-National Time-Series (CNTS) Data Archive",
+  "description": "The Cross-National Time-Series (CNTS) Data Archive is a longitudinal national data series and provides ranges of annual data from 1815 to the present. CNTS offers a comprehensive extent of variables and country facts. The information base goes back to 1815, thus giving the most complete and farthest reaching archive of demographic values.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04851",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

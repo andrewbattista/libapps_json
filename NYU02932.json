@@ -1,0 +1,17 @@
+{
+  "id": "11155351",
+  "name": "Catalogue de l'École biblique et archéologique française de Jérusalem",
+  "description": "A comprehensive, frequently updated collection of links to Japanese e-texts, both premodern and modern. Includes links to some of the biggest collections, including Aozora Bunko and the Japanese Text Initiative.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02932",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

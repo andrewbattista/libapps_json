@@ -1,0 +1,75 @@
+{
+  "id": "11155250",
+  "name": "Astrophysics Data System (SOA/NASA)",
+  "description": "The Astrophysics Data System (ADS) is a NASA-funded project which maintains three bibliographic databases containing more than 5.4 million records: The Astronomy Database Contains references from Astronomy related articles.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01441",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:25:02",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59272",
+      "site_id": "873",
+      "name": "Astronomy",
+      "ordering": "0",
+      "slug_id": "480948",
+      "subject_id": "59272",
+      "content_id": "11155250",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11155250",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155250",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155250",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

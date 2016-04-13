@@ -1,0 +1,64 @@
+{
+  "id": "11156261",
+  "name": "Theatre in Video",
+  "description": "Contains more than 250 definitive performances of the world's leading plays, together with more than 100 film documentaries, online in streaming video - more than 500 hours in all. This release contains 279 titles, representing hundreds of leading playwrights, actors and directors.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03070",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 18:35:49",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11156261",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11156261",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11156261",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

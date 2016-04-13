@@ -1,0 +1,36 @@
+{
+  "id": "11155916",
+  "name": "Mintel Reports",
+  "description": "Offers research reports covering European, UK-specific, and US consumer markets. The reports analyse market drivers, sizes and trends, market segmentation, along with consumer attitudes and purchasing habits. The reports are supplemented by brief digests of relevant recent events, UK and US demographic and economic statistics and useful lists. Coverage is 2001 to date.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01175",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 01:52:38",
+  "slug_id": "652057",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155916",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/mintel"
+}

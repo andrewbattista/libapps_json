@@ -1,0 +1,35 @@
+{
+  "id": "11156148",
+  "name": "RIPM - Retrospective Index of Music Periodicals (EBSCO)",
+  "description": "RIPM Retrospective Index to Music Periodicals is an international, highly annotated bibliography with detailed content analysis of writings on musical history and culture between 1800 and 1950--from Beethoven to Bartok, from Berlioz to Berg, and from Schubert to Shostakovich--all provided by internationally-recognized scholars and editors. RIPM is updated biannually and currently indexes the contents of 120 music periodicals including articles, reviews, illustrations, music examples, advertisements, press reviews, and more. RIPM's highly annotated indexing is based upon a detailed analysis of the content. In addition, RIPM offers more than 5,000 English-language translations of articles from journals in other languages. Dates of coverage: 1800 to 1950.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02147",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-06-09 13:57:19",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11156148",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

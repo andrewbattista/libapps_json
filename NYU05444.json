@@ -1,0 +1,16 @@
+{
+  "id": "20695087",
+  "name": "AIDSinfo",
+  "description": "AIDSinfo is a U.S. Department of Health and Human Services (DHHS) project providing information on HIV/AIDS clinical trials and treatment. It is the result of merging two previous DHHS projects: The AIDS Clinical Trials Information Service (ACTIS) and the HIV/AIDS Treatment Information Service (ATIS). AIDSinfo is a central resource for current information on federally and privately funded clinical trials for AIDS patients and others infected with HIV. AIDS clinical trials evaluate experimental drugs and other therapies for adults and children at all stages of HIV infection -- from patients who are HIV positive with no symptoms to those with various symptoms of AIDS. [from the web page].",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05444",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11155498",
+  "name": "Directory of Open Access Books",
+  "description": "The primary aim of DOAB is to increase discoverability of Open Access books. Academic publishers are invited to provide metadata of their Open Access books to DOAB. Metadata will be harvestable in order to maximize dissemination, visibility and impact. Aggregators can integrate the records in their commercial services and libraries can integrate the directory into their online catalogues, helping scholars and students to discover the books. The directory will be open to all publishers who publish academic, peer reviewed books in Open Access and should contain as many books as possible, provided that these publications are in Open Access and meet academic standards.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05117",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

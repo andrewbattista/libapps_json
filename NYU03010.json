@@ -1,0 +1,36 @@
+{
+  "id": "11156288",
+  "name": "UNESCO Education",
+  "description": "Through its Education Research and Foresight (ERF) function, UNESCO aims to contribute to the global education agenda (EFA, MDGs and beyond) by mobilizing ideas and knowledge, analysing emerging development trends, anticipating their impact on education, and proposing relevant orientations and recommendations for the future of education.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03010",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 19:22:03",
+  "slug_id": "651495",
+  "subjects": [
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11156288",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/unescoeducation"
+}

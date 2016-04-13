@@ -1,0 +1,42 @@
+{
+  "id": "11155222",
+  "name": "Arabic Literature in the Post-Classical Period (Cambridge Histories Online)",
+  "description": "The final volume of The Cambridge History of Arabic Literature explores the Arabic literary heritage of the little-known period from the twelfth to the beginning of the nineteenth century. Even though it was during this time that the famous Thousand and One Nights was composed, very little has been written on the literature of the period generally. In this volume Roger Allen and Donald Richards bring together some of the most distinguished scholars in the field to rectify the situation. The volume is divided into parts with the traditions of poetry and prose covered separately within both their 'elite' and 'popular' contexts. The last two sections are devoted to drama and the indigenous tradition of literary criticism. As the only work of its kind in English covering the post-classical period, this book promises to be a unique resource for students and scholars of Arabic literature for many years to come.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02958",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 05:50:16",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155222",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

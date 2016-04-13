@@ -1,0 +1,53 @@
+{
+  "id": "11155840",
+  "name": "LGBT Studies in Video",
+  "description": "LGBT Studies in Video features award-winning films, documentaries, interviews and archival footage exploring the cultural and political evolution of the lesbian, gay, bisexual, and transgender community.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04377",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 21:47:37",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155840",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155840",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

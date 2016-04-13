@@ -1,0 +1,46 @@
+{
+  "id": "11155627",
+  "name": "Film & Television Literature Index with Full Text (EBSCO)",
+  "description": "A comprehensive index covering the entire spectrum of television and film writing and produced for a broad target audience, from film scholars to general viewers. Subject coverage includes: film & television theory, preservation & restoration, writing, production, cinematography, technical aspects, and reviews. Dates of coverage: 1914 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01300",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:12:56",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155627",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155627",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

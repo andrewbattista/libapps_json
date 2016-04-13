@@ -1,0 +1,22 @@
+{
+  "id": "11155721",
+  "name": "Hoover's Company Profiles",
+  "description": "This database contains proprietary information about more than 40,000 public and non-public companies and 225,000 key executives. Hoover's delivers in depth industry analyses, information on a company's location, summary financials, top competitors, top officers and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03736",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-13 22:56:51",
+  "slug_id": "0"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "11155218",
+  "name": "Applied Science & Technology Retrospective (EBSCO)",
+  "description": "Provides access to seven decades of information from the most important historical sources in the applied science and technology field-many of them peer-reviewed journals. Dates of coverage: 1913-1983. To search for articles post 1983, search Omnifile Full Text (Wilson).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01459",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-24 10:21:23",
+  "slug_id": "662173",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155218",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155218",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/appliedscienceretrospective"
+}

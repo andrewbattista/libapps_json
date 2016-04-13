@@ -1,0 +1,35 @@
+{
+  "id": "11156292",
+  "name": "UpToDate",
+  "description": "UpToDate is an electronic, full-text clinical resource that provides evidence-based answers to the most commonly asked questions in clinical practice. Original material in UpToDate is written by an international faculty of practicing clinicians who are experts in their specialties. Includes access to over 9,500 topics in 21 specialties, along with different levels of patient education materials to meet the varying information needs of patients.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04665",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 20:11:27",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11156292",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

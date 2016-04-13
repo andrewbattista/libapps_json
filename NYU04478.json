@@ -1,0 +1,66 @@
+{
+  "id": "11762321",
+  "name": "EVGeoCloud (Eastview)",
+  "description": "EVGeoCloud is EastView Geospatial's web-based mapping platform that provides access to a range of geospatial data, including LandScan population raster and vector datasets, elevation models, and remote sensing imagery. Users can also import unique datasets, perform measurements and simple spatial analyses, and download data for use in other GIS platforms.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04478",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27449",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-06-03 04:46:56",
+  "updated": "2015-06-03 19:14:41",
+  "slug_id": "397054",
+  "subjects": [
+    {
+      "id": "56180",
+      "site_id": "873",
+      "name": "Area & Cultural Studies",
+      "ordering": "0",
+      "slug_id": "480943",
+      "subject_id": "56180",
+      "content_id": "11762321",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11762321",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/evgeocloud",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8020",
+      "site_id": "873",
+      "file": "DS_icon.png",
+      "description": "Supported by Data Services",
+      "url": "",
+      "content_id": "11762321",
+      "icon_id": "8020",
+      "custom_url": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "20695068",
+  "name": "Incidence & Prevalence Database (IPD)",
+  "description": "The Incidence and Prevalence Database (IPD) looks at the world's epidemiology data. The IPD covers over 4,500 diseases, procedures, symptoms and other health issues for incidence, prevalence, morbidity, mortality, comorbidity, treated or diagnosed rates and cost.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05398",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

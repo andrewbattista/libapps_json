@@ -1,0 +1,42 @@
+{
+  "id": "11155841",
+  "name": "LGBT Thought and Culture",
+  "description": "LGBT Thought and Culture is a one-of-a-kind online resource hosting the key works and archival documentation of LGBT political and social movements throughout the twentieth century and into the present day. The collection includes materials ranging from seminal texts, letters, speeches, interviews, and ephemera covering the political evolution of gay rights as well as memoirs, biographies, poetry, and works of fiction that illuminate the lives of lesbians, gays, transgendered, and bisexual individuals and the community.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04591",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 21:58:29",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155841",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

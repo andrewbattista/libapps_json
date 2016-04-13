@@ -1,0 +1,17 @@
+{
+  "id": "20695034",
+  "name": "Chinese Modern Newspapers and Periodicals",
+  "description": "The database of Chinese Modern Newspapers and Periodicals includes the full-text of Chinese periodicals from the late Qing Dynasty and Republican period. ",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05250",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "44701",
+  "meta": {
+    "more_info": "After logging in using IP authentication (no username or password necessary), select \"Ý _ÂŠÛ_Ô‹ÛÂŠÎ_Ô•_\" to access the database.",
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "11156135",
+  "name": "Reaxys",
+  "description": "Reaxys is a web-based interface to the Beilstein, Gmelin, and EcoPharm databases that integrates reaction and substance data searches with synthesis planning and chemical sourcing. The Beilstein database, based on Beilstein's Handbuch der organischen Chemie, covers organic compounds from 1771 to date and contains over 10.3 million structures, 10.6 million reactions, 2.1 million citations and 320 million property records. The Gmelin database, based on Gmelin's Handbuch der anorganischen Chemie currently comprises over 2.5 million inorganic and organometallic compounds, including glasses, alloys, ceramics, minerals and coordination compounds, as well as 1.9 million reactions and 1.3 million citations. The EcoPharm database includes similar data for bioactive compounds.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02670",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-24 09:54:56",
+  "slug_id": "662141",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11156135",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "11156135",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11156135",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11156135",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11156135",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/reaxys"
+}

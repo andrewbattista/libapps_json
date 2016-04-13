@@ -1,0 +1,35 @@
+{
+  "id": "11155273",
+  "name": "Bibliographie der Deutschen Sprach und Literaturwissenschaft (BDSL)",
+  "description": "An international Bibliography of German Literature and Literary Studies. Established as a special bibliography of the University Library Frankfurt am Main the \"Bibliographie der deutschen Sprach- und Literaturwissenschaft\" (BDSL) has been published by Vittorio Klostermann Verlag since 1957 and comprises world-wide coverage of published literature on the German language, literature and general Germanic studies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02299",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 18:46:05",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155273",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

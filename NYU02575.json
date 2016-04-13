@@ -1,0 +1,17 @@
+{
+  "id": "11156284",
+  "name": "UN-I-QUE: United Nations Info Quest",
+  "description": "Provides quick access to document symbols/sales numbers for UN materials of a recurrent nature: annual/sessional reports of committees/commissions; annual publications; reports periodically/irregularly issued; reports of major conferences; statements in the General Debate; etc. Information within each record is presented in reverse chronological order to facilitate identification of the most recent data.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02575",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

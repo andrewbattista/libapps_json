@@ -1,0 +1,17 @@
+{
+  "id": "11155665",
+  "name": "Geolytics CensusCD 2000 Long Form",
+  "description": "Census 2000 Long Form is the most complete source of detailed information about the people, housing, and economy of the United States. This dataset contains variables such as income, housing, employment, language spoken, ancestry, education, poverty, rent, mortgage, commute to work, etc. There are 5,500 variables at the Block Group level and over 10,000 more variables at the larger geographies such as tract, zip code, county and state level. The dataset includes all of the available cross-tabulated variables (income by age, employment by race) released by the US Census Bureau. Export data as dbf, ASCII, shapefile, or mid/mif files.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04273",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

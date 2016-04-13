@@ -1,0 +1,53 @@
+{
+  "id": "11155159",
+  "name": "African American Archives (EBSCO)",
+  "description": "This full text resource offers access to original documents that reveal a side of the African American story that few have seen before.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03974",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:23:05",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155159",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56180",
+      "site_id": "873",
+      "name": "Area & Cultural Studies",
+      "ordering": "0",
+      "slug_id": "480943",
+      "subject_id": "56180",
+      "content_id": "11155159",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

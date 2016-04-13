@@ -1,0 +1,17 @@
+{
+  "id": "11155187",
+  "name": "American Civil War: Letters and Diaries",
+  "description": "This database contains 2,009 authors and approximately 100,000 pages of diaries, letters and memoirs. Includes 4,000 pages of previously unpublished manuscripts such as the letters of Amos Wood and his wife and the diary of Maryland Planter William Claytor. The collection also includes biographies, an extensive bibliography of the sources in the database, and material licensed from The Civil War Day-by-Day by E.B. Long.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02276",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:16",
+  "slug_id": "0"
+}

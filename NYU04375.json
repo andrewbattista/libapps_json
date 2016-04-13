@@ -1,0 +1,17 @@
+{
+  "id": "11155852",
+  "name": "Literati by Credo",
+  "description": "This resource is a user-centric platform which offers a refined search of 1,200+ citable librarian-approved reference titles. It provides interactive, multimedia learning tools, including tutorials and assessment surveys that address specific elements of Information Literacy from discipline-based perspectives. Additionally, it has the ability to save searches, entries and topic pages.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04375",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

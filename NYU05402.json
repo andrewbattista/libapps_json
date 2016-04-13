@@ -1,0 +1,16 @@
+{
+  "id": "20695071",
+  "name": "Literature, Arts and Medicine Database (NYU School of Medicine)",
+  "description": "The Literature, Arts, & Medicine Database is an annotated multimedia listing of prose, poetry, film, video and art that was developed to be a dynamic, accessible, comprehensive resource for teaching and research in MEDICAL HUMANITIES, and for use in health/pre-health, graduate and undergraduate liberal arts and social science settings. It is a multi-institutional project (see Editorial Board) that was initiated by faculty of the New York University School of Medicine, Felice Aull, Martin Nachbar, Karen Brewer; programming specialist Roy Smith; and then-medical student Irene Chen, '96. The on-line database began in Gopher Internet format in the summer of 1993 and was converted to Web format in 1994 by Martin Nachbar and Roy Smith. In 2006 Yoo Kyung Chang, Eunbong Sohn and William Holloway re-designed the database to a dynamic Web format. This Web site is produced and maintained by Advanced Educational Systems (AES), formerly the Hippocrates Project-- the multi-disciplinary development laboratory for application of information technologies to medical education at New York University School of Medicine.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05402",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

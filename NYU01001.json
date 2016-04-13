@@ -1,0 +1,53 @@
+{
+  "id": "11155573",
+  "name": "Encyclopedia of Life Sciences",
+  "description": "A fully searchable, working site of articles by scientists and scientific historians in the fields of biochemistry and physiology, cell biology, developmental biology, ecology, evolution, genetics, immunology, molecular biology, neuroscience, microbiology and virology, plant science, structural biology, and science and society.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01001",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:42:25",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155573",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11155573",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

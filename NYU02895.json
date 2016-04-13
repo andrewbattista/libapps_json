@@ -1,0 +1,36 @@
+{
+  "id": "11156169",
+  "name": "Sage Journals Online",
+  "description": "Provides full-text access to journals published by Sage in the following fields: Education, Urban Studies, Communication Studies, Criminology, Political Science, Psychology, Sociology, Management & Organization Studies, and Health Sciences.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02895",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-01-05 23:02:56",
+  "slug_id": "652536",
+  "subjects": [
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11156169",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sagejournals"
+}

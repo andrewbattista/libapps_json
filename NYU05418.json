@@ -1,0 +1,16 @@
+{
+  "id": "20695083",
+  "name": "Population Index",
+  "description": "Population Index is a reference tool to the world's population literature. The Index offers an annotated bibliography of recently published books, journal articles, working papers, and other material on population topics. Allows users to search or browse the Index. Lists the staff members. Includes an overview of the Index and subscription information.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05418",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

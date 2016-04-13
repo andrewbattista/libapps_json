@@ -1,0 +1,17 @@
+{
+  "id": "11155270",
+  "name": "Bertolt Brechts Werke",
+  "description": "Authorized electronic edition of Brecht's works. This edition is based on Bertolt Brecht - Ausgewählte Werke in sechs Bänden - Jubiläumsausgabe um 100. Geburtstag, edited by Werner Hecht, Wolfgang Jeske and Jan Knopf, which collects Brecht's works and writings in six volumes with brief notes on each text.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02298",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

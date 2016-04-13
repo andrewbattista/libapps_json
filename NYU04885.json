@@ -1,0 +1,35 @@
+{
+  "id": "11155150",
+  "name": "ACP Smart Medicine & AHFS DI Essentials (via STAT!Ref)",
+  "description": "Smart Medicine is a Web-based decision-support tool designed for rapid point-of-care delivery of up-to-date, evidence-based guidance for clinicians. This is a collection of modules divided into five topic types:• Diseases• Screening and Prevention• Complementary and Alternative Medicine• Ethical and Legal Issues• Procedures. ** AHFS DI Essentials is designed to offer health professionals easy access to knowledge that is critical at the point of care. Essentials™ monographs draw on the meticulously evidence-based guidelines in the full AHFS DI database, distilling for the health professional the essential information on prescription and key over-the-counter (OTC) drugs in an easy-to-use, highly structured outline format. **",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04885",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 20:09:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155150",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

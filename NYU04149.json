@@ -1,0 +1,17 @@
+{
+  "id": "11155319",
+  "name": "Brepolis Periodica",
+  "description": "The Brepols Periodica offers more than 12,000 journal articles for material published in 2006 or earlier. It consists of scholarly articles in the humanities, many of which are otherwise rare or hard to-locate, comprising articles published from the early twentieth century onwards. Brepols Miscellanea Online covers a wide range of subject areas in Medieval Studies: Archaeology, Art History, European Languages and Literatures, History of Science, Manuscript Studies, Medievalism, Music History, Philosophy, Social and Economic History, Theology.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04149",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

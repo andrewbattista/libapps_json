@@ -1,0 +1,61 @@
+{
+  "id": "19269175",
+  "name": "Ingenuity Pathway Analysis (IPA)",
+  "description": "Ingenuity Pathway Analysis (IPA) is a web-based software application for the analysis, integration, and interpretation of data derived from omics experiments, such as RNAseq, small RNAseq, microarrays including miRNA and SNP, metabolomics, proteomics, and small-scale experiments that generate gene and chemical lists.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05362",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "Patrons must register for an individual account using an @nyu.edu email address. The registration process may take several days.",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 15:24:17",
+  "updated": "2016-03-16 14:19:11",
+  "slug_id": "742189",
+  "subjects": [
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "19269175",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "19269175",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/IPA",
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "19269175",
+      "icon_id": "8403",
+      "custom_url": ""
+    }
+  ],
+  "enable_new": 1,
+  "enable_trial": 0
+}

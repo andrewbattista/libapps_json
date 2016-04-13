@@ -1,0 +1,53 @@
+{
+  "id": "11155584",
+  "name": "Encyclopedia of Women & Islamic Cultures",
+  "description": "Product of collaboration by over 1000 scholars from around the world, the Encyclopedia of Women & Islamic Cultures crosses history, geographic borders and disciplines to create a ground-breaking reference work reflecting the latest research on gender studies and the Islamic world.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02568",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 21:56:18",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155584",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155584",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

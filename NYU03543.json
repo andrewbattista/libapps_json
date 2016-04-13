@@ -1,0 +1,54 @@
+{
+  "id": "11155581",
+  "name": "Encyclopedia of the Bible and Its Reception (EBR)",
+  "description": "This resource offers a comprehensive and in-depth rendering of the current state of knowledge on the origins and development of the Bible according to its different canonic forms in Judaism and Christianity. At the same time it also documents the history of the Bible’s reception in the Christian churches and the Jewish Diaspora; in literature, art, music, and film; in Islam, as well as in other religious traditions and current religious movements, Western and non-Western alike.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03543",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 19:54:39",
+  "slug_id": "635083",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155581",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155581",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/EBR",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

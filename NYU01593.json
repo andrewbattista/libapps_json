@@ -1,0 +1,251 @@
+{
+  "id": "11155184",
+  "name": "America: History & Life with Full Text (EBSCO)",
+  "description": "Indexes literature covering the history and culture of the United States and Canada, from prehistory to the present. The database indexes 1,700 journals and also includes citations and links to book and media reviews. Strong English-language journal coverage is balanced by an international perspective on topics and events, including abstracts in English of articles published in more than 40 languages. Publication dates of coverage: 1964 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01593",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 19:00:58",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56184",
+      "site_id": "873",
+      "name": "History",
+      "ordering": "0",
+      "slug_id": "481001",
+      "subject_id": "56184",
+      "content_id": "11155184",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79676",
+      "site_id": "873",
+      "name": "History of the United States",
+      "ordering": "0",
+      "slug_id": "672100",
+      "subject_id": "79676",
+      "content_id": "11155184",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155184",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11155184",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155184",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155184",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "19268046",
+  "name": "Barron's",
+  "description": "Full-text coverage (1988-present) of one of the premier financial publications in the U.S. Barron's covers current news related to business, finance, and economics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05364",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 15:01:10",
+  "updated": "2016-02-03 15:02:43",
+  "slug_id": "742167",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "19268046",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "19268046",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/barrons",
+  "enable_new": 1,
+  "enable_trial": 0
+}

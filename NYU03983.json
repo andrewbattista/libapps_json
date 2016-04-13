@@ -1,0 +1,17 @@
+{
+  "id": "11156311",
+  "name": "Vogue Archive",
+  "description": "The Vogue Archive contains the entire run of Vogue magazine (US edition), from the first issue in 1892 to the current month, reproduced in high-resolution color page images. Every page, advertisement, cover and fold-out has been included, with rich indexing enabling you to find images by garment type, designer and brand names.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03983",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

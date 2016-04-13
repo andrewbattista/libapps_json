@@ -1,0 +1,36 @@
+{
+  "id": "11155264",
+  "name": "Beazley Archive",
+  "description": "Provides bibliographic references and allows for iconographic searching on Classical vases. Based on J.D. Beazley's Attic black-figure vase-painters and Attic red-figure vase painter.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02228",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-22 11:34:19",
+  "slug_id": "660270",
+  "subjects": [
+    {
+      "id": "58943",
+      "site_id": "873",
+      "name": "Archaeology",
+      "ordering": "0",
+      "slug_id": "480940",
+      "subject_id": "58943",
+      "content_id": "11155264",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/beazley"
+}

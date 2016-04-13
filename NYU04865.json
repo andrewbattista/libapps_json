@@ -1,0 +1,29 @@
+{
+  "id": "11156341",
+  "name": "World News Connection Archives (EastView)",
+  "description": "Provides access to over 1 million foreign newspaper articles, broadcast transcripts and datelines from Beijing, Beirut, Bogota, Cairo, Jakarta,Iraq, Mogadishu, Qatar, Ramallah, Sarajevo, Vienna, and hundreds of other spots around the world - methodically translated into English by the US Government.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04865",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 10:14:40",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

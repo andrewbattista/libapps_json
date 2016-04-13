@@ -1,0 +1,29 @@
+{
+  "id": "19657194",
+  "name": "17th & 18th Century Burney Collection Newspapers Digital Archive (Gale)",
+  "description": "The newspapers, pamphlets, and books gathered by the Reverend Charles Burney (1757-1817) represent the largest and most comprehensive collection of early English news media. The present digital collection, that helps chart the development of the concept of 'news' and 'newspapers' and the \"free press\", totals almost 1 million pages and contains approximately 1,270 titles. Many of the Burney newspapers are well known, but many pamphlets and broadsides also included have remained largely hidden. Newly digitized, all Burney treasures are now fully text-searchable in Gale Digital Collection.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU03187",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51764",
+  "az_vendor_id": "36968",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 09:09:18",
+  "updated": "2016-02-18 09:09:18",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

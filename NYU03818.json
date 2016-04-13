@@ -1,0 +1,43 @@
+{
+  "id": "11155732",
+  "name": "ICON: International Coalition on Newspapers",
+  "description": "The International Coalition on Newspapers is a project to improve access to and preservation of world newspapers. It includes a freely accessible database of bibliographic information for more than 25,000 newspaper titles from participating institutions. It also includes lists of digitized U.S. and international newspaper titles, many of which are freely accessible online. Note: In some cases, NYU may have separate access to the titles that are not free, via other databases at http://arch.library.nyu.edu.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03818",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:53:01",
+  "slug_id": "662196",
+  "subjects": [
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155732",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/icon",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

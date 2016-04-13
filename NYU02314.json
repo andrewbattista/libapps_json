@@ -1,0 +1,17 @@
+{
+  "id": "11155330",
+  "name": "Business Insights: Essentials (Gale)",
+  "description": "** Please note that this database is part of the NovelNY database package and is therefore only available to users within the NYUNY network. ** Includes company profiles, executives, mergers & acquisitions,ticker symbols,news & magazine articles, company histories and chronologies, financials, balance sheets, and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02314",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

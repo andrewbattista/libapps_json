@@ -1,0 +1,45 @@
+{
+  "id": "19279193",
+  "name": "Universal Database of Russian Regional Newspapers (UDB-REG)",
+  "description": "Universal Database of Russian Regional Newspapers (UDB-REG) provides coverage of developments throughout Russia’s regions. This database currently presents newspapers from all seven Federal Districts of the Russian Federation and includes coverage of local issues of Moscow and St. Petersburg. The database includes the Northern Caucasus (Groznenskii rabochii from Chechnya, Severnaia Osetiia from Northern Osetiia-Alania, etc.), Western Siberia (Tiumenskie izvestiia, etc.), the Volga region (Nizhegorodskie novosti from Nizhnii Novgorod or Samarskie izvestiia from Samara), and many others.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05366",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 18:13:58",
+  "updated": "2016-03-16 14:22:31",
+  "slug_id": "742518",
+  "subjects": [
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "19279193",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/UDB-REG",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ],
+  "enable_new": 1,
+  "enable_trial": 0
+}

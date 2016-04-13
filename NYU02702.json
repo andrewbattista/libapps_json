@@ -1,0 +1,35 @@
+{
+  "id": "11155173",
+  "name": "All EBM Reviews (Cochrane DSR, ACP Journal Club, DARE, CCTR, CMR, HTA, NHSEED)",
+  "description": "This multifile database allows you to search simultaneously the seven Evidence Based Medicine Reviews databases: Cochrane Database of Systematic Reviews, ACP Journal Club, Database of Abstracts of Reviews of Effects, Cochrane Central Register of Controlled Trials, Cochrane Methodology Register, Health Technology Assessment, National Health Service Economic Evaluation.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02702",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 20:10:38",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155173",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

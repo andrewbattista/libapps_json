@@ -1,0 +1,101 @@
+{
+  "id": "11155171",
+  "name": "AIP Scitation",
+  "description": "Scitation is the relaunch of the Online Journal Publishing Service (OJPS), a leader in online sci tech publishing and journal hosting since 1996. The name \"Scitation\" was chosen because it more accurately describes the platform's services to the scholarly community. Scitation includes links to many rich sources of information, including ISI's Web of Science, MEDLINE, Chemport/Chemical Abstracts Service, SPIN database, INSPEC, EDP Sciences, X ArkiV, SLAC SPIRES, and other Scitation journals, among others.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00984",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-06 20:36:59",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59272",
+      "site_id": "873",
+      "name": "Astronomy",
+      "ordering": "0",
+      "slug_id": "480948",
+      "subject_id": "59272",
+      "content_id": "11155171",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "11155171",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11155171",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59311",
+      "site_id": "873",
+      "name": "Mathematics",
+      "ordering": "0",
+      "slug_id": "780803",
+      "subject_id": "59311",
+      "content_id": "11155171",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11155171",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155171",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155171",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

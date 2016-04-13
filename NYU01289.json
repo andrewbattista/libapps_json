@@ -1,0 +1,35 @@
+{
+  "id": "11155828",
+  "name": "Law Journal Library (via HeinOnline)",
+  "description": "Collection of more than 1,250 law and law-related periodicals. Coverage is from the first issue published for all periodicals and goes through the most current issue allowed.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01289",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-20 02:59:45",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11155828",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

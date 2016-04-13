@@ -1,0 +1,120 @@
+{
+  "id": "11156206",
+  "name": "Social Explorer",
+  "description": "Social Explorer allows users to display U.S. Census data  from 1790 through the present at a variety of geographic levels. Users can create reports, maps and animations that can be downloaded.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03495",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "To receive access to Social Explorer, create a user account from your campus and sign in. That will automatically attach a Professional License to your account for 3 months. You may then access the Professional Edition of Social Explorer from any location using your account. If you have questions about authenticating your NYU Social Explorer account from off-campus, please contact <a href=http://guides.nyu.edu/appointment> Data Services.</a>",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-16 21:20:58",
+  "slug_id": "481657",
+  "subjects": [
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11156206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11156206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11156206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56191",
+      "site_id": "873",
+      "name": "Social Sciences",
+      "ordering": "0",
+      "slug_id": "480951",
+      "subject_id": "56191",
+      "content_id": "11156206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156206",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/socialexplorer",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8020",
+      "site_id": "873",
+      "file": "DS_icon.png",
+      "description": "Supported by Data Services",
+      "url": "",
+      "content_id": "11156206",
+      "icon_id": "8020",
+      "custom_url": ""
+    },
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11156206",
+      "icon_id": "8403",
+      "custom_url": ""
+    }
+  ]
+}

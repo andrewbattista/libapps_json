@@ -1,0 +1,29 @@
+{
+  "id": "11155784",
+  "name": "iPOLL",
+  "description": "The best finding aid to locate national US public opinion polls rich in a particular subject, iPOLL contains half a million survey questions and answers asked in the US over the last 70+ years by more than 150 survey organizations. **Users must register with an NYU email address to download data.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02548",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 05:47:41",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

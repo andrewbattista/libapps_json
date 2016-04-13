@@ -1,0 +1,17 @@
+{
+  "id": "11155279",
+  "name": "Bibliotheca Teubneriana Latina and Thesaurus Linguae Latinae Online",
+  "description": "The Bibliotheca Teubneriana Latina (BTL) online comprises the data of BTL 4, supplemented by the texts of all Latin editions of the Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana printed by 2008. The BTL Online now includes approximately 13 million word forms in total. The data of Thesaurus linguae Latinae (TLL) Online comprises the letters A–M, O, P–pomifer, porta–pulsio. These can be searched individually or together.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04374",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

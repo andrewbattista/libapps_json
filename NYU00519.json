@@ -1,0 +1,164 @@
+{
+  "id": "11155985",
+  "name": "OmniFile Full Text Mega (EBSCO)",
+  "description": "Multi-disciplinary database providing the complete content - indexing, abstracts, and full text - from six collections: Education Full Text, General Science Full Text, Humanities Full Text, Readers' Guide Full Text, Social Sciences Full Text, and Wilson Business Full Text. Dates of coverage: 1982 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00519",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:27:01",
+  "slug_id": "635108",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155985",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155985",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155985",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11155985",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155985",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155985",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/omnifile",
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

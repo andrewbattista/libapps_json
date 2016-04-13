@@ -1,0 +1,57 @@
+{
+  "id": "11155726",
+  "name": "Humanities and Social Sciences Index Retrospective (EBSCO)",
+  "description": "Search a wide range of important journals in the humanities and social sciences. Dates of coverage: 1907-1984.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02528",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-10 00:48:14",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155726",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155726",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155726",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

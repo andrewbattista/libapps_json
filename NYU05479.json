@@ -1,0 +1,16 @@
+{
+  "id": "20695092",
+  "name": "Haz-Map",
+  "description": "Haz-Map is an occupational toxicology database designed to link jobs to hazardous job tasks which are linked to occupational diseases and their symptoms.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05479",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

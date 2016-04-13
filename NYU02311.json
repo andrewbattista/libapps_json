@@ -1,0 +1,46 @@
+{
+  "id": "11155323",
+  "name": "British and Irish Women's Letters and Diaries",
+  "description": "Includes 10,000 pages of diaries and letters revealing the experiences of approximately 500 women. The collection now includes primary materials spanning more than 300 years. The collection also includes biographies and an extensive annotated bibliography of the sources in the database.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02311",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 01:36:08",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155323",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59305",
+      "site_id": "873",
+      "name": "Irish & Irish American Studies",
+      "ordering": "0",
+      "slug_id": "480999",
+      "subject_id": "59305",
+      "content_id": "11155323",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

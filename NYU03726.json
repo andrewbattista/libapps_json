@@ -1,0 +1,17 @@
+{
+  "id": "11155290",
+  "name": "BioOne Abstracts and Indexes",
+  "description": "This database is an indexed and fully-searchable collection of abstracts developed by the American Institute of Biological Sciences (AIBS), SPARC (the Scholarly Publishing and Academic Resources Coalition), the University of Kansas, the Greater Western Library Alliance and Allen Press. It provides an aggregation of nearly 100 high-impact bioscience research journals from around 70 publishers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03726",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

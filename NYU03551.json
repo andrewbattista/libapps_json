@@ -1,0 +1,46 @@
+{
+  "id": "11156242",
+  "name": "Synthesis Digital Library",
+  "description": "SYNTHESIS is an innovative information service for the research, development and educational communities in engineering and computer science; offering reviews and tutorial overviews. It combines authoritative content with advanced digital delivery.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03551",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-12-04 14:11:20",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11156242",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11156242",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

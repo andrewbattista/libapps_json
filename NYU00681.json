@@ -1,0 +1,202 @@
+{
+  "id": "11155918",
+  "name": "MLA International Bibliography (via Literature Online)",
+  "description": "Provides about 2 million records for books, book chapters, and journal articles published on modern languages, literatures, folklore, and linguistics. Provides online, full-text access to many of those articles. Covers items published from around 1920 to the present. NOT INCLUDED: Reviews of literary and scholarly works.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00681",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-18 14:37:48",
+  "slug_id": "634161",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155918",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155918",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155918",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155918",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79675",
+      "site_id": "873",
+      "name": "Hellenic Studies",
+      "ordering": "0",
+      "slug_id": "780802",
+      "subject_id": "79675",
+      "content_id": "11155918",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "11155918",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155918",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/MLABibliography",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    },
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

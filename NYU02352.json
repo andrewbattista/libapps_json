@@ -1,0 +1,47 @@
+{
+  "id": "11155432",
+  "name": "Contemporary World Music",
+  "description": "Listen to music and sounds of all regions from every continent. The database will contain important genres such as reggae, worldbeat, neo-traditional, world fusion, Balkanic jazz, African film, Bollywood, Arab swing and jazz, and other genres such as traditional music - Indian classical, fado, flamenco, klezmer, zydeco, gospel, gagaku, and more. This release includes 1,542 albums, equalling 20,835 tracks, growing regularly.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02352",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-06-08 18:04:04",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11155432",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10181,
+      "name": "Audio Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

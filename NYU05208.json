@@ -1,0 +1,30 @@
+{
+  "id": "19657187",
+  "name": "NK News",
+  "description": "An independent, privately owned specialist site focused on North Korea. Content includes news, news aggregator, intelligence analysis, travel reports, and other data about North Korea.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05208",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 09:07:15",
+  "updated": "2016-04-05 12:12:01",
+  "slug_id": "790289",
+  "friendly_url": "http://guides.nyu.edu/NKnews",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

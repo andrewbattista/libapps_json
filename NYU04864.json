@@ -1,0 +1,29 @@
+{
+  "id": "11155589",
+  "name": "Engineering Case Studies Online",
+  "description": "It provides sources for a wide range of video and text material focusing on engineering failures and successes. At completion, the collection contains documentaries, accident reports, experiments, visualizations, case studies, lectures and interviews from leading engineering institutions around the world. Example cases include: Air France flight 4590; Apollo 13; The Big Dig; Boeing 787 Dreamliner; Chernobyl power plant; Comet airliners; Deepwater Horizon oil rig; Ford Pinto; Fukushima Daiichi nuclear power plant; Hyatt Regency walkway; Space shuttle Challenger; Tacoma Narrows bridge; Titanic; and TWA flight 800.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04864",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-15 11:39:20",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

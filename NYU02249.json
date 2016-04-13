@@ -1,0 +1,17 @@
+{
+  "id": "11156336",
+  "name": "World Biographical Information System (WBIS) Online",
+  "description": "WBIS Online is a comprehensive biographical database available, providing short biographical information on 5.9 Million people from the 8th century B.C. to the present. Included are 7.8 Million digital facsimile articles from biographical reference works on 5.56 Million people worldwide.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02249",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11155459",
+  "name": "Current Digest of the Russian Press",
+  "description": "Full text from 1949-present. See 'A special note on transliteration in the Current Digest,' at: (http://dlib.eastview.com/includes/resources/translit_cdpsp.html) for transliteration anomalies. To search, click on 'search' on top tool bar, and deselect all but UDB-CD.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02361",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:37:00",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11155459",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

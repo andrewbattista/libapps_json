@@ -1,0 +1,29 @@
+{
+  "id": "11156268",
+  "name": "TLS: Times Literary Supplement Historical Archive",
+  "description": "Contains every page of every copy of the TLS published from 1902 to 2009 in the context in which they were originally published. All are fully indexed and searchable by author and/or contributor and the identities of the contributors to the TLS who were published anonymously until 1974 are disclosed for the first time and augmented by biographical sketches.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02391",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 05:35:39",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

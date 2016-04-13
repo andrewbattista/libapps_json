@@ -1,0 +1,36 @@
+{
+  "id": "11155349",
+  "name": "Caribbean Literature",
+  "description": "Searchable collection of poetry and fiction produced in the region during the 19th and 20th centuries. Includes numerous rare and hard-to-find works written in English, French, Spanish, Dutch, and various Creole languages. Future releases will also feature journals, reference works, and interviews with key writers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02319",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-06 20:21:31",
+  "slug_id": "673732",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155349",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/caribbeanliterature"
+}

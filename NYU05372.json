@@ -1,0 +1,16 @@
+{
+  "id": "20695046",
+  "name": "Aristoteles Latinus Database (ALD)",
+  "description": "The complete corpus of medieval translations of the works of Aristotle. The Latin versions of these texts constituted the main tools for the study of science and philosophy in the Middle Ages.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05372",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "44702",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

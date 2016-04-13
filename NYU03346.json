@@ -1,0 +1,47 @@
+{
+  "id": "11155976",
+  "name": "NYC Building Permits Database, 1900-1986",
+  "description": "Searchable database of digitized new building (NB) applications filed in Manhattan for each year, from 1900 to 1986, and turned it into a database. Search by a number of variables, like address, architect, owner and type of building.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03346",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:06:58",
+  "slug_id": "635100",
+  "subjects": [
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155976",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58945",
+      "site_id": "873",
+      "name": "Real Estate",
+      "ordering": "0",
+      "slug_id": "480962",
+      "subject_id": "58945",
+      "content_id": "11155976",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/NYCbuildingpermits"
+}

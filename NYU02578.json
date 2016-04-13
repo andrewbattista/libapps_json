@@ -1,0 +1,17 @@
+{
+  "id": "11156283",
+  "name": "UN comtrade: United Nations Commodity Trade Statistics",
+  "description": "Every year over 130 countries provide the United Nations Statistics Division with their annual international trade statistics, detailed by commodity and partner country. These data are processed into a standard format with consistent coding and valuation. All values are converted into US dollars using exchange rates supplied by the countries, or derived from monthly market rates and volume of trade.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02578",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "20695044",
+  "name": "Digital Scriptorium",
+  "description": "The Digital Scriptorium is a growing image database of medieval and renaissance manuscripts that unites scattered resources from many institutions into an international tool for teaching and scholarly research.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05363",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11155997",
+  "name": "Oxford Art Online - Grove Art Online",
+  "description": "Provides access to the entire text of The Dictionary of Art with additions of new material and updates to the text.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00369",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:03:37",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155997",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

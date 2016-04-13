@@ -1,0 +1,43 @@
+{
+  "id": "11156076",
+  "name": "Physical Education Index",
+  "description": "Indexes records from peer-reviewed journals, report literature, conference proceedings, trade magazines, patents, articles from the popular press, and many other publications. Abstracts feature a wide variety of content, ranging from physical education curricula, to sports medicine, to dance. Other coverage includes sport law, kinesiology, motor learning, recreation, standardized fitness tests, sports equipment, business and marketing, coaching and training, and sport sociology/psychology. Dates of coverage: 1970 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01620",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 05:39:26",
+  "slug_id": "651511",
+  "subjects": [
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11156076",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/physicaleducation",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11155174",
+  "name": "All That JAS: Journal Abbreviation Sources",
+  "description": "A categorized registry of Web resources that list or provide access to the full title of journal abbreviations or other types of abbreviated publication titles (e.g., conference proceedings titles).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02271",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:16",
+  "slug_id": "0"
+}

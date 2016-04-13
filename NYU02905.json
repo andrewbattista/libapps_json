@@ -1,0 +1,65 @@
+{
+  "id": "11155195",
+  "name": "American History in Video",
+  "description": "American History in Video provides the largest and richest collection of video available online for the study of American history, with 2,000 hours and more than 5,000 titles on completion. The collection allows students and researchers to analyze historical events, and their presentation over time, through commercial and governmental newsreels, archival footage, public affairs footage, and important documentaries. This release now provides over 1470 titles, including new documentaries from PBS, equaling approximately 460 hours.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02905",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-10 01:36:51",
+  "slug_id": "651715",
+  "subjects": [
+    {
+      "id": "56184",
+      "site_id": "873",
+      "name": "History",
+      "ordering": "0",
+      "slug_id": "481001",
+      "subject_id": "56184",
+      "content_id": "11155195",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155195",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155195",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/americanhistoryinvideo",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

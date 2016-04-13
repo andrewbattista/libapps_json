@@ -1,0 +1,43 @@
+{
+  "id": "11155513",
+  "name": "Early English Books Online (EEBO)",
+  "description": "Contains digital facsimile page images of virtually every work printed in England, Ireland, Scotland, Wales and British North America and works in English printed elsewhere from 1473-1700 - from the first book printed in English by William Caxton, through the age of Spenser and Shakespeare and the tumult of the English Civil War.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00801",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-18 15:29:01",
+  "slug_id": "634211",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155513",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/eebo",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

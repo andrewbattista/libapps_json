@@ -1,0 +1,42 @@
+{
+  "id": "11156093",
+  "name": "Primary Sources: Early Western Korans",
+  "description": "Collection contains all Arabic Koran editions printed in Europe before 1850, as well as all complete translations directly from the Arabic (until about 1860). The collection demonstrates what impact the holy book of Islam achieved in Europe. Long before printing with movable type became common practice in the Islamic world in the early 19th century, Korans were printed in Arabic type in several European cities. This collection includes Korans and Koran translations in eight languages. It is of interest to orientalists, theologians, philologists and book historians alike.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04268",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:33:37",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11156093",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

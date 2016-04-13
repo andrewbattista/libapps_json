@@ -1,0 +1,53 @@
+{
+  "id": "11155300",
+  "name": "Black Studies in Video",
+  "description": "Black Studies in Video is a signature Alexander Street Press collection featuring award-winning documentaries, newsreels, interviews and archival footage surveying the evolution of black culture in the United States. In partnership with California Newsreel, the database provides unique access to their African American Classics collection, and includes films covering history, politics, art and culture, family structure, social and economic pressures, and gender relations",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04558",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:16:51",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155300",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155300",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

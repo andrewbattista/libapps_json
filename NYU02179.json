@@ -1,0 +1,80 @@
+{
+  "id": "11155466",
+  "name": "Dance in Video",
+  "description": "Contains dance productions and documentaries by the most influential performers and companies of the 20th century. Selections cover ballet, tap, jazz, contemporary, experimental, and improvisational dance, as well as forerunners of the forms and the pioneers of modern concert dance. Included are classic performances from top ballet companies; experimental works from up-and-coming dance troupes; documentaries by and about leading choreographers; videos on dance training; and other items covering a wide range of 20th century dance styles.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02179",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:36:27",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155466",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11155466",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155466",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155466",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

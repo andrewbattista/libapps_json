@@ -1,0 +1,42 @@
+{
+  "id": "11155772",
+  "name": "International Encyclopedia of Linguistics",
+  "description": "Encompasses the full range of topics in linguistics, including such areas as historical, comparative, formal, mathematical, functional, philosophical, and sociolinguistics. Special attention is given to interrelations within these branches of the field and to relations of linguistics with other disciplines. This interdisciplinary focus makes the encyclopedia an invaluable resource not only for linguistics but also for scholars working in the fields of computer science, mathematics, philosophy, the social and behavioral sciences, and literary studies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03259",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:01:58",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "11155772",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

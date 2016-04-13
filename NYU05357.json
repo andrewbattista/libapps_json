@@ -1,0 +1,47 @@
+{
+  "id": "17967593",
+  "name": "Linguistic Bibliography Online",
+  "description": "Provides over 360,000 bibliographical references to scholarly publications in linguistics, covering all disciplines of theoretical linguistics, both general and language specific, from all geographical areas, including endangered and extinct languages, with particular attention to lesser-known Indo-European and non-Indo-European languages. Linguistic Bibliography Online contains all entries of the print Linguistic Bibliography from 1993 onwards, with new entries added monthly.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05357",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-08 14:30:41",
+  "updated": "2016-02-03 15:06:04",
+  "slug_id": "696699",
+  "subjects": [
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "17967593",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "17967593",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/linguisticbibliography"
+}

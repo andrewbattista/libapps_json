@@ -1,0 +1,17 @@
+{
+  "id": "11156296",
+  "name": "USA Trade Online",
+  "description": "This resource is supplied by the Foreign Trade Division of the U.S. Census Bureau and it allows access to current and cumulative U.S. export and import data for over 18,000 export commodities and 24,000 import commodities. USA Trade Online provides trade statistics using the Harmonized System (HS) up to the 10-digit level and the North American Industry Classification System (NAICS) commodity classification codes up to the 6-digit level.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04344",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

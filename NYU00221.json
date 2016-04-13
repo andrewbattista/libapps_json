@@ -1,0 +1,91 @@
+{
+  "id": "11156350",
+  "name": "Worldwide Political Science Abstracts",
+  "description": "Provides citations, abstracts, and indexing of the international serials literature in political science and its complementary fields, including international relations, law, and public administration / policy. Coverage is international. Date coverage: 1975 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00221",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-11 23:29:52",
+  "slug_id": "676326",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11156350",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11156350",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11156350",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11156350",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156350",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11156350",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/worldwidepoliticalscienceabstracts"
+}

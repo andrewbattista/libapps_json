@@ -1,0 +1,17 @@
+{
+  "id": "11155790",
+  "name": "Iter Italicum",
+  "description": "This is the only online version of Paul Oskar Kristeller's Iter Italicum. A finding list available of previously uncatalogued or incompletely catalogued Renaissance humanistic manuscripts found in libraries and collections all over the world. Originally published in six volumes, between 1963 and 1992.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04854",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

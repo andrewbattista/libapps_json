@@ -1,0 +1,17 @@
+{
+  "id": "11155943",
+  "name": "New Scientist Archive (EBSCO)",
+  "description": "Features full text as well as indexing and abstracting for all weekly issues of the magazine from 1997 to present. The full text archive is presented in native PDF format.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02436",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

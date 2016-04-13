@@ -1,0 +1,36 @@
+{
+  "id": "11155170",
+  "name": "AIGYPTOS",
+  "description": "AIGYPTOS was developed as a tool to enable a quick and precise search for Egyptological publications. With its help you can find the latest material for any Egyptological subject you are interested in either by use of a single search term or by combination of several keywords.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02226",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-22 11:32:38",
+  "slug_id": "660265",
+  "subjects": [
+    {
+      "id": "58943",
+      "site_id": "873",
+      "name": "Archaeology",
+      "ordering": "0",
+      "slug_id": "480940",
+      "subject_id": "58943",
+      "content_id": "11155170",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/aigyptos"
+}

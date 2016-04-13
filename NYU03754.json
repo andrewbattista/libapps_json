@@ -1,0 +1,17 @@
+{
+  "id": "11156109",
+  "name": "ProQuest Health & Medical Complete",
+  "description": "ProQuest Health and Medical Complete combines the clinical research titles available in ProQuest Medical Library with hundreds of additional consumer and health administration titles. It provides in-depth coverage from over 1,780 publications with over 1,550 available in full text and of these, over 910 include MEDLINE indexing.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03754",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

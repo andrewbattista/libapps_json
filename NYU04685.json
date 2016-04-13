@@ -1,0 +1,42 @@
+{
+  "id": "11156330",
+  "name": "Women in The National Archives",
+  "description": "The finding aid brings together the results of a five year project by staff at Kew and enables researchers to quickly locate details of any document relating to women in the National Archives at Kew. It is far more detailed and extensive than anything available elsewhere on the web and has the benefit of ranging across all of the classes of material held at the National Archives. The original documents focus on the campaign for women's suffrage in Britain, 1903-1928, and the granting of women's suffrage in colonial territories, 1930-1962. Prominent suffragettes include Emmeline Pethick-Lawrence, the Pankhursts, Emily Wilding Davison, Clara Giveen and Rachel Peace (alias Jane Short).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04685",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-15 07:17:32",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11156330",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

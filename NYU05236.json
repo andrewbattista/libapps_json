@@ -1,0 +1,47 @@
+{
+  "id": "19656859",
+  "name": "Music Online: Listening",
+  "description": "is a multidisciplinary collection of audiovisual content that touches on the curriculum needs of virtually every department. With almost 70,000 albums amounting to more than 7 million tracks available now and new titles added every month. It allows students and researchers alike to analyze unique and valuable content from over 500 producers and distributors around the world.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05236",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28929",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 08:28:55",
+  "updated": "2016-04-05 16:10:46",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "19656859",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10181,
+      "name": "Audio Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

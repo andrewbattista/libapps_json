@@ -1,0 +1,209 @@
+{
+  "id": "11155148",
+  "name": "ACLS Humanities Ebook",
+  "description": "Provides full-text access to 2200 searchable high-quality books in the humanities, recommended and reviewed by scholars.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01380",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-06 20:04:43",
+  "slug_id": "673725",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79675",
+      "site_id": "873",
+      "name": "Hellenic Studies",
+      "ordering": "0",
+      "slug_id": "780802",
+      "subject_id": "79675",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56184",
+      "site_id": "873",
+      "name": "History",
+      "ordering": "0",
+      "slug_id": "481001",
+      "subject_id": "56184",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79676",
+      "site_id": "873",
+      "name": "History of the United States",
+      "ordering": "0",
+      "slug_id": "672100",
+      "subject_id": "79676",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59305",
+      "site_id": "873",
+      "name": "Irish & Irish American Studies",
+      "ordering": "0",
+      "slug_id": "480999",
+      "subject_id": "59305",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59204",
+      "site_id": "873",
+      "name": "Medieval & Renaissance Studies",
+      "ordering": "0",
+      "slug_id": "480986",
+      "subject_id": "59204",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155148",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ACLSebook",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "11450",
+      "site_id": "873",
+      "file": "videoicon.png",
+      "description": "Video instructions available",
+      "url": "",
+      "content_id": "11155148",
+      "icon_id": "11450",
+      "custom_url": "https://youtu.be/ESiC-IDdYzM"
+    }
+  ]
+}

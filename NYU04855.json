@@ -1,0 +1,35 @@
+{
+  "id": "11155277",
+  "name": "Bibliography of English Women Writers (1500-1640)",
+  "description": "The Bibliography of English Women Writers 1500-1640 has evolved into a still-growing list of scholarship about 738 recovered writers and located texts, canonical and non-canonical. It identifies many hitherto unknown writers, including among them not only already familiar figures, but also women refugees such as the recusants, women in the colonies, Marrano women (Anusot), women translators, and English women writers in French, Greek, Latin, Spanish, Irish Gaelic, Scottish Gaelic and Welsh.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04855",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 22:09:16",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155277",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

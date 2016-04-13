@@ -1,0 +1,17 @@
+{
+  "id": "11155334",
+  "name": "C2ER Cost of Living Index (C2ER COLI)",
+  "description": "The C2ER Cost of Living Index is a source of city-to-city comparisons. C2ER COLI data are recognized by the U.S. Census Bureau, US Bureau of Labor Statistics, CNN Money, and the President's Council of Economic Advisors. COLI's data and methodology are reviewed by an Advisory Board composed of academic researchers and government officials.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04879",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

@@ -1,0 +1,58 @@
+{
+  "id": "11156248",
+  "name": "Tests and Measures in the Social Sciences: Tests available in compilation volumes",
+  "description": "127 collections have been indexed to provide access to citations for approximately 12,000 measures. This is simply a list of some of the tests that can be found quickly in compilation volumes available in many libraries. This site was designed as a service to locate tests, measures, instruments, etc. when there is a known title and a copy of the test is desired.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03267",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:46:24",
+  "slug_id": "635119",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11156248",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56178",
+      "site_id": "873",
+      "name": "Psychology & Neuroscience",
+      "ordering": "0",
+      "slug_id": "480969",
+      "subject_id": "56178",
+      "content_id": "11156248",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156248",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/testsandmeasures"
+}

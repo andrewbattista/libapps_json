@@ -1,0 +1,17 @@
+{
+  "id": "11155542",
+  "name": "EIU World Investment Service Global",
+  "description": "World Investment Service features a detailed database containing flows of investment by country and industry, overseas mergers and acquisitions and business costs. The service covers the world's 60 largest economies and provides detailed analysis on political and economic background, business environment, foreign investment regulations and trends in foreign investment.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04871",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

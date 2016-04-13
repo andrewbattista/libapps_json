@@ -1,0 +1,16 @@
+{
+  "id": "20695035",
+  "name": "Artemis Literary Sources",
+  "description": "Provides workflow tools and features that will enhance your Gale Literature Collections experience topic finder, term frequency graphs, search assist functionality, mobile compatibility, and interface translation, along with an easier and more dynamic search",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05251",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36968",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

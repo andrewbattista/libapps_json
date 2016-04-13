@@ -1,0 +1,29 @@
+{
+  "id": "11155981",
+  "name": "OAPEN Library",
+  "description": "The OAPEN Library contains freely accessible academic books, mainly in the area of Humanities and Social Sciences. OAPEN works with publishers to build a quality controlled collection of Open Access books, and provides services for publishers, libraries and research funders in the areas of dissemination, quality assurance and digital preservation.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05081",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-04-05 02:18:45",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

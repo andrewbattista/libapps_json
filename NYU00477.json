@@ -1,0 +1,80 @@
+{
+  "id": "11155211",
+  "name": "Anthropology Plus",
+  "description": "Indexes core journals plus local and lesser-known journals in social, cultural, physical, biological, and linguistic anthropology; ethnology, archaeology, folklore, and material culture; and interdisciplinary studies. Searches both Anthropological Index and Anthropological Literature. Dates of coverage: Anthropological Index (1957 to present); Anthropological Literature (early 19th century to present) .",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00477",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:21:09",
+  "slug_id": "651492",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155211",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58942",
+      "site_id": "873",
+      "name": "Anthropology",
+      "ordering": "0",
+      "slug_id": "480939",
+      "subject_id": "58942",
+      "content_id": "11155211",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58943",
+      "site_id": "873",
+      "name": "Archaeology",
+      "ordering": "0",
+      "slug_id": "480940",
+      "subject_id": "58943",
+      "content_id": "11155211",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155211",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "11155211",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/anthropologyplus"
+}

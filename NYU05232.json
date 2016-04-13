@@ -1,0 +1,42 @@
+{
+  "id": "19657161",
+  "name": "Who's Who in American Politics (via Marquis Biographies Online)",
+  "description": "This is the definitive biographical directory of the men and women who most greatly influence the American political landscape. Coverage of the directory reflects the results of recent elections and includes: the President, the Vice President, the Cabinet, members of Congress, prominent federal official appointees, congressional staff members, U.S. ambassadors, governors, lieutenant governors, state officials, state supreme court justices, state legislators, federal judges, national and state political party chairs, mayors of cities with populations over 150,000, lobbyists, heads of specials interest groups, and numerous political commentators and strategists.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05232",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 08:56:50",
+  "updated": "2016-04-05 16:02:34",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "19657161",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

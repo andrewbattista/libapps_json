@@ -1,0 +1,36 @@
+{
+  "id": "11155598",
+  "name": "Environment Abstracts",
+  "description": "Encompasses all aspects of the impact of people and technology on the environment and the effectiveness of remedial policies and technologies. Provides access to more than 950 journals published in the U.S. and abroad. The database also covers conference papers and proceedings, special reports from international agencies, non-governmental organizations, universities, associations and private corporations. Other materials selectively indexed include significant monographs, government studies and newsletters.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02954",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:19:37",
+  "slug_id": "662170",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155598",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/environmentabstracts"
+}

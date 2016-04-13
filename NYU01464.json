@@ -1,0 +1,47 @@
+{
+  "id": "11155668",
+  "name": "Gerritsen Collection--Women's History Online, 1543-1945",
+  "description": "This database is the definitive cross-cultural resource for information on women's history. It spans more than four centuries and 15 languages and includes over two million pages in full image. Users can trace the evolution of feminism within a single country, as well as the impact of that country's feminist movement on other countries and their movements. The Gerritsen Collection also provides immediate access to many primary sources from around the world that were previously available only in a limited number of rare book rooms.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01464",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:56:55",
+  "slug_id": "662200",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155668",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155668",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/gerritsen"
+}

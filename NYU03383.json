@@ -1,0 +1,43 @@
+{
+  "id": "11155575",
+  "name": "Encyclopedia of Philosophy",
+  "description": "Provides clear and accessible entries on wide-ranging philosophical subjects.  2nd edition.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03383",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36968",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-11 22:43:29",
+  "slug_id": "676290",
+  "subjects": [
+    {
+      "id": "56181",
+      "site_id": "873",
+      "name": "Philosophy",
+      "ordering": "0",
+      "slug_id": "480976",
+      "subject_id": "56181",
+      "content_id": "11155575",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/encyclopediaofphilosophy",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

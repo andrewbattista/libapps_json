@@ -1,0 +1,58 @@
+{
+  "id": "11155786",
+  "name": "Irish Women Poets of the Romantic Period",
+  "description": "Includes more than 80 volumes of poetry by approximately 50 Irish women writing between 1768 and 1842. Also offers numerous biographical and critical essays prepared by leading scholars",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02550",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 01:36:48",
+  "slug_id": "652048",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155786",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59305",
+      "site_id": "873",
+      "name": "Irish & Irish American Studies",
+      "ordering": "0",
+      "slug_id": "480999",
+      "subject_id": "59305",
+      "content_id": "11155786",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "11155786",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/irishwomenpoets"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "19656850",
+  "name": "Henry Stewart Talks:  The Biomedical & Life Sciences Collection",
+  "description": "Henry Stewart Talks publishes animated audio visual presentations by leading world experts - advanced content in a user friendly format. The Biomedical & Life Sciences collection includes more than 1,500 talks and covers biochemistry, cancer, cell biology, genetics, immunology, methods, and many other biological topics.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05134",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 08:26:08",
+  "updated": "2016-04-05 12:13:51",
+  "slug_id": "790290",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "19656850",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/henrystewart",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

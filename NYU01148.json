@@ -1,0 +1,68 @@
+{
+  "id": "11155767",
+  "name": "International Bibliography of Theater & Dance with Full Text (EBSCO)",
+  "description": "Indexes journal articles, books, book chapters, dissertations, and monographs in theatre and the performing arts. Dates of coverage: 1984 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01148",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 18:06:33",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155767",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155767",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155767",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155767",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

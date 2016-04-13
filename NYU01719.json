@@ -1,0 +1,29 @@
+{
+  "id": "11156047",
+  "name": "Oxford Music Online: The Oxford Dictionary of Music",
+  "description": "Brings together an unrivaled collection of entries — 12,500 in all — covering musical subjects of all kinds in an authoritative and accessible way. Included in this impressive work are entries on composers, performers, conductors, musical terms and forms, instruments, works, venues, and a host of other topics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01719",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:04:30",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

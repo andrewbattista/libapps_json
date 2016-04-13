@@ -1,0 +1,92 @@
+{
+  "id": "11155332",
+  "name": "Business Source Complete (EBSCO)",
+  "description": "Full text business database, covering management, economics, finance, accounting, international business. Dates of coverage: 1886 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00020",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-14 18:13:00",
+  "slug_id": "654226",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155332",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59274",
+      "site_id": "873",
+      "name": "Hospitality & Tourism",
+      "ordering": "0",
+      "slug_id": "481000",
+      "subject_id": "59274",
+      "content_id": "11155332",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155332",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155332",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11155332",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/businessourcecomplete",
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155332",
+      "icon_id": "8403",
+      "custom_url": "http://support.ebsco.com/help/?int=ehost&lang=en&feature_id=none&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=live&dbs="
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11156018",
+  "name": "Oxford Bibliographies Online: Jewish Studies",
+  "description": "OBO: Jewish Studies is designed to provide authoritative guidance to help students and scholars find, negotiate, and assess the large amount of information readily available to them. It also provides direct links to online library catalogs and other online resources.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04450",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 19:46:11",
+  "slug_id": "635078",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11156018",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/obojewishstudies"
+}

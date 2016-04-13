@@ -1,0 +1,60 @@
+{
+  "id": "11155468",
+  "name": "Data-Planet Statistical Datasets",
+  "description": "Data-Planet Statistical Datasets contains datasets sourced from reputable public and private organizations. It covers topics across 16 broad subject areas, including education, population and income, industry, commerce, and trade, housing and construction.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04857",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-15 19:31:21",
+  "slug_id": "492463",
+  "subjects": [
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11155468",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/dataplanet",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    },
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8020",
+      "site_id": "873",
+      "file": "DS_icon.png",
+      "description": "Supported by Data Services",
+      "url": "",
+      "content_id": "11155468",
+      "icon_id": "8020",
+      "custom_url": ""
+    }
+  ]
+}

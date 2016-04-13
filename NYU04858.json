@@ -1,0 +1,17 @@
+{
+  "id": "11156189",
+  "name": "Security Reference Service (FII Online)",
+  "description": "**Just click an 'Auto Login' button and it should log you in. Once logged in, you will see a menu on the left side. There is a button for Library Reference which allows you to query a database of Mandatory actions from 1968 to today. ** If you use the Financial Actions menu, you have access to the electronic version of the book including Active and Obsolete stocks. This is updated daily.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04858",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

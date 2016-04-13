@@ -1,0 +1,53 @@
+{
+  "id": "11155844",
+  "name": "Library of Latin Texts Series A",
+  "description": "",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02483",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "more_info": "Formerly known as CETEDOC, this database for Latin texts, contains texts from the beginning of Latin literature through to the texts of the Second Vatican Council (1962-1965). It covers all the works from the classical period, the most important patristic works, a very extensive corpus of Medieval Latin literature and works of later Latin, including texts from the Reformation and Counter-Reformation. The complete works of writers such as Cicero, Virgil, Augustine, Jerome, Gregory the Great, Anselm of Canterbury, Bernard of Clairvaux and Thomas Kempis are included. The texts have been taken from the Corpus Christianorum and Teubner series and other editions. The contents of the Library of Latin Texts are listed in the Guide, linked in the navigational column on the left side of the LLT web page. Adobe Reader 7.0 is needed to view the Guide. A user can select a word found in a text of the Library of Latin Texts and by clicking on the button labeled 'Consult DLD' find entries for the word in the constituent dictionaries of the Database of Latin Dictionaries. Likewise, a live link from the DLD back to the Library of Latin Texts enables the user who has conducted a search on a word in a dictionary within DLD to export this word automatically to its sister-database and thereby identify actual occurrences of the particular word in the Library of Latin Texts in context.",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-21 01:11:15",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11155844",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59204",
+      "site_id": "873",
+      "name": "Medieval & Renaissance Studies",
+      "ordering": "0",
+      "slug_id": "480986",
+      "subject_id": "59204",
+      "content_id": "11155844",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

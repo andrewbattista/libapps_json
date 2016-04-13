@@ -1,0 +1,43 @@
+{
+  "id": "11156158",
+  "name": "Routledge Encyclopedia of Philosophy",
+  "description": "Multi-volume encyclopedia covering a broad range of subject matter within the field of philosophy.  Overview articles of key subjects are provided.  <br />\r\n<br />\r\nSubjects include Anglo-American, ethical and political cross-cultural, interdisciplinary, continental and contemporary philosophy.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03390",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-11 18:28:35",
+  "slug_id": "673800",
+  "subjects": [
+    {
+      "id": "56181",
+      "site_id": "873",
+      "name": "Philosophy",
+      "ordering": "0",
+      "slug_id": "480976",
+      "subject_id": "56181",
+      "content_id": "11156158",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/routledgeencyclopediaphilosophy",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

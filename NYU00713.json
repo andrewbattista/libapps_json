@@ -1,0 +1,22 @@
+{
+  "id": "11156225",
+  "name": "Springer Images",
+  "description": "The online encyclopedia of medical images.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00713",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "40970",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-01-05 23:06:33",
+  "slug_id": "0"
+}

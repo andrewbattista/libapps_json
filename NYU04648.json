@@ -1,0 +1,17 @@
+{
+  "id": "11155900",
+  "name": "Merck Index Online",
+  "description": "The Merck Index Online offers the same highly authoritative information as the print edition in a convenient and easily searchable full text database. It contains over 11,500 monographs – including historic records not available in the print edition. The Merck Index Online will be updated regularly with accurate information curated by experts. ** This database is currently in a trial period. **",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04648",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

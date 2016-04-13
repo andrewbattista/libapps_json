@@ -1,0 +1,36 @@
+{
+  "id": "11156096",
+  "name": "PRISMA: Publicaciones Y Revistas Sociales Y Humanisticas",
+  "description": "A comprehensive reference resource providing full-text scholarly journals in the social sciences and humanities for the interdisciplinary academic study of Hispanic and Latin America, and the Caribbean Basin. Offering key titles indexed in the Hispanic American Periodicals Index (HAPI), a highly respected database produced by the Latin American Center of the University of California, Los Angeles, PRISMA features Spanish, Portuguese and English language content.Coverage is from 1966 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01497",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 21:06:47",
+  "slug_id": "673766",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11156096",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/prisma"
+}

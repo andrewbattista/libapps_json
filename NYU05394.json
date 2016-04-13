@@ -1,0 +1,16 @@
+{
+  "id": "20695064",
+  "name": "Integrated Risk Information System (IRIS)",
+  "description": "Integrated Risk Information System (IRIS) contains data in support of human health risk assessment, including hazard identification and dose-response assessments. It is compiled by the U.S. EPA and contains descriptive and quantitative information related to human cancer and non-cancer health effects that may result from exposure to substances in the environment. IRIS data is reviewed by EPA scientists and represents EPA consensus.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05394",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

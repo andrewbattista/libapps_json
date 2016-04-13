@@ -1,0 +1,17 @@
+{
+  "id": "11155175",
+  "name": "Allgemeines Künstlerlexikon Online",
+  "description": "The database Allgemeines Künstlerlexikon Online / Artists of the World Online (AKL Online) is the world's most contemporary, reliable and extensive reference work on artists with biographical information on more than 1 million visual artists from all over the world and throughout the ages, from antiquity to the present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04734",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:16",
+  "slug_id": "0"
+}

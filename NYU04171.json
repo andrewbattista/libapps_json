@@ -1,0 +1,36 @@
+{
+  "id": "11155335",
+  "name": "Cairn.Info",
+  "description": "This resource is comprised of French language periodicals in the social sciences and humanities disciplines.CAIRN was formed in 1995 by four European publishing houses (Belin, De Boeck, La Découverte and Erès) and now includes more than 40 publishers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04171",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-14 17:50:44",
+  "slug_id": "654190",
+  "subjects": [
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155335",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/cairninfo"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11155158",
+  "name": "Africa Development Indicators",
+  "description": "Contains over 1,000 indicators and time series from 1965 for 53 countries. Data include social, economic, financial, natural resources, infrastructure, governance, partnership, and environmental indicators. Results can be scaled, mapped, and charted.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02264",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:16",
+  "slug_id": "0"
+}

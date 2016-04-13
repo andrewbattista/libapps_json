@@ -1,0 +1,42 @@
+{
+  "id": "11155571",
+  "name": "Encyclopedia of Language and Linguistics (via ScienceDirect)",
+  "description": "Provides over 3000 entries related to language and linguistics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03258",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36991",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-09 19:38:01",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "11155571",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "20695052",
+  "name": "OTseeker (Occupational Therapy Systematic Evaluation of Evidence)",
+  "description": "OTseeker is a database that contains abstracts of systematic reviews, randomised controlled trials and other resources relevant to occupational therapy interventions. Most trials have been critically appraised for their validity and interpretability.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05381",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

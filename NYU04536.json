@@ -1,0 +1,110 @@
+{
+  "id": "11156083",
+  "name": "PolicyMap",
+  "description": "PolicyMap is a web mapping tool that offers over 10,000 indicators related to demographics, real estate, city crime rates, health, schools, housing affordability, employment, energy, and public investments.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04536",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:08:08",
+  "slug_id": "492440",
+  "subjects": [
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11156083",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11156083",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58945",
+      "site_id": "873",
+      "name": "Real Estate",
+      "ordering": "0",
+      "slug_id": "480962",
+      "subject_id": "58945",
+      "content_id": "11156083",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56191",
+      "site_id": "873",
+      "name": "Social Sciences",
+      "ordering": "0",
+      "slug_id": "480951",
+      "subject_id": "56191",
+      "content_id": "11156083",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156083",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11156083",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/policymap",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8020",
+      "site_id": "873",
+      "file": "DS_icon.png",
+      "description": "Supported by Data Services",
+      "url": "",
+      "content_id": "11156083",
+      "icon_id": "8020",
+      "custom_url": ""
+    }
+  ]
+}

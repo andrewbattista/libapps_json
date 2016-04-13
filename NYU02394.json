@@ -1,0 +1,47 @@
+{
+  "id": "11155257",
+  "name": "AWSS Translation Registry and Bibliography (Slavic Studies)",
+  "description": "The AWSS Translation Registry is a pilot project listing the translations and translations-in-progress into English of works by women authors of Eastern Europe and countries in the territory of the former Soviet Union. The Registry has two purposes: first to allow translators of such works to register a translation in progress so that other translators can avoid duplication; and second to let professors who are creating syllabi know what works by women writers of these countries are available in English.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02394",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 22:11:23",
+  "slug_id": "685100",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155257",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11155257",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/AWSS"
+}

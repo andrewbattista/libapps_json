@@ -1,0 +1,35 @@
+{
+  "id": "11156019",
+  "name": "Oxford Bibliographies Online: Latin American Studies",
+  "description": "Though the scholarly study of Latin America, a region of 20 countries and over 569 million people, is not new, the bringing together of various disciplinary approaches according to a single geographic region represents a fairly recent shift. Latin American studies includes a vast range of disciplinary perspectives, including history, sociology, economics, anthropology, and political science.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04113",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 21:06:04",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11156019",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

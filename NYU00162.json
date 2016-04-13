@@ -1,0 +1,65 @@
+{
+  "id": "11155603",
+  "name": "ERIC",
+  "description": "Searchable database of articles, books, and resources related to education. The ERIC (Educational Resources Information Center) database is sponsored by the U.S. Department of Education to provide extensive access to educational-related literature. Dates of coverage: 1966 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00162",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 23:55:08",
+  "slug_id": "635175",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155603",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11155603",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155603",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ERIC",
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "17438013",
+  "name": "psychotherapy.net",
+  "description": "Psychotherapy.net produces and distributes high-quality training videos in psychotherapy, counseling, and addiction treatment. Their online streaming video collection covers a wide variety of tools and techniques from a broad selection of psychotherapeutic approaches, making it an ideal resource for faculty, students, interns, and mental-health professionals for the purposes of teaching, training, self-study, and continuing education.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05153",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-13 22:31:31",
+  "updated": "2016-02-03 15:07:16",
+  "slug_id": "678458",
+  "subjects": [
+    {
+      "id": "56178",
+      "site_id": "873",
+      "name": "Psychology & Neuroscience",
+      "ordering": "0",
+      "slug_id": "480969",
+      "subject_id": "56178",
+      "content_id": "17438013",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/psychotherapy",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

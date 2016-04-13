@@ -1,0 +1,16 @@
+{
+  "id": "20695078",
+  "name": "JournalTOCs",
+  "description": "Journal TOCs pulls together a database of Table of Contents (TOCs) from over 27,000 scholarly journals, including 9,942 selected Open Access journals and 11,009 hybrid journals from 2805 publishers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05409",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

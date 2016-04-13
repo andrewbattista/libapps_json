@@ -1,0 +1,109 @@
+{
+  "id": "11155240",
+  "name": "arXiv",
+  "description": "Open access to 540,090 e-prints in Physics, Mathematics, Computer Science, Quantitative Biology, Quantitative Finance and Statistics",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02290",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:21:04",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155240",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59311",
+      "site_id": "873",
+      "name": "Mathematics",
+      "ordering": "0",
+      "slug_id": "780803",
+      "subject_id": "59311",
+      "content_id": "11155240",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11155240",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155240",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59312",
+      "site_id": "873",
+      "name": "Statistics",
+      "ordering": "0",
+      "slug_id": "480941",
+      "subject_id": "59312",
+      "content_id": "11155240",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155240",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155240",
+      "icon_id": "8403",
+      "custom_url": "http://arxiv.org/help/find"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "11155291",
+  "name": "BIOSIS Citation Index (Web of Science)",
+  "description": "Biosis Citation Index is the upgraded version of Biosis Previews. * This combines the unique BIOSIS content that is critical to life sciences research with powerful citation indexing only the Web of Knowledge platform can provide. You can rely on comprehensive and relevant life sciences coverage that eliminates excess and delivers data that is accurate, meaningful and timely.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00827",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 22:39:26",
+  "slug_id": "685147",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155291",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11155291",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11155291",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/biosis"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "17437323",
+  "name": "Digital Resources for Musicology (DRM)",
+  "description": "Digital Resources for Musicology (DRM) provides links to substantial open-access projects of use to musicians and musicologists. With a burgeoning number of digital resources available, remembering titles of sites and pathways to them can be difficult. Digital Resources in Musicology (DRM) is organized topically and provides a rapid search tool for specialties within heterogeneous collections. Neither the links or their descriptions are exhaustive. Older projects predating the development of the internet are listed at ADAM: Archive of Digital Applications in Musicology. Curated digital and hybrid editions are itemized at EVE: Electronic and Virtual Editions. Harvard’s Online Resources for Music Scholars offer a somewhat different, largely complementary mix of projects.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05309",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-13 21:42:25",
+  "updated": "2016-02-03 15:04:03",
+  "slug_id": "678420",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "17437323",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/DRM"
+}

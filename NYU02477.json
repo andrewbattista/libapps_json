@@ -1,0 +1,54 @@
+{
+  "id": "11155831",
+  "name": "Leadership Library",
+  "description": "Includes over 400,000 names and contact information from over 40,000 government, business, media, and nonprofit organization. Updated daily.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02477",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:15:40",
+  "slug_id": "673768",
+  "subjects": [
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155831",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155831",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/leadershiplibrary",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

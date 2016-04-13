@@ -1,0 +1,22 @@
+{
+  "id": "11156197",
+  "name": "Siku Quanshu Online",
+  "description": "The Siku Quanshu (Wenyuange Edition), compiled in 1773-1782 by edict from Emperor Qianlong, contains 3,460 works on topics including history, politics, economics, and more. Note: For now, you must use MS Internet Explorer, not Firefox to access this. After downloading the installation package, you will need to select the log in by IP option. **Only available on NYUNET.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02242",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-03-19 16:47:40",
+  "slug_id": "0"
+}

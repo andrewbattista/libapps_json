@@ -1,0 +1,53 @@
+{
+  "id": "11156035",
+  "name": "Oxford Dictionary of Literary Terms",
+  "description": "Provides clear, concise, and often witty definitions of the most troublesome literary terms from abjection to zeugma.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02020",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 18:52:10",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11156035",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11156035",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

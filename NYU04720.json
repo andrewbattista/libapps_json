@@ -1,0 +1,42 @@
+{
+  "id": "11155579",
+  "name": "Encyclopedia of Social Work",
+  "description": "Building off the classic reference work, a valuable tool for social workers for over 85 years, the online resource of the same name offers the reliability of print with the accessibility of a digital platform. Over 400 overview articles, on key topics ranging from international issues to ethical standards, offer students, scholars, and practitioners a trusted foundation for a lifetime of work and research, with new articles and revisions to existing articles added regularly.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04720",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 21:51:36",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155579",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

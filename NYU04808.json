@@ -1,0 +1,35 @@
+{
+  "id": "11155401",
+  "name": "Cochrane Clinical Answers (Wiley)",
+  "description": "Cochrane Clinical Answers (CCAs) contains a clinical question, a short answer, and an opportunity to ‘drill down’ to the evidence from relevant Cochrane reviews. The target audience is healthcare practitioners and professionals, and other informed health care decision-makers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04808",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28932",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-12 15:23:01",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155401",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

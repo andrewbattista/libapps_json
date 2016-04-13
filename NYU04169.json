@@ -1,0 +1,29 @@
+{
+  "id": "11155586",
+  "name": "Encyclopedia of World Dress and Fashion (via Berg Fashion Library)",
+  "description": "The Berg Fashion Library is an online portal which offers fully cross-searchable access to an expanding range of Berg content collections – including the Berg Encyclopedia of World Dress and Fashion online, e-books, reference works, images, and much more. More features include an extensive colour image bank, Links at article level to Oxford Art Online, and a Museum Directory.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04169",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 06:59:51",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

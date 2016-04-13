@@ -1,0 +1,17 @@
+{
+  "id": "11155405",
+  "name": "Colonial State Papers/Calendar of State Papers",
+  "description": "Provides access to thousands of papers concerning English activities in the American, Canadian, and West Indian colonies between the sixteenth and eighteenth centuries.Also includes a digitized version of The Calendar of State Papers, Colonial: North America and the West Indies 1574-1739, which contains bibliographic records and extracts for thousands of additional documents.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02335",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

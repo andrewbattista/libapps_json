@@ -1,0 +1,42 @@
+{
+  "id": "11156022",
+  "name": "Oxford Bibliographies Online: Music",
+  "description": "The study of music, “musicology,” is a relatively new discipline in academe, beginning in late nineteenth-century Germany. In the second half of the twentieth century, “ethnomusicology” became a viable academic discipline spawning a scholarly literature for the study of all musics not treated by traditional (“historical”) musicology. OBO: Music takes a pragmatic approach, based on the past and emerging literature about music.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04116",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-06-09 13:56:52",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11156022",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

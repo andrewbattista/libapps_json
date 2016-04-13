@@ -1,0 +1,53 @@
+{
+  "id": "17791572",
+  "name": "EIU Country Data",
+  "description": "This powerful and robust macroeconomic database is the most comprehensive source of economic indicators and forecasts available. CountryData delivers more than 280 economic series, over 1 million individual data points, from 1980 to 2008. The service contains concise summaries of our short-term political and economic forecasts on 181 countries. In addition, CountryData includes regularly updated data and forecasts of 40 commodities that are essential information for any business with exposure to international commodity markets.Covers 150 countries and 40 regional aggregates.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU02713",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51751",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-02 21:47:18",
+  "updated": "2016-02-17 05:45:38",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17791572",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "17791572",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

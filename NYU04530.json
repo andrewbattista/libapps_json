@@ -1,0 +1,18 @@
+{
+  "id": "11156058",
+  "name": "Parker Library on the Web",
+  "description": "",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04530",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "more_info": "An interactive, web-based workspace designed to support use and study of the manuscripts in the historic Parker Library at Corpus Christi College, Cambridge. The Parker Library's holdings of Old English texts accounts for nearly a quarter of all extant manuscripts in Anglo-Saxon, including the earliest copy of the Anglo-Saxon Chronicle (c. 890), the Old English Bede and King Alfred's translation of Gregory the Great's Pastoral Care. The Parker Library also contains key Anglo-Norman and Middle English texts ranging from the Ancrene Wisse and the Brut Chronicle to one of the finest copies of Chaucer's Troilus and Criseyde. Other subjects represented in the collection are music, medieval travelogues and maps, bestiaries, royal ceremonies, historical chronicles and Bibles. The Parker Library holds a magnificent collection of English illuminated manuscripts, such as the Bury and Dover Bibles (c. 1135 and c. 1150) and the Chronica maiora by Matthew Paris (c. 1230-50). Scholars in a variety of disciplines - including historians of art, music, science, literature, politics and religion - find invaluable resources in the Library's collection.",
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

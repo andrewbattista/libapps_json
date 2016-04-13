@@ -1,0 +1,53 @@
+{
+  "id": "11155494",
+  "name": "Digital Theatre Plus",
+  "description": "Digital Theatre Plus provides access to high definition filmed interviews and insights from playwrights, directors, designers, musicians and actors involved in the playmaking process. They also feature prepared workshop materials, scene and character studies, plot summaries and teachable background information to accompany Digital Theatre`s growing library of films.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04706",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 20:11:57",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155494",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155494",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

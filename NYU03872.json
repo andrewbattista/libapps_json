@@ -1,0 +1,29 @@
+{
+  "id": "11155525",
+  "name": "Education in Video",
+  "description": "Education in Video is the first online collection of streaming video developed specifically for training and developing teachers.It contains teaching demonstrations, lectures, documentaries, and primary-source footage of students and teachers in actual classrooms.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03872",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-15 11:39:04",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

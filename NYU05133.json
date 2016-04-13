@@ -1,0 +1,17 @@
+{
+  "id": "11155549",
+  "name": "Emily Dickinson Archive",
+  "description": "Emily Dickinson Archive makes high-resolution images of Dickinson’s surviving manuscripts available in open access, and provides readers with a website through which they can view images of manuscripts held in multiple libraries and archives.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05133",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "11155190",
+  "name": "American Drama 1714-1915",
+  "description": "Containing more than 1,500 dramatic works from the early eighteenth century up to the beginning of the twentieth, American Drama 1714–1915 contains plays in verse, farces, melodramas, minstrel shows, realist plays, frontier plays, temperance dialogues and a range of other genres are represented. Major dramatists include David Belasco, Rachel Crothers, Augustin Daly, Clyde Fitch, Edward Harrigan, James Herne, William Dean Howells and Joaquin Miller.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01184",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 20:21:51",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155190",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155190",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155190",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "11155880",
+  "name": "Mass Observation Online",
+  "description": "",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02918",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "more_info": "Provides access to one of the most important archives for the study of Social History in the modern era. This digital project is a multi-facteted resource, offering integrated access to the new online material, existing microfilm series, and the Mass-Observation Archive itself, allowing the user options to search across the entire Archive or by material available digitally. Mass Observation was a pioneering social research organisation whose papers provide insights into the cultural and social history of Britain. The material at the Mass Observation Archive, and now on Mass Observation Online, offers an unparalled insight into everyday life in the 1930s and 1940s. This publication opens up a host of essay and project possibilities on topics such as abortion, old age, crime, eating habits, shopping, fashion, dance, popular music, sex, sport, reading, ethnic minorities, and the decline of Empire. It will be welcomed by historians, literary scholars, sociologists, anthropologists and political scientists.",
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

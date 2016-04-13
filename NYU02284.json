@@ -1,0 +1,47 @@
+{
+  "id": "11155203",
+  "name": "American Song",
+  "description": "Includes songs by and about American Indians, miners, immigrants, slaves, children, pioneers, and cowboys. Included in the database are the songs of Civil Rights, political campaigns, Prohibition, the Revolutionary War, the Civil War, anti-war protests, and more. Now includes African American Song.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02284",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-06-08 18:00:35",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11155203",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10181,
+      "name": "Audio Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

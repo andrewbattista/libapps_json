@@ -1,0 +1,35 @@
+{
+  "id": "11156202",
+  "name": "Slavery and Anti-Slavery: A Transnational Archive",
+  "description": "Slavery and Anti-Slavery includes documents from the United States and Europe, as well as other parts of the world. In addition to newspaper collections and books published in the antebellum era, Slavery and Anti-Slavery contains documents from several archives originally available only on microfilm.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03542",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 19:08:08",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11156202",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

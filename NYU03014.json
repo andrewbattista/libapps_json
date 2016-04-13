@@ -1,0 +1,29 @@
+{
+  "id": "11155846",
+  "name": "LibWeb",
+  "description": "Libweb currently lists over 7500 pages from libraries in over 135 countries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03014",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-15 07:18:31",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

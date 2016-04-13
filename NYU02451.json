@@ -1,0 +1,35 @@
+{
+  "id": "11156043",
+  "name": "Oxford Islamic Studies Online",
+  "description": "Includes 3500 entries on reference content and commentary by renowned scholars in areas such as global Islamic history, concepts, people, practices, politics, and culture, and is regularly updated.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02451",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:23:38",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11156043",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "11156021",
+  "name": "Oxford Bibliographies Online: Medieval Studies",
+  "description": "The field of Medieval Studies explores European and Mediterranean civilization from the 4th to the 15th centuries. This period, which has a critical importance for the understanding of Western culture, can best be approached through a combination of several disciplines from history to English literature. As such, it is constantly responding to the emergence of new interpretations and ideas for scholars to consider.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04115",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 20:43:39",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59204",
+      "site_id": "873",
+      "name": "Medieval & Renaissance Studies",
+      "ordering": "0",
+      "slug_id": "480986",
+      "subject_id": "59204",
+      "content_id": "11156021",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

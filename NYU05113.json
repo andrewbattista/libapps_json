@@ -1,0 +1,53 @@
+{
+  "id": "11156279",
+  "name": "U.S. Political Stats (CQ Press)",
+  "description": "U.S. Political Stats is an easy-to-use data visualization and research tool designed to provide data on Congress, the Supreme Court, and the Presidency. Draw unique insights and comparisons between interest group scores and election returns, floor votes and demographics, and more. Analyze, compare, and export data in maps, tables, line graphs, bar charts, and pie charts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05113",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-12-04 20:39:54",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11156279",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11156279",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

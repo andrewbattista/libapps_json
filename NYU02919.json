@@ -1,0 +1,35 @@
+{
+  "id": "11155614",
+  "name": "Everyday Life & Women in America (AMP) (Adam Matthew Digital)",
+  "description": "This digital collection is an unparalleled resource for the study of American social, cultural, and popular history, providing immediate access to rare primary source material from the Sallie Bingham Center for Women’s History, Duke University and The New York Public Library. It comprises thousands of fully searchable images (alongside transcriptions) of monographs, pamphlets, periodicals and broadsides addressing 19th and early 20th century political, social and gender issues, religion, race, education, employment, marriage, sexuality, home and family life, health, and pastimes. The collection is especially rich in conduct of life and domestic management literature, offering vivid insights into the daily lives of women and men, as well as emphasizing contrasts in regional, urban and rural cultures.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02919",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:00:46",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155614",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

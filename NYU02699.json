@@ -1,0 +1,35 @@
+{
+  "id": "11155845",
+  "name": "Library of Latin Texts Series B",
+  "description": "The Library of Latin Texts-Series B gathers Latin texts of all genres and all periods. The collection is very diverse, and includes genres as varied as chronicles, medieval saints’ lives and travel narratives, legal texts, and theological, philosophical and scientific treatises from the early-modern period.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02699",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-09 20:53:42",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11155845",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "17967569",
+  "name": "ICSD (Inorganic Crystal Structure Database)",
+  "description": "A comprehensive database of inorganic crystal structures, including pure elements, minerals, metals, and intermetallic compounds (with atomic coordinates), ICSD offers detailed searching options and bibliographic information going back to 1913.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05356",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-08 14:27:59",
+  "updated": "2016-02-03 15:05:32",
+  "slug_id": "696697",
+  "subjects": [
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "17967569",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ICSD"
+}

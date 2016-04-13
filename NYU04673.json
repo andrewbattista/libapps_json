@@ -1,0 +1,17 @@
+{
+  "id": "11155850",
+  "name": "Literary Manuscripts Leeds",
+  "description": "Complete facsimile images of 190 manuscripts of 17th and 18th century verse held in the celebrated Brotherton Collection at the University of Leeds. These manuscripts can be read and explored in conjunction with the BCMSV database, which includes first lines, last lines, attribution, author, title, date, length, verse form, content and bibliographic references for over 6,600 poems within the collection. Additional features include interactive essays, biographies, a palaeography section with transcriptions and alphabets, and a large selection of colour images demonstrating over 320 examples of 17th and 18th century English handwriting.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04673",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

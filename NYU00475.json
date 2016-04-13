@@ -1,0 +1,70 @@
+{
+  "id": "11155983",
+  "name": "OECD iLibrary",
+  "description": "OECD iLibrary is the online library of the Organisation for Economic Co-operation and Development. Includes 20 Book collections by theme, containing all OECD monographs and reports; 24 periodicals; a reference title; and the OECD statistical databases. Also includes IEA Statistics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00475",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-13 20:41:59",
+  "slug_id": "653574",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155983",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11155983",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11155983",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/oecdilibrary",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    },
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

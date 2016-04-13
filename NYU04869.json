@@ -1,0 +1,17 @@
+{
+  "id": "11155728",
+  "name": "I libri Database Plus (Casalini libri)",
+  "description": "A bibliographical reference tool. Comprehensive bibliographical information on all Italian books relevant to academic libraries published from 1985 to date is combined with sophisticated search facilities and value-adding additional content (tables of contents, abstracts, information on forthcoming titles and cover images).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04869",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

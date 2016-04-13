@@ -1,0 +1,35 @@
+{
+  "id": "11155461",
+  "name": "D & B Key Business Ratios",
+  "description": "Provides financial norm and business ratio data developed from actual company income statements and balance sheets. The information is arranged by SIC code, with a short industry title, and an indication of the number of companies in each industry sample. Both typical and common-size financial statements and 14 key ratios provide important information about industry performance with respect to solvency, efficiency and, profitability.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02362",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-09 20:18:24",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155461",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11155817",
+  "name": "Kraus Curriculum Development Library",
+  "description": "Searchable database of curricula, frameworks, and standards that brings together educational objectives, content, instructional strategies, and evaluative techniques for all subjects covered in PreK-12 and Adult Basic Education.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02562",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

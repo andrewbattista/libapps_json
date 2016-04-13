@@ -1,0 +1,17 @@
+{
+  "id": "11155294",
+  "name": "Black Newspapers",
+  "description": "Provides full-text access to: Afro-American Red Star, Washington, D.C. (2006 to present); Call & Post; Cleveland, Ohio, (2005 - 2009); Chicago Defender; Chicago, Ill. (1999 - current) Houston Post; Houston, Tex.; Michigan Chronicle; Detroit, Mich. (1994 - current); Muslim Journal; Chicago, Ill.; New Journal & Guide; Norfolk, Va.; New York Amsterdam News; New York, N.Y. (1993 - current), Sentinel; Los Angeles, Calif.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02992",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

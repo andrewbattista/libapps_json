@@ -1,0 +1,53 @@
+{
+  "id": "11155172",
+  "name": "Alexander Street Literature",
+  "description": "Cross-searchable package of collections covering literatures of place, race, and gender. Features 14 collections and offers over 250,000 pages of poetry, short fiction, and novels, along with more than 5,000 full-text plays and film scripts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02270",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28929",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-07-19 18:31:13",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155172",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155172",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11155944",
+  "name": "New World Cinema : Independent Features and Shorts",
+  "description": "This resource offers access to roughly 200 full-length feature films from 1990-Present. The collection incorporates leading independent distributors such as Kino Lorber, First Run Features, Film Movement, MK2, and Global Lens. There are also some 50 award winning short films. All films were presented at major film festivals, many were nominated for awards, and many have won major awards.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04387",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 21:48:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155944",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

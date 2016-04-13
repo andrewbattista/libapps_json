@@ -1,0 +1,35 @@
+{
+  "id": "11155425",
+  "name": "Confidential Print: Latin America 1833-1969",
+  "description": "Confidential Print: Latin America includes the following file classes from The National Archives, Kew in their entirety: FO 420/1-294: Central and South America general, 1833-1941 FO 467/1-5: Brazil, 1947-1951 FO 486/1-10: Mexico, 1947-1956 FO 495/1-10: River Plate countries (Argentina, Paraguay and Uruguay), 1947-1956 FO 497/1-10: South America general, 1947-1956 FO 533/1-11: Central America and Caribbean general, 1946-1957 The following selected files are also included: FO 118/276, 281, 287, 292, 305, 317, 331: South and Central America general, 1906-1913 FO 177/297: Chilean Revolution, 1891 FO 461/14-22: Americas general, 1958-1969 FO 508/8: South and Central America general, 1908-1909",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04421",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:15:30",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11155425",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

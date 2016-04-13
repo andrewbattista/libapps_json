@@ -1,0 +1,17 @@
+{
+  "id": "11155588",
+  "name": "EndNote Web",
+  "description": "You can export citations to EndNote Web and download them later to EndNote on your desktop, or create bibliographies directly from EndNote Web. EndNote Web serves as a companion to EndNote. * If you are a first time user of the Endnote, please refer to the NYU Libguide (http://guides.nyu.edu/endnote)",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03400",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-07-18 16:18:24",
+  "slug_id": "0"
+}

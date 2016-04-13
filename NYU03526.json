@@ -1,0 +1,35 @@
+{
+  "id": "11155185",
+  "name": "American Antiquarian Society (AAS) Historical Periodicals Collection (EBSCO)",
+  "description": "Provide digital access to the most comprehensive collection of American periodicals published between 1691 and 1877. Included digitized images of American magazines and journals never before available outside the walls of the American Antiquarian Society. The collection is available in five series: Series 1 (1691-1820) - Series 2 (1821-1837) - Series 3 (1838-1852) - Series 4 (1853-1865) - Series 5 (1866-1877)",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03526",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-14 19:04:34",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155185",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

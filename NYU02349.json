@@ -1,0 +1,102 @@
+{
+  "id": "11155428",
+  "name": "Congressional Publications (ProQuest)",
+  "description": "Indexes and provides selected full texts of Congressional publications, regulations, laws, legislative histories, and background information on members of Congress.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02349",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-10 01:09:15",
+  "slug_id": "651704",
+  "subjects": [
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11155428",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155428",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11155428",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11155428",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11155428",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11155428",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155428",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/congressionalpublications"
+}

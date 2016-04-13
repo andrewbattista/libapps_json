@@ -1,0 +1,42 @@
+{
+  "id": "11155583",
+  "name": "Encyclopedia of the Islamic World",
+  "description": "This resource is a major revision and massive expansion of the 1995 Oxford Encyclopedia of the Modern Islamic World. In addition to covering Islamic societies in the modern world from the eighteenth century to the present, as Modern Islamic World did, it adds a depth of historical background going back to the pre-Islamic era. It also covers the full geographical extent of Islam by focusing not only on the countries in which Islam is dominant, but also on regions in which Muslims live as minorities, such as Europe and the Americas.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03978",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:30:34",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155583",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "17750751",
+  "name": "World Advertising Research Center (WARC)",
+  "description": "WARC (formerly “World Advertising Research Center”) is a database providing access to advertising and marketing information from various sources. The searchable sources include organizations of various countries, monographs, conference papers, case studies, abstracts (including ‘Market research abstracts’) and the full-text of various journals, including the International journal of market research, the Journal of advertising research, the International journal of advertising, Admap, the Journal of advertising history and Market leader.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05164",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-01 16:35:56",
+  "updated": "2016-02-03 15:27:31",
+  "slug_id": "742193",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17750751",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/WARC"
+}

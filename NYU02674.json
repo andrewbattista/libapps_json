@@ -1,0 +1,48 @@
+{
+  "id": "11155306",
+  "name": "Bloomberg",
+  "description": "Bloomberg provides analysis and quotes for equities and indices around the globe, current company, industry and market news, and economic data for the countries of the world.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU02674",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "This resource is only accessible in Bobst Library. To use this resource, stop by the 5th floor Reference Center.",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-24 22:33:58",
+  "slug_id": "628790",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155306",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/bloomberg",
+  "icons": [
+    {
+      "id": "8402",
+      "site_id": "873",
+      "file": "pdf_icon.gif",
+      "description": "Access instructions",
+      "url": "",
+      "content_id": "11155306",
+      "icon_id": "8402",
+      "custom_url": "http://docdro.id/iwl8u9M"
+    }
+  ]
+}

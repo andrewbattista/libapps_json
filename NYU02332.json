@@ -1,0 +1,47 @@
+{
+  "id": "11155395",
+  "name": "Classical Music Library",
+  "description": "Search for and listen to classical music recordings from multiple labels. The growing collection of 50,000-plus tracks includes recordings from the world's greatest labels including Hyperion, Bridge Records, Sanctuary Classics, Artemis-Vanguard, Hänssler Classic, Vox and many more. Coverage includes music written from the earliest times (e.g. Gregorian Chant) to the present, including many contemporary composers. Repertoire ranges from vocal and choral music, to chamber, orchestral, solo instrumental, and opera.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02332",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-06-08 18:01:05",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11155395",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10181,
+      "name": "Audio Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

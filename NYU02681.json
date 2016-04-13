@@ -1,0 +1,17 @@
+{
+  "id": "11155362",
+  "name": "CETEDOC Library of Christian Texts",
+  "description": "his database contains a set of forms representing the entirety of the volumes published in the Corpus Christianorum, both the Series Latina and the Continuatio Mediaeualis, the opera omnia of major authors such as Augustine, Jerome, and Gregory the Great, as well as several works not yet available in the Corpus Christianorum but included in the Corpus Scriptorum Ecclesiasticorum Latinorum of Vienna, the Patrologia Latina, or other collections. The texts are divided in sententiae and can be searched by author, work, form (term), period, etc. The user's guide contains a complete list of works included.**Available in the Digital Studio, located on the 2nd floor of Bobst Library.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02681",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

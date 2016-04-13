@@ -1,0 +1,22 @@
+{
+  "id": "11156128",
+  "name": "Race & Class (SAGE)",
+  "description": "Provides full-text access to the journal, Race and Class from 1959 to date. Race & Class is the Institute of Race Relations' quarterly journal on racism, empire and globalisation.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02068",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-01-05 23:03:06",
+  "slug_id": "0"
+}

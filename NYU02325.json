@@ -1,0 +1,35 @@
+{
+  "id": "11155368",
+  "name": "Chicago Homer",
+  "description": "The Chicago Homer is a multilingual database that uses the search and display capabilities of electronic texts to make the distinctive features of Early Greek epic accessible to readers with and without Greek. In addition to all the texts of ancient Greek epic in the original Greek the Chicago Homer includes English and German translations, in particular Lattimore's translation of the Iliad, Daryl Hine's translations of Hesiod and the Homeric Hymns, and the German translations of the Iliad and Odyssey by Johan Heinrich Voss. Through the associated web site Eumaios users of the Chicago Homer can also from each line of the poem access pertinent Iliad Scholia and papyrus readings.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02325",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 20:29:14",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11155368",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

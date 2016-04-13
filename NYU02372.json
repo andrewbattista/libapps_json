@@ -1,0 +1,76 @@
+{
+  "id": "11155493",
+  "name": "Digital Sanborn Maps, 1867-1970",
+  "description": "Provides access to more than 660,000 large-scale maps of more than 12,000 American towns and cities.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02372",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-10 01:44:19",
+  "slug_id": "651718",
+  "subjects": [
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11155493",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155493",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155493",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155493",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sanborn",
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

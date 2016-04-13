@@ -1,0 +1,42 @@
+{
+  "id": "17437973",
+  "name": "OntheBoards.tv",
+  "description": "OntheBoards.tv is an on-demand website and HD-quality contemporary performance films.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05242",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-13 22:25:58",
+  "updated": "2016-02-03 15:06:51",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "17437973",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

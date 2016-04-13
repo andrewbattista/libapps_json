@@ -1,0 +1,17 @@
+{
+  "id": "11156191",
+  "name": "Senate Executive Journals: Archive of Americana",
+  "description": "Journals of the executive proceedings of the United States Senate 1789 to 1980, covering the first Congress through the 96th Congress.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02607",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

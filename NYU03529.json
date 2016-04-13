@@ -1,0 +1,17 @@
+{
+  "id": "11155980",
+  "name": "NYU Survey Service (Qualtrics)",
+  "description": "The NYU Survey Service provides Qualtrics, a tool for creating and administering web-based surveys for research, teaching, and administrative needs. This service is now available to current faculty, retired faculty, administrators, staff, and students in degree programs. Authorized NYU community members can access the NYU Survey Service through the Research tab in NYUHome (home.nyu.edu). (Stern affiliates should use Surveys@Stern: https://w3.stern.nyu.edu/ Log in using your NYU NetID and password. The NYU Survey Service (Qualtrics) is provided jointly by ITS and the Division of Libraries, via the Data Service Studio (DSS). Support for this service is available at guides.nyu.edu/survey and through the DSS by sending email to data.service@nyu.edu, calling 212-998-3434, or visiting the 6th floor of Bobst Library (70 Washington Square South) during business hours. Current hours can be found at library.nyu.edu/about/access.html",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03529",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-07-18 16:18:24",
+  "slug_id": "0"
+}

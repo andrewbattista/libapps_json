@@ -1,0 +1,17 @@
+{
+  "id": "11155228",
+  "name": "Archives Direct (Adam Matthew)",
+  "description": "Archives Direct is a suite of collections sourced from The National Archives, Kew, the official archive of the United Kingdom. Containing diplomatic correspondence, letters, reports, surveys, material from newspapers, statistical analyses, published pamphlets, ephemera, military papers, profiles of prominent individuals, maps and many other types of document, it consists of the history of the nineteenth and twentieth centuries from the British state’s point of view. Archives Direct also features a contextualising chronology spanning the date range of the entire suite of collections, and (for selected collections) map galleries showcasing the hundreds of colour maps included throughout the material.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05086",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

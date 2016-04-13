@@ -1,0 +1,48 @@
+{
+  "id": "17438068",
+  "name": "Capital IQ",
+  "description": "Capital IQ has information on private equities, venture capital, LBOs, hedge funds, private and public companies, M&As, buy-backs, and more.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05163",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51751",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "Capital IQ is available to Stern MBA students only! <br />\r\nTo access this database, eligible students should contact Kathi To at the Stern Career Resources Center. Kathi can be reached at: kathi.to@nyu.edu or (212)998-0989 <br />\r\n<br />\r\nCapital IQ is available to NYU Stern MBA students taking courses in which professors have indicated that Capital IQ is required. Students not taking courses which require use of Capital IQ must use terminals located in the KMC 5th floor printing station, and terminals for Stern undergraduates at the base of staircase Y on the LC level. To access, click on the bookmarked Capital IQ link on any browser.",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-13 22:36:13",
+  "updated": "2016-03-16 14:10:47",
+  "slug_id": "678461",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17438068",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/capitalIQ",
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "17438068",
+      "icon_id": "8403",
+      "custom_url": ""
+    }
+  ]
+}

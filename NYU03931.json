@@ -1,0 +1,29 @@
+{
+  "id": "11155714",
+  "name": "Historical Newspapers Online",
+  "description": "This table provides a list of historical U.S. newspapers that are available online at no cost. Newspapers available for free through Google News Historical Archives and Newspaperarchives.com are listed individually as I identify them. Newspapers available through Chronicling America and state digitization projects are usually listed as a group. For instance, under 'Wyoming' I have not listed every newspaper digitized in the project but simply described what is available.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03931",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 10:18:09",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

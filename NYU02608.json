@@ -1,0 +1,120 @@
+{
+  "id": "11156200",
+  "name": "SimplyMap",
+  "description": "SimplyMap is a web-based mapping application with access to thousands of demographic, business, and marketing data variables that can be used to develop interactive thematic maps and export high-resolution images to word processing or presentation software. Individual registrations are required.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02608",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:07:34",
+  "slug_id": "486715",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11156200",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11156200",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59190",
+      "site_id": "873",
+      "name": "Public Health",
+      "ordering": "0",
+      "slug_id": "480966",
+      "subject_id": "59190",
+      "content_id": "11156200",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11156200",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58945",
+      "site_id": "873",
+      "name": "Real Estate",
+      "ordering": "0",
+      "slug_id": "480962",
+      "subject_id": "58945",
+      "content_id": "11156200",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11156200",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/simplymap",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8020",
+      "site_id": "873",
+      "file": "DS_icon.png",
+      "description": "Supported by Data Services",
+      "url": "",
+      "content_id": "11156200",
+      "icon_id": "8020",
+      "custom_url": ""
+    },
+    {
+      "id": "8402",
+      "site_id": "873",
+      "file": "pdf_icon.gif",
+      "description": "Access instructions",
+      "url": "",
+      "content_id": "11156200",
+      "icon_id": "8402",
+      "custom_url": ""
+    }
+  ]
+}

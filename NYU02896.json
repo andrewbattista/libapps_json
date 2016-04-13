@@ -1,0 +1,54 @@
+{
+  "id": "11155225",
+  "name": "Archive of Americana",
+  "description": "This family of historical collections contains books, pamphlets, broadsides, newspapers, government documents and ephemera printed in America over three centuries. Includes America's Historical Newspapers, American Broadsides and Ephemera, Early American Imprints (Series I and II), House and Senate Journals (Series I, 1789-1817), and Senate Executive Journals (1789-1980)",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02896",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:22:25",
+  "slug_id": "651496",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155225",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155225",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/archiveofamericana",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

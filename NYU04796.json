@@ -1,0 +1,16 @@
+{
+  "id": "20695107",
+  "name": "Kanopy Streaming",
+  "description": "Kanopy is a leading distributor of online educational videos, offering colleges, schools, hospitals, corporates and other educational institutions a comprehensive, one-stop shop for all their streaming video needs.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04796",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

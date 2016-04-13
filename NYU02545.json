@@ -1,0 +1,36 @@
+{
+  "id": "11155774",
+  "name": "International Financial Statistics Online",
+  "description": "A standard source of international statistics on all aspects of international and domestic finance. It reports, for most countries of the world, current data needed in the analysis of problems of international payments and of inflation and deflation, i.e., data on exchange rates, international liquidity, international banking, money and banking, interest rates, prices, production, international transactions, government accounts, and national accounts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02545",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-15 17:42:48",
+  "slug_id": "655303",
+  "subjects": [
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11155774",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/IFS"
+}

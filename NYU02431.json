@@ -1,0 +1,17 @@
+{
+  "id": "11155931",
+  "name": "National Newspaper Index",
+  "description": "**Please note that this database is part of the NovelNY database package and is therefore only available to users within the NYUNY network.** 1977 - present. National Newspaper Index provides access to the indexing of America's top five newspapers: The New York Times, The Wall Street Journal, The Christian Science Monitor, Los Angeles Times and The Washington Post.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02431",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

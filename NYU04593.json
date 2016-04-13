@@ -1,0 +1,55 @@
+{
+  "id": "11155377",
+  "name": "China Geo-Explorer II",
+  "description": "China Geo-Explorer is an intelligence spatial data service offered by the University of Michigan China Data Center, in collaboration with the All China Market Research Co., Ltd and the State Key Laboratory for Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS) of Wuhan University. It offers China demographic and economic data, maps, charts and reports in the web-based delivery system. With this spatial intelligence, users are able to make rapid, accurate spatial decisions with greater confidence for regional planning, business investment, population, housing, environmental assessment, public health and many other spatial applications. Data sources in this database includes demographic and business information for all PRC geographies, including 31 Provinces, 345 Prefecture Cities, 2,873 Counties, and over 50,000 Townships.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04593",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-13 20:42:30",
+  "slug_id": "653575",
+  "subjects": [
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11155377",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/geoexplorerII",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8020",
+      "site_id": "873",
+      "file": "DS_icon.png",
+      "description": "Supported by Data Services",
+      "url": "",
+      "content_id": "11155377",
+      "icon_id": "8020",
+      "custom_url": ""
+    }
+  ]
+}

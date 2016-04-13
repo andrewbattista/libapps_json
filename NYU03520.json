@@ -1,0 +1,17 @@
+{
+  "id": "11155452",
+  "name": "Criminal Justice Abstracts with Full Text (EBSCO)",
+  "description": "This resource covers more than 200,000 records from the discipline. This includes criminology, criminal justice, criminal law, forensic science, prison, policing, history of crime, investigation, and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03520",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

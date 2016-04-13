@@ -1,0 +1,42 @@
+{
+  "id": "11155224",
+  "name": "Archive Finder",
+  "description": "Archive Finder is a current directory which describes over 206,200 collections of primary source material housed in thousands of repositories across the United States, the United Kingdom and Ireland.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02289",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-14 18:26:29",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "79676",
+      "site_id": "873",
+      "name": "History of the United States",
+      "ordering": "0",
+      "slug_id": "672100",
+      "subject_id": "79676",
+      "content_id": "11155224",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

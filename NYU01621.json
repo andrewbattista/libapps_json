@@ -1,0 +1,36 @@
+{
+  "id": "11156123",
+  "name": "Psychology: A SAGE Full-Text Journal Collection",
+  "description": "Psychology (SAGE) includes the full text of 35 journals published by SAGE and participating societies. I covers subjects such as Applied Psychology, Assessment, Child Development, Clinical Psychology, Cognitive Psychology, Counseling Psychology, Cross-Cultural Psychology, Cultural Psychology, Developmental Psychology, Educational Psychology, Environmental Psychology, Family Studies, Group Work, Industrial/Organizational Psychology, Language Acquisition, Latin American Studies, Learning Disabilities, Measurement, Neuropsychology, Personality, Philosophical Psychology, Psychiatry, Psychology of Diversity, School Psychology, Social Psychology, and Sociology of Race and Ethnicity.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01621",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "more_info": "Provides full text access to journals: Applied Psychological Measurement, Assessment, Autism, Published in association with The National Autistic Society, Behavior Modification, Behavior & Cognitive Neuroscience Reviews, (ceased publication in 2006), Clinical Child Psychology and Psychiatry, The Counseling Psychologist, Criminal Justice and Behavior, Culture & Psychology, Educational and Psychological Measurement, Environment & Behavior, Family and Consumer Sciences Research Journal, The Family Journal, Feminism & Psychology, First Language, Group Analysis, Group Processes & Intergroup Relations, Hispanic Journal of Behavioral Sciences, International Journal of Behavioral Developments, Journal of Adolescent Research, Journal of Attention Disorders, Journal of Black Psychology, Official publication of the Association of Black Psychologists, Journal of Career Assessment, Journal of Career Development,Journal of Cross-cultural Psychology, Published for the International Association for Cross-cultural Psychology, Journal of Early Adolescence, Journal of Health Psychology, Journal of Humanistic Psychology, Published in cooperation with the Association for Humanistic Psychology, Journal of Language & Social Psychology, Journal of Psychoeducational Assessment, Journal of Social & Personal Relationships, Personality and Social Psychology Bulletin, Psychology of Music, Journal of the Society for Education, Music, and Psychology Research,Research on Aging, School Psychology International, and Theory & Psychology.",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-03 18:31:13",
+  "slug_id": "742534",
+  "subjects": [
+    {
+      "id": "56178",
+      "site_id": "873",
+      "name": "Psychology & Neuroscience",
+      "ordering": "0",
+      "slug_id": "480969",
+      "subject_id": "56178",
+      "content_id": "11156123",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sagepsychology"
+}

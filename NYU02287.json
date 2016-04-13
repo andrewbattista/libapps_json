@@ -1,0 +1,76 @@
+{
+  "id": "11155206",
+  "name": "Ancestry Library Edition",
+  "description": "Ancestry Library Edition provides access to more than 5 billion names in more than 4,000 genealogical databases including census records, passenger lists, and UK & Ireland records.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02287",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-03 14:54:47",
+  "slug_id": "620528",
+  "subjects": [
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11155206",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59305",
+      "site_id": "873",
+      "name": "Irish & Irish American Studies",
+      "ordering": "0",
+      "slug_id": "480999",
+      "subject_id": "59305",
+      "content_id": "11155206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155206",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155206",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/ancestry",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

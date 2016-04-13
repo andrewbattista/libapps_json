@@ -1,0 +1,16 @@
+{
+  "id": "20695076",
+  "name": "Case-based Online Radiology Education (CORE) (MedU)",
+  "description": "Case-based Online Radiology Education (CORE) is MedU's virtual patient program for medical students studying radiology. CORE currently includes interactive virtual patient cases which encompass the learning objectives of the Association of University Radiologists (AUR) and the Alliance of Medical Student Educators in Radiology (AMSER) National Medical Student Radiology Curriculum.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05407",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

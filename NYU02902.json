@@ -1,0 +1,29 @@
+{
+  "id": "11155590",
+  "name": "English Dictionaries & Thesauruses via Oxford Reference Online",
+  "description": "Search across dictionaries and thesauri published by Oxford. Titles included are: The New Oxford American Dictionary, The Australian Oxford Dictionary, The Canadian Oxford Dictionary, The Oxford American Dictionary of Current English, The Concise Oxford English Dictionary, The Oxford Dictionary of English (2nd edition revised), The New Zealand Oxford Dictionary, The Oxford American Thesaurus of Current English, The Oxford Paperback Thesaurus, and Visual English Dictionary.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02902",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:19:07",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

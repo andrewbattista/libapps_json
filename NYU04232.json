@@ -1,0 +1,17 @@
+{
+  "id": "11155602",
+  "name": "Epocrates Online",
+  "description": "The Epocrates Online Premium drug and disease reference provides practical, peer-reviewed content in an easy-to-use format. Also includes pill identifier, OTC drugs, alternative medicines, and many calculators.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04232",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

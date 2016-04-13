@@ -1,0 +1,35 @@
+{
+  "id": "19657148",
+  "name": "Meet the Press",
+  "description": "Meet the Press is broadcast-television’s longest-running program, with interviews, panels, and debates from across the political spectrum. This resource provides streaming video of the NBC’s Meet the Press with running transcripts, including every surviving program from the show’s inception in 1947 through the present day.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05248",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28929",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 08:52:52",
+  "updated": "2016-04-05 16:39:45",
+  "slug_id": "790566",
+  "friendly_url": "http://guides.nyu.edu/meetthepress",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

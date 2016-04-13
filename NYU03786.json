@@ -1,0 +1,17 @@
+{
+  "id": "11156052",
+  "name": "OxResearch",
+  "description": "This database provides succinct analytical articles covering world and regional economic and political developments of major significance. Additionally, it contains objective, multi-disciplinary articles compiled by an extensive international network of over 1,000 faculty members at Oxford and other leading universities around the world, as well as think-tanks and institutes of international standing from 1986-present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03786",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

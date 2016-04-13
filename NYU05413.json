@@ -1,0 +1,16 @@
+{
+  "id": "20695082",
+  "name": "Chemical Carcinogenesis Research Information System (CCRIS)",
+  "description": "For the National Library of Medicine (NLM), CCRIS is a section of ToxNet. Offers carcinogenicity and mutagenicity test results for over 8,000 chemicals.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05413",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

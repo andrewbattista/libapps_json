@@ -1,0 +1,29 @@
+{
+  "id": "11156236",
+  "name": "Statistical Abstract of the U.S. (1993-present)",
+  "description": "The Statistical Abstract of the United States is the authoritative and comprehensive summary of statistics on the social, political, and economic organization of the United States. The Census Bureau ceased production of the Statistical Abstract in 2012; newer versions are compiled and distributed by ProQuest. Use the Abstract as a convenient volume for statistical reference, and as a guide to sources of more information both in print and on the Web Sources of data include the Census Bureau, Bureau of Labor Statistics, Bureau of Economic Analysis, and many other Federal agencies and private organizations. For historical Statistical Abstracts, see Statistical Abstract of the United States (1878-2012).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04479",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 05:43:19",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

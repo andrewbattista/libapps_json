@@ -1,0 +1,76 @@
+{
+  "id": "11155287",
+  "name": "Biological & Agricultural Index Plus (EBSCO)",
+  "description": "Indexes English-language periodicals published in the United States and elsewhere. The database includes abstracts and full text coverage for selected journals. Periodical coverage includes a wide range of scientific journals, from popular to professional, that pertain to biology and agriculture. About 45 percent of the focus is on agriculture. Dates of coverage: 1983 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01576",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 05:37:05",
+  "slug_id": "662175",
+  "subjects": [
+    {
+      "id": "58942",
+      "site_id": "873",
+      "name": "Anthropology",
+      "ordering": "0",
+      "slug_id": "480939",
+      "subject_id": "58942",
+      "content_id": "11155287",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11155287",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155287",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11155287",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/biologicalandagricultural",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "11155909",
+  "name": "Met Opera on Demand",
+  "description": "Met Opera on Demand: Student Access offers users instant access to more than 500 full-length Met performances, including stunning HD videos from the Met’s award-winning Live in HD series of movie theater transmissions, classic telecasts from the 1970s, ‘80s, and ‘90s, and hundreds of radio broadcasts dating back to 1935. All videos include English subtitles, and recent HD videos include subtitles in French, German, Italian, Portuguese, Russian, and/or Spanish. Every opera includes an English synopsis, with synopses in multiple languages available for many operas.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04928",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-06-09 14:04:37",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11155909",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

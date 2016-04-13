@@ -1,0 +1,17 @@
+{
+  "id": "11156272",
+  "name": "Translated Texts for Historians E-Library",
+  "description": "Translated Texts for Historians (TTH) book series makes available historical sources from 300-800 AD translated into English, in many cases for the first time. The Translated Texts for Historians E-Library now offers this invaluable collection as a digital library, containing over 60 volumes from the series that bring together a wealth of important historical texts with scholarship from leading academics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05095",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

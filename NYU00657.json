@@ -1,0 +1,68 @@
+{
+  "id": "11155783",
+  "name": "IOPscience (Institute of Physics)",
+  "description": "IOPscience is an online service for journal content published by IOP Publishing. IOPscience embraces innovative technologies to make it easier for researchers to access scientific, technical and medical content.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00657",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-12-04 14:18:17",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59272",
+      "site_id": "873",
+      "name": "Astronomy",
+      "ordering": "0",
+      "slug_id": "480948",
+      "subject_id": "59272",
+      "content_id": "11155783",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "11155783",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11155783",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155783",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

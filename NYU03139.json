@@ -1,0 +1,36 @@
+{
+  "id": "11156087",
+  "name": "PopLine (Johns Hopkins University Press)",
+  "description": "POPLINE is the world's largest bibliographic database of family planning and related health and development issues. It is part of The Information and Knowledge for Optimal Health Project (the INFO Project), based at the Johns Hopkins University Bloomberg School of Public Health's Center for Communication Programs, receives support from the United States Agency for International Development (USAID). The INFO Project expands on the work of its predecessor, the Population Information Program (PIP).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03139",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36970",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 21:28:10",
+  "slug_id": "673790",
+  "subjects": [
+    {
+      "id": "59190",
+      "site_id": "873",
+      "name": "Public Health",
+      "ordering": "0",
+      "slug_id": "480966",
+      "subject_id": "59190",
+      "content_id": "11156087",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/popline"
+}

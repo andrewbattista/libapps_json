@@ -1,0 +1,58 @@
+{
+  "id": "11155820",
+  "name": "LAPOP: Americas Barometer",
+  "description": "The Latin American Public Opinion Project (LAPOP) specializes in the development, implementation, and analysis of public opinion surveys. Since the 1970s, LAPOP has gathered a treasure-trove of databases containing political perspectives from Latin America and the Caribbean.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04072",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:16:09",
+  "slug_id": "673776",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11155820",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11155820",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11155820",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/LAPOP"
+}

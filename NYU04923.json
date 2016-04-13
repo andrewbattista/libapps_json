@@ -1,0 +1,29 @@
+{
+  "id": "11155716",
+  "name": "History of Afghanistan Online (Brill)",
+  "description": "This database is the online version of History of Afghanistan (sets). Sirāj al-tawārīkh or The History of Afghanistan was commissioned as an official national history by the Afghan prince, later amir, Habib Allah Khan (reigned 1901-1919). The author, Fayz Muhammad Khan, better known as “Katib” (The Writer), was a scribe at the royal court. For more than twenty years, he had full access to government archives and oral sources and thus presents an unparalleled picture of the country from its founding in 1747 until the end of the nineteenth century. The roots of much of the fabric of Afghanistan’s society today—tribe and state relations, the rule of law, gender issues, and the economy—are elegantly and minutely detailed in this immense work.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04923",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:01:18",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

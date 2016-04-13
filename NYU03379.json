@@ -1,0 +1,42 @@
+{
+  "id": "11156031",
+  "name": "Oxford Classical Dictionary (Oxford Reference Online)",
+  "description": "The Oxford Classical Dictionary is a one volume reference work on all aspects of the Graeco-Roman world. It provides both scholars and non-specialists with a comprehensive source of reference which aims to answer all their questions about the classical world. Written by the very best of classical scholars from all over the world, the Dictionary provides coverage of Greek and Roman history, literature, myth, religion, linguistics, philosophy, law, science, art and archaeology, and topics in near eastern studies and late antiquity.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03379",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 19:22:28",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11156031",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

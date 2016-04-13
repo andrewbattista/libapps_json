@@ -1,0 +1,36 @@
+{
+  "id": "16870659",
+  "name": "CB Insights",
+  "description": "CB Insights is a venture capital analytics platform that provides daily real-time information about venture capital and angel investor-backed startup companies, venture capital companies, angel investors and transactions in the United States. ** Requires Individual Login (please register with your valid NYU email address) **",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05244",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "2",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-10-23 17:43:45",
+  "updated": "2016-04-05 16:37:56",
+  "slug_id": "661350",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "16870659",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/cbinsights"
+}

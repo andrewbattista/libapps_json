@@ -1,0 +1,53 @@
+{
+  "id": "11155570",
+  "name": "Encyclopedia of Jews in the Islamic World",
+  "description": "Encyclopedia of Jews in the Islamic World The Encyclopedia of Jews in the Islamic World covers an area of Jewish history, religion and culture. The Encyclopedia fills the gap in academic reference literature on the Jews of Muslim lands particularly in the late medieval, early modern and modern periods. It is part of Brill Online searchable suite of databases.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04005",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 19:32:09",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155570",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155570",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

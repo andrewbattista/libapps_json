@@ -1,0 +1,29 @@
+{
+  "id": "11155908",
+  "name": "Merriam-Webster Online",
+  "description": "Includes searchable text of Merriam-Webster's Collegiate Dictionary, Merriam-Webster's Collegiate Thesaurus, word of the day, word games, Word for the Wise radio transcripts, and access to 230 other language dictionaries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02757",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:19:48",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "11156319",
+  "name": "Web of Science Plus",
+  "description": "Web of Science Plus (formerly Web of Knowledge) allows you to cross-search ISI databases: Web of Science, Biological Abstracts, BIOSIS Previews, Food Science and Technology Abstracts, INSPEC, Medline, and Journal Citation Reports.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02589",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:51:47",
+  "slug_id": "685161",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11156319",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/webofscienceplus",
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11156319",
+      "icon_id": "8403",
+      "custom_url": "http://www.youtube.com/watch?v=Ulfu0njSZN0"
+    }
+  ]
+}

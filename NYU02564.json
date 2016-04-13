@@ -1,0 +1,42 @@
+{
+  "id": "11155553",
+  "name": "Encyclopaedia of the Quran Online",
+  "description": "Drawing upon a rich scholarly heritage, Brill's Encyclopaedia of the Quran (EQ) combines alphabetically-arranged articles about the contents of the Quran. It is an encyclopaedic dictionary of Quranic terms, concepts, personalities, place names, cultural history and exegesis extended with essays on the most important themes and subjects within Quranic studies. With nearly 1000 entries in 5 volumes, the EQ is the first comprehensive, multi-volume reference work on the Quran to appear in a Western language. It is part of Brill Online searchable suite of databases.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02564",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 06:56:56",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155553",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

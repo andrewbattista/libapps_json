@@ -1,0 +1,35 @@
+{
+  "id": "11155871",
+  "name": "Making of Modern Law: Trials, 1600-1926",
+  "description": "Covering a vast range of legal history from the beginnings of the modern period to the early twentieth century, this unprecedented archive is by far the world's most comprehensive full-text collection of Anglo-American trials.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01628",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-21 00:53:42",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11155871",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

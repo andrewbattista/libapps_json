@@ -1,0 +1,43 @@
+{
+  "id": "11156174",
+  "name": "Sanborn Maps Geo Edition: States Package",
+  "description": "This resource supplies access to thousands of large-scale maps of American towns and cities, searchable by address and GPS coordinates. Sanborn fire insurance maps chart the growth and development of thousands of America towns and cities across a century. It also Examines temporal (time) changes with tools that layer maps from different years on top of each other and over modern street, satellite, and hybrid layers via a Google map interface.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04378",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-03-11 18:16:59",
+  "slug_id": "771499",
+  "subjects": [
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11156174",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sanborngeo",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

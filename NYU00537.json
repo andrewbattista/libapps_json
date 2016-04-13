@@ -1,0 +1,29 @@
+{
+  "id": "11155312",
+  "name": "Book Review Digest Plus (EBSCO)",
+  "description": "Indexes reviews of current fiction and non-fiction, and provides review excerpts and over 100,000 full text reviews. The database includes children’s books as well as books for adults and young adults. Dates of coverage: 1983 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00537",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 05:34:19",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

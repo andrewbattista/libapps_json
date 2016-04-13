@@ -1,0 +1,35 @@
+{
+  "id": "11156003",
+  "name": "Oxford Bibliographies Online: Anthropology",
+  "description": "On top of being an extensive bibliography OBO: Anthropology offers expert commentary to help students and scholars find, negotiate, and assess the large amount of information readily available to them. It also provides direct links to online library catalogs and other online resources. Organizing the resource around discrete subject entries further allows for quick and easy navigation.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04173",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 01:31:01",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58942",
+      "site_id": "873",
+      "name": "Anthropology",
+      "ordering": "0",
+      "slug_id": "480939",
+      "subject_id": "58942",
+      "content_id": "11156003",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

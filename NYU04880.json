@@ -1,0 +1,29 @@
+{
+  "id": "11155384",
+  "name": "Chinese Newspapers Collection (1832-1953), ProQuest Historical Newspapers",
+  "description": "This historical newspaper provides insight into Chinese political and social life during the turbulent 120 year period from 1832 to 1953 with 12 English-language Chinese historical newspapers. Included are critical perspectives on the ending of more than 2,000 years of imperial rule in China, the Taiping Rebellion, the Opium Wars with Great Britain, the Boxer Rebellion and the events leading up to the1911 Xinhai Revolution, and the subsequent founding of the Republic of China. In addition to the article content, the full-image newspapers offer searchable access to advertisements, editorials, cartoons, and classified ads that illuminate history.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04880",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 10:17:01",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

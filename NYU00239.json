@@ -1,0 +1,17 @@
+{
+  "id": "11156192",
+  "name": "Serials Directory (EBSCO)",
+  "description": "The database includes bibliographic information as well as current pricing structures for popular serials. This resource contains: over 178,500 U.S. and international titles, including newspapers; historical data for an additional 20,000 titles; data from over 85,000 publishers worldwide, including e-mail and Internet addresses; Library of Congress and Dewey Decimal Classifications for every entry.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00239",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11155157",
+  "name": "AFI Catalog",
+  "description": "Search to find credits and production information on American movies. Each record also includes a list of reviews/articles related to the movie. Dates of coverage: 1893 to 1973. Produced by the American Film Institute (AFI), it is compiled and updated by the AFI film experts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01409",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 21:41:26",
+  "slug_id": "685026",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155157",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/AFI"
+}

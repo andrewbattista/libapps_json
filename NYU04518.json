@@ -1,0 +1,17 @@
+{
+  "id": "11155423",
+  "name": "Conference Proceedings Citation Index (Web of Science Core)",
+  "description": "Conference Proceedings Citation Index, accessed via Web of Science Core Collection, helps researchers access the published literature from the most significant conferences, symposia, seminars, colloquia, workshops, and conventions worldwide. This resource offers a complete view of conference proceedings and their impact on global research, letting you use cited reference searching to track emerging ideas and new research beyond what is covered in the journal literature. Two editions cover the sciences and social sciences. Dates of coverage: 1990 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04518",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

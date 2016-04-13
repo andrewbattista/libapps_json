@@ -1,0 +1,49 @@
+{
+  "id": "19279053",
+  "name": "Sinica SinoWeb",
+  "description": "Sinica SinoWeb is a full-text database of Chinese-language Sinological journals, mostly from the Academia Sinica.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05355",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 18:10:18",
+  "updated": "2016-03-16 14:21:20",
+  "slug_id": "742511",
+  "subjects": [
+    {
+      "id": "58988",
+      "site_id": "873",
+      "name": "East Asian Studies",
+      "ordering": "0",
+      "slug_id": "480965",
+      "subject_id": "58988",
+      "content_id": "19279053",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "19279053",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/sinica",
+  "enable_new": 1,
+  "enable_trial": 0
+}

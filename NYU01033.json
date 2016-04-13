@@ -1,0 +1,113 @@
+{
+  "id": "11156215",
+  "name": "SocINDEX with Full Text (EBSCO)",
+  "description": "Indexes and provides full-text for scholarly articles, books, monographs, and conference proceedings. SocINDEX offers coverage from many subdisciplines of sociology, including criminology, cultural sociology, demography, economic development, ethnic & racial studies, gender studies, marriage & family, politics, religion, rural sociology, social structure, sociological theory and sociology of education among others. Dates of coverage: 1908 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01033",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:19:31",
+  "slug_id": "635106",
+  "subjects": [
+    {
+      "id": "58942",
+      "site_id": "873",
+      "name": "Anthropology",
+      "ordering": "0",
+      "slug_id": "480939",
+      "subject_id": "58942",
+      "content_id": "11156215",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11156215",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "11156215",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11156215",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11156215",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11156215",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156215",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156215",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/socindex"
+}

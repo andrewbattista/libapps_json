@@ -1,0 +1,53 @@
+{
+  "id": "11155577",
+  "name": "Encyclopedia of Public Health (via Gale Virtual Reference Library)",
+  "description": "Examines a broad range of topics such as environmental health, drug abuse, epidemiology, nutrition, demographics and diseases. Includes overviews, definitions and biographical entries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03268",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36968",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 21:25:32",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155577",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59190",
+      "site_id": "873",
+      "name": "Public Health",
+      "ordering": "0",
+      "slug_id": "480966",
+      "subject_id": "59190",
+      "content_id": "11155577",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

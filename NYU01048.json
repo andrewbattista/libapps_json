@@ -1,0 +1,47 @@
+{
+  "id": "11155839",
+  "name": "LGBT Life Full Text (EBSCO)",
+  "description": "Contains indexing and abstracts for gay, lesbian, bisexual and transgender core journals.Also includes deep backfiles for key publications - many back to the first published issue. Examples of publications indexed back to their inaugural issues include The Advocate (1967), Journal of Homosexuality (1974) and Harvard Gay and Lesbian Review (1994).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01048",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 21:49:16",
+  "slug_id": "635120",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155839",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155839",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/LGBTLife"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "19657177",
+  "name": "Music Industry Data",
+  "description": "Music Industry Data (formerly ACO Music Data Analysis) is a growing repository of historical and current data from Billboard, Official Chart Company, Media Control and many more reporting agencies around the world. This data is presented in Relative Pitch Graphs which tell the story of the impact of music on society and cultures.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU04581",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51764",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 09:00:25",
+  "updated": "2016-02-18 09:00:25",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "19657177",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    }
+  ]
+}

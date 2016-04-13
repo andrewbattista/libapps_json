@@ -1,0 +1,35 @@
+{
+  "id": "11155465",
+  "name": "Dance Education Literature and Research Descriptive Index",
+  "description": "An index of literature and research from 1926 to the present that informs teaching, learning, and future directions of research in the field of dance education. It contains extensive descriptions of 4,100+ literary works including theses, dissertations, journal articles, conference proceedings and other reports from over 200+ different publications and organizations and 147 university dance programs. In addition to providing basic citation information, the DELRdi provides detailed descriptive information on the methodology, techniques, and characteristics of the research documented in the index. The DELRdi is the culminating product of a four-year research project supported by the United States Department of Education (2001-2005).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02434",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 18:04:54",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "11155465",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

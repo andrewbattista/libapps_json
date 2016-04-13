@@ -1,0 +1,47 @@
+{
+  "id": "11156327",
+  "name": "Women and Social Movement in the US 1600-2000: Scholars Edition",
+  "description": "Organized around the history of women in social movements in the U.S. between 1600 and 2000, this collection seeks to advance scholarly debates and understanding about U.S. history generally at the same time that it makes the insights of women's history accessible to teachers and students at universities, colleges, and high schools. The collection currently includes 91 document projects and archives with more than 3,600 documents and 150,000 pages of additional full-text documents, and more than 2,060 primary authors. The scholar's edition also includes book, film, and website reviews, notes from the archives, and teaching tools.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03324",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-10 01:50:32",
+  "slug_id": "651723",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11156327",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11156327",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/womenandsocialmovements"
+}

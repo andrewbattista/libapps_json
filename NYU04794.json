@@ -1,0 +1,17 @@
+{
+  "id": "11155430",
+  "name": "Contemporary Literary Criticism (Gale)",
+  "description": "Contemporary Literary Criticism--Select is an extensive collection of more than 11,000 critical essays on contemporary authors. Each CLC--Select entry contains a biographical/critical introduction, a list of principal works, critical essays, and sources for further study. Updated monthly, Contemporary Literary Criticism--Select allows users to search by author name, title of work, nationality, subject/genre, ethnicity, critic name, and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04794",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

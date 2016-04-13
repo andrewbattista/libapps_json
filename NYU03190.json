@@ -1,0 +1,35 @@
+{
+  "id": "11155624",
+  "name": "Feminism in Cuba 1898-1958",
+  "description": "Provides access to historic documents. This collection, compiled from Cuban sources, spans the period from Cuban independence to the end of the Batista regime. The collection sheds light on Cuban feminism, women in politics, literature by Cuban women and the legal status of Cuban women.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03190",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:01:26",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155624",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

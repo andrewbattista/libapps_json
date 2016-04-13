@@ -1,0 +1,17 @@
+{
+  "id": "11155420",
+  "name": "Complete World Development Report Online",
+  "description": "A database where you will find every page of every World Development Report published by the World Bank since the first report was released in 1978.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03641",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

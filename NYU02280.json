@@ -1,0 +1,36 @@
+{
+  "id": "11155192",
+  "name": "American Film Scripts Online",
+  "description": "American Film Scripts Online contains 1,009 scripts by 1,062 writers together with detailed, fielded information on the scenes, characters and people related to the scripts. In addition, the database includes facsimilie images for more than 500 of these screenplays. Most of the scripts have never been published before, and nowhere else are they available online.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02280",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 21:35:07",
+  "slug_id": "685018",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155192",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/americanfilmscripts"
+}

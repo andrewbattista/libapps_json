@@ -1,0 +1,35 @@
+{
+  "id": "11155745",
+  "name": "Indeḳs tsu der yidish periodiḳ",
+  "description": "Index to Yiddish Periodicals is a bibliographical data base using Yiddish, which aims to record the materials published in the Yiddish press in Eastern Europe, from its beginnings (1862) until 1939 (in the Soviet Union: until 1948).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02789",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 18:57:20",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155745",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

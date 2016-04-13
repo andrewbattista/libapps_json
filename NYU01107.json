@@ -1,0 +1,70 @@
+{
+  "id": "11155599",
+  "name": "Environment Complete (EBSCO)",
+  "description": "Contains citations for articles from domestic and international journals, monographs and conference papers in the area of environmental sciences.Offers deep coverage in applicable areas of agriculture, ecosystem ecology, energy, natural resources, marine & freshwater science, geography, pollution & waste management, environmental technology, environmental law, public policy, social impacts, urban planning, and more. Dates of coverage: 1940 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01107",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 00:16:06",
+  "slug_id": "652031",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155599",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155599",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "11155599",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/environmentcomplete",
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155599",
+      "icon_id": "8403",
+      "custom_url": "http://support.ebsco.com/help/?int=ehost&lang=en&feature_id=none&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=live&dbs="
+    }
+  ]
+}

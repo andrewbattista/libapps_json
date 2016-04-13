@@ -1,0 +1,47 @@
+{
+  "id": "11155128",
+  "name": "Abstracts of International Conservation Literature Online (AATA)",
+  "description": "Comprehensive database of over 100,000 abstracts of literature related to the preservation and conservation of material cultural heritage.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02232",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 23:50:41",
+  "slug_id": "635171",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155128",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155128",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/AATA"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "11155764",
+  "name": "INSPEC (Web of Science)",
+  "description": "Indexes the world's scientific and technical literature in the following fields: physics, electrical engineering, electronics, communications, control engineering, computers, computing, information technology, manufacturing, and production engineering. Dates of coverage: 1898 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00826",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-09 18:56:22",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59272",
+      "site_id": "873",
+      "name": "Astronomy",
+      "ordering": "0",
+      "slug_id": "480948",
+      "subject_id": "59272",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59268",
+      "site_id": "873",
+      "name": "Engineering",
+      "ordering": "0",
+      "slug_id": "480970",
+      "subject_id": "59268",
+      "content_id": "11155764",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155764",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59192",
+      "site_id": "873",
+      "name": "Library & Information Sciences",
+      "ordering": "0",
+      "slug_id": "480992",
+      "subject_id": "59192",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11155764",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155764",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155764",
+      "icon_id": "8403",
+      "custom_url": "http://images.webofknowledge.com/WOKRS56B5/help/INSPEC/hp_advanced_search.html"
+    }
+  ]
+}

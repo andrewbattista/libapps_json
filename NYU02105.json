@@ -1,0 +1,47 @@
+{
+  "id": "11155832",
+  "name": "Left Index (EBSCO)",
+  "description": "Search the diverse literature of the Left, with an emphasis on political, economic, social and culturally engaged scholarship inside and outside academia. Other topics covered include the labor movement, ecology & environment, race & ethnicity, social & cultural theory, sociology, art & aesthetics, philosophy, history, education, law and globalization. Historically significant early Left publications such as The People (est. NY 1891) and The Class Struggle (1931 - 1937) along with classic texts by Marx, Lenin, Trotsky, Engels and others, written in the formative years of the Left are also covered. Dates of coverage: 1984 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02105",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-09 19:09:23",
+  "slug_id": "651486",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155832",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11155832",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/leftindex"
+}

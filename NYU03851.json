@@ -1,0 +1,36 @@
+{
+  "id": "11155798",
+  "name": "Jewish Life in America, 1654-1954",
+  "description": "Jewish Life in America covers the history of Jewish communities in America from the arrival of the first Jews in the 17th century right through to the mid-20th century. This collection offers a glimpse into the communal and social aspects of Jewish identity and culture, whilst tracing Jewish involvement in the political life of American society with digital images of collections from the American Jewish Historical Society in New York.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03851",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 19:48:19",
+  "slug_id": "635080",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155798",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/jewishlifeinamerica"
+}

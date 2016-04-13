@@ -1,0 +1,17 @@
+{
+  "id": "11155903",
+  "name": "Mergent Events Data",
+  "description": "EventsData delivers on-going updated information on stock-splits, mergers, tender offers, partial/full calls, name changes, etc. It provides ten years of information on over 64,000 dividend-paying stocks and mutual funds and provides detail bond data on Corporate.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04346",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

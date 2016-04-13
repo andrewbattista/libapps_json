@@ -1,0 +1,17 @@
+{
+  "id": "11155744",
+  "name": "InCites: Journal Citation Reports",
+  "description": "Covers journals in the social sciences and sciences. Use this tool to determine: number of articles published in the journal in a specific year; number of citations to that journal from articles published in that year; and impact Factor calculated from that year's data, and so on.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02556",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

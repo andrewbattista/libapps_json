@@ -1,0 +1,22 @@
+{
+  "id": "11156137",
+  "name": "Red Books",
+  "description": "Contains detailed profiles of U.S. and international agencies, including clients, fields of specialization, and much more. Also has advertiser information on nearly 21,000 U.S. and international advertisers who each spend more than $200,000 annually on advertising.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03586",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "**If prompted to log-in click on \"Site Access\" link below the log-in box.**",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-12-01 16:33:06",
+  "slug_id": "0"
+}

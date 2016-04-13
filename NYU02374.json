@@ -1,0 +1,86 @@
+{
+  "id": "11155647",
+  "name": "Gale Directory Library",
+  "description": "Search across a range of directories. Includes: Directory of Special Libraries and Information Centers; Encyclopedia of American Religions; Encyclopedia of Associations - International Organizations; Encyclopedia of Associations - National Organizations of the U.S.; Encyclopedia of Associations - Regional, State and Local Organizations of the U.S.;Encyclopedia of Business Information Sources; Encyclopedia of Governmental Advisory Organizations; Gale Directory of Databases; Gale Directory of Publications and Broadcast Media; Government Research Directory; Information Industry Directory;International Research Centers Directory; Law and Legal Information Directory; Market Share Reporter; National Faculty Directory; Publishers Directory; Research Centers Directory; Ward's Business Directory of U.S. Private and Public Companies;",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02374",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36968",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-12 14:49:03",
+  "slug_id": "676560",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155647",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11155647",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11155647",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59192",
+      "site_id": "873",
+      "name": "Library & Information Sciences",
+      "ordering": "0",
+      "slug_id": "480992",
+      "subject_id": "59192",
+      "content_id": "11155647",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/galedirectorylibrary",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    },
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

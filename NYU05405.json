@@ -1,0 +1,16 @@
+{
+  "id": "20695074",
+  "name": "Faculty Bibliography (NYU School of Medicine, College of Dentistry, College of Nursing) (NYU Health Sciences Library)",
+  "description": "A service from the NYU Health Sciences Libraries, the Faculty Bibliography gathers citations to publications of NYU School of Medicine, College of Dentistry, and College of Nursing faculty into a single easy to use, searchable database. Citations to faculty publications are collected from online databases, such as Medline, HSLCat (the library's online catalog), Biological Abstracts, EMBASE, Web of Science, and PsychInfo. In addition, the bibliography contains citations to published works that do not appear in online databases, but which have been identified by faculty themselves and verified by the library.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05405",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

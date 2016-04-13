@@ -1,0 +1,54 @@
+{
+  "id": "11155198",
+  "name": "American Memory (Library of Congress)",
+  "description": "American Memory provides free and open access through the Internet to written and spoken words, sound recordings, still and moving images, prints, maps, and sheet music that document the American experience. It is a digital record of American history and creativity. These materials, from the collections of the Library of Congress and other institutions, chronicle historical events, people, places, and ideas that continue to shape America.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02283",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 07:22:36",
+  "slug_id": "651716",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155198",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155198",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/americanmemory",
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

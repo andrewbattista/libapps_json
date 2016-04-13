@@ -1,0 +1,43 @@
+{
+  "id": "11155816",
+  "name": "Kotobarabia Arabic E-Library",
+  "description": "A collection of electronic books in Arabic. The collection ranges from contemporary novels to national heritage scientific treatises, with over 6500 titles written by Arab authors of all genres.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03855",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 22:27:08",
+  "slug_id": "685135",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155816",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/kotobarabia",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

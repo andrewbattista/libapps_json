@@ -1,0 +1,64 @@
+{
+  "id": "11155950",
+  "name": "New York Times (1851 - 2010) with Index, Proquest Historical Newspapers",
+  "description": "The New York Times (1851-2007) offers full page and article images with searchable full text back to the first issue. The collection includes digital reproductions providing access to every page from every available issue and an index that spans from 1851 to 1993. It should be noted that when federating this resource does not search the Index, it is therefore suggested that you go directly to database for searching.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01489",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 20:16:07",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155950",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11155950",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155950",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

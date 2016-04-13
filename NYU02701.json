@@ -1,0 +1,29 @@
+{
+  "id": "11155470",
+  "name": "Database of Latin Dictionaries",
+  "description": "Provides access to the following dictionaries:Albert Blaise, Dictionnaire latin-français des auteurs chrétiens; Firminus Verris Dictionarius, Dictionnaire latin-français de Firmin Le Ver, ed. by B. Merrilees and W. Edwards; and C. du Fresne ('du Cange'), Glossarium ad scriptores mediae et infimae latinitatis.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02701",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:17:42",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

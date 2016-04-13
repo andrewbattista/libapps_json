@@ -1,0 +1,16 @@
+{
+  "id": "20695072",
+  "name": "LILACS (Latin American and Caribbean Center on Health Sciences Information)",
+  "description": "LILACS is the comprehensive index of scientific and technical literature of Latin America and the Caribbean. ####The main objectives of this database are the bibliographic control and the dissemination of health scientific-technique literature from Latin American and Caribbean countries, absentee from the international databases. It covers the description and indexing of theses, books, books chapters, congresses or conferences annals, scientific-technical reports, journal articles, etc, related to health area.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05403",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

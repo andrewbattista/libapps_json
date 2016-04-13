@@ -1,0 +1,35 @@
+{
+  "id": "11156100",
+  "name": "ProQuest Biology Journals",
+  "description": "This database provides access to a wide range of biology topics including some of the most popular information resources for users in academic, government and public research environments.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03731",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:47:05",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11156100",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

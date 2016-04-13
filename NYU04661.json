@@ -1,0 +1,42 @@
+{
+  "id": "11156224",
+  "name": "Sports Medicine and Exercise Science in Video",
+  "description": "Sports Medicine and Exercise Science in Video is the most extensive video collection ever assembled in the areas of fitness and health assessment, disease management, injury treatment, nutrition, medical fitness, sport science, work-site wellness, exercise adherence, and much more. Developed through an exclusive partnership with Healthy Learning, the world’s leading producer of sports medicine videos, the collection features an array of internationally renowned physicians, exercise scientists, certified athletic trainers, physical therapists, registered dieticians, sport psychologists, personal trainers, and health/wellness experts who share information, ideas, and insights on the principles, techniques, and modalities of modern exercise science and sports medicine.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04661",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-15 11:42:20",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11156224",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

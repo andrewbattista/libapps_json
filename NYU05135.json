@@ -1,0 +1,17 @@
+{
+  "id": "11155654",
+  "name": "Gannett Newsstand (ProQuest)",
+  "description": "offers exclusive access to over 85 local and regional U.S. newspapers from Gannett including the Detroit Free Press, The Indianapolis Star and The Tennessean. The Gannett newspapers are available in full text and include all articles of substance written by staff writers, death notices, birth notices, editorials, reviews, letters to the editor, and selected online content.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05135",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

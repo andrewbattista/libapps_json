@@ -1,0 +1,17 @@
+{
+  "id": "11156351",
+  "name": "WRDS: Wharton Research Database Service",
+  "description": "WRDS data consists of historical financial information for banks, government bonds, stock exchanges, and major companies. It is intended solely for research and instructional purposes.**You must request an account. New York University faculty, administrators, staff, and PhD students are allowed to have a WRDS account. Click on the WRDS link (above) for more information about requesting accounts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02597",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

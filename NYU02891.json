@@ -1,0 +1,48 @@
+{
+  "id": "11155741",
+  "name": "Imperial Gazetteer of India",
+  "description": "Digitized version of the Imperial Gazetteer of India, Oxford, Clarendon Press, 1908-1931. Includes:28 general maps illustrating physical, economic, and social characteristics of the whole of India, 20 provincial maps and, 16 maps of important towns.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02891",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:01:34",
+  "slug_id": "652540",
+  "subjects": [
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11155741",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/imperialgazetteer",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    },
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

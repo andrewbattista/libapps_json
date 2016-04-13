@@ -1,0 +1,23 @@
+{
+  "id": "11155242",
+  "name": "ASHRAE (Techstreet)",
+  "description": "ASHRAE standards establish consensus for test methods and performance criteria. These include voluntary consensus standards for Method of Measurement or Test, Standard Design and Standard Practice. Consensus standards define minimum values or acceptable performance. ASHRAE is accredited by the American National Standards Institute (ANSI) and follows ANSI's requirements for due process and standards development.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04557",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-13 22:41:29",
+  "slug_id": "678462",
+  "friendly_url": "http://guides.nyu.edu/ASHRAE"
+}

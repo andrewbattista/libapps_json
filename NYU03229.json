@@ -1,0 +1,43 @@
+{
+  "id": "11155229",
+  "name": "Archives Unbound",
+  "description": "Archives Unbound presents topically-focused digital collections of historical documents that support the research and study needs of scholars and students at the college and university level. Collections in Archives Unbound cover a broad range of topics from the Middle Ages forward-from Witchcraft to World War II to twentieth-century political history.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03229",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-10 01:22:09",
+  "slug_id": "651708",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155229",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/archivesunbound",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

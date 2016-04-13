@@ -1,0 +1,36 @@
+{
+  "id": "11155888",
+  "name": "Medieval Family Life",
+  "description": "This resource contains full colour images of the original medieval manuscripts that comprise these family letter collections along with full text searchable transcripts from the printed editions, where they are available. The original images and the transcriptions can be viewed side by side. Along with the letter collections themselves there are many additional features useful for teaching and research. These include: A chronology, a visual sources gallery, an interactive map, a glossary, family trees and links to other scholarly free to access digital resources useful for researching the medieval period.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04681",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 20:43:16",
+  "slug_id": "673747",
+  "subjects": [
+    {
+      "id": "59204",
+      "site_id": "873",
+      "name": "Medieval & Renaissance Studies",
+      "ordering": "0",
+      "slug_id": "480986",
+      "subject_id": "59204",
+      "content_id": "11155888",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/medievalfamilylife"
+}

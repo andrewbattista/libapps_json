@@ -1,0 +1,35 @@
+{
+  "id": "11156343",
+  "name": "World Scholar: Latin America and the Caribbean",
+  "description": "World Scholar: Latin America & the Caribbean is the first in a series of regional studies products to be released by Gale. It is the result of extensive collaboration among experts representing libraries and the academic world: students, faculty, and researchers at major institutions of learning; a board of advisors drawn from Latin America and the Caribbean, the United States, and elsewhere; numerous libraries that contributed primary-source collections to World Scholar: Latin America & the Caribbean; and Gale's own team of editors, technologists, and content creators.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04555",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 21:17:33",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "11156343",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "11155709",
+  "name": "Hemispheric Institute Digital Video Library",
+  "description": "The Hemispheric Institute Digital Video Library (HIDVL) provides a digital venue for documenting the expression of social and political life through performance in the many political landscapes of the Americas. HIDVL brings together materials that existed only in small private archives that lacked the resources to care for these extraordinary cultural documents. Using the resources of digital technology, the Hemispheric Institute ensures the long-term preservation of these rare videos and make them accessible to viewers around the world. The trilingual Artist Profiles: http://hemisphericinstitute.org/artistprofiles/ contextualizes the video collections with photos, texts, interviews, bibliographies and additional materials that viewers might find useful: http://hemisphericinstitute.org/artistprofiles/",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03238",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-15 11:41:01",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

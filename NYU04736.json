@@ -1,0 +1,17 @@
+{
+  "id": "11155233",
+  "name": "Artemis Primary Sources (Gale)",
+  "description": "Gale Artemis is a groundbreaking research environment that integrates formerly disparate digital collections to enable innovative research. Gale Artemis provides an unprecedented, seamless research experience that helps students find a starting point, search across a wide array of materials and points in time, and discover new ways to analyze information. ** The database includes the subscribed collections Eighteenth Century Collections Online; The Making of Modern Law: Foreign Primary Sources; The Making of Modern Law: Foreign, Comparative, and International Law, 1600-1926; The Making of Modern Law: Legal Treatises, 1800-1926; The Making of Modern Law: Primary Sources; The Making of Modern Law: Trials, 1600-1926; The Making of the Modern World; Nineteenth Century Collections Online; and Sabin Americana, 1500-1926. **",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04736",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

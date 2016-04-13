@@ -1,0 +1,29 @@
+{
+  "id": "11155313",
+  "name": "Book Review Digest Retrospective (EBSCO)",
+  "description": "Provides excerpts from, and citations to, reviews of adult and juvenile fiction and non-fiction. Reviews of the following types of books are excluded: government publications, textbooks, and technical books in the sciences and law. Dates of coverage: 1908-1982.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02309",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 05:34:26",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "20695094",
+  "name": "Profiles in Science",
+  "description": "The National Library of Medicine (NLM) is making the archival collections of leaders in biomedical research and public health available on its Profiles in Science web site. The site, launched in September 1998, promotes the use of the Internet for research and teaching in the history of biomedical science. Many of the collections have been donated to NLM and contain published and unpublished items, including books, journal volumes, pamphlets, diaries, letters, manuscripts, photographs, audiotapes, video clips, and other materials.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05494",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

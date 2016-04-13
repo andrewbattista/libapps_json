@@ -1,0 +1,274 @@
+{
+  "id": "11156051",
+  "name": "Oxford Scholarship Online",
+  "description": "Oxford Scholarship Online (OSO) offers full-text access to scholarly (peer-reviewed) works from key disciplines in the humanities, social sciences, science, medicine, and law.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01872",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-11 22:40:20",
+  "slug_id": "676287",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56184",
+      "site_id": "873",
+      "name": "History",
+      "ordering": "0",
+      "slug_id": "481001",
+      "subject_id": "56184",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59311",
+      "site_id": "873",
+      "name": "Mathematics",
+      "ordering": "0",
+      "slug_id": "780803",
+      "subject_id": "59311",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56181",
+      "site_id": "873",
+      "name": "Philosophy",
+      "ordering": "0",
+      "slug_id": "480976",
+      "subject_id": "56181",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59271",
+      "site_id": "873",
+      "name": "Physics",
+      "ordering": "0",
+      "slug_id": "480975",
+      "subject_id": "59271",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56178",
+      "site_id": "873",
+      "name": "Psychology & Neuroscience",
+      "ordering": "0",
+      "slug_id": "480969",
+      "subject_id": "56178",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59190",
+      "site_id": "873",
+      "name": "Public Health",
+      "ordering": "0",
+      "slug_id": "480966",
+      "subject_id": "59190",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56191",
+      "site_id": "873",
+      "name": "Social Sciences",
+      "ordering": "0",
+      "slug_id": "480951",
+      "subject_id": "56191",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156051",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/oxfordscholarshiponline",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

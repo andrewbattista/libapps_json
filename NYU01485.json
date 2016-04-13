@@ -1,0 +1,36 @@
+{
+  "id": "11155814",
+  "name": "KISS: Korean Studies Information Service System",
+  "description": "Full text of more than 800,000 Korean-language articles published in Korean scholarly journals and university publications since 1945 on a wide range of topics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01485",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:14:12",
+  "slug_id": "662166",
+  "subjects": [
+    {
+      "id": "58988",
+      "site_id": "873",
+      "name": "East Asian Studies",
+      "ordering": "0",
+      "slug_id": "480965",
+      "subject_id": "58988",
+      "content_id": "11155814",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/kiss"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "11156037",
+  "name": "Oxford Economics",
+  "description": "Oxford Economics offers tools to help with quantitative analysis and rigorous economic forecasting. Using an evidence-based approach to economic analysis to help with investment, policy and market decisions. Click on the subscriptions tab to access NYU content. NYU does not have access to Economic Models, Global Industry Models, City and Regions, or UK Economics.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03763",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-15 17:43:21",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11156037",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

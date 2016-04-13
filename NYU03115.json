@@ -1,0 +1,34 @@
+{
+  "id": "11155226",
+  "name": "Archive of Celtic-Latin Literature",
+  "description": "Full-text database of the corpus of Latin literature produced in Celtic-speaking Europe from the period 400-1200 AD.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03115",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 07:17:15",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    },
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

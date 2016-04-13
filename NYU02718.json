@@ -1,0 +1,17 @@
+{
+  "id": "11155648",
+  "name": "Gale Directory of Databases",
+  "description": "Comprehensive source of information on databases, database products, online services, and database vendors and distributors. Worldwide coverage includes thousands of publicly available database products accessible in a variety of formats in all subject areas (in English as well as other languages).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02718",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

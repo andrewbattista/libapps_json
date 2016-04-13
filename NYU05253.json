@@ -1,0 +1,35 @@
+{
+  "id": "17632304",
+  "name": "Corporate Affiliations (LexisNexis)",
+  "description": "LexisNexis Corporate Affiliations provides public and private company information and corporate structure news along with biographies for top executives and board members.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05253",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "2",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-24 16:40:37",
+  "updated": "2016-04-05 16:42:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17632304",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

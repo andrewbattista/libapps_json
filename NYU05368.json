@@ -1,0 +1,38 @@
+{
+  "id": "19269470",
+  "name": "ProQuest Art, Design and Architecture Collection",
+  "description": "This collection includes the specialist indexes ARTbibliographies Modern (covering modern and contemporary art), Design and Applied Arts Index (for all aspects of design and crafts) and the International Bibliography of Art (covering scholarship on Western art history), together with a complementary collection of current full-text journals, Arts and Humanities Full Text.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05368",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 15:32:37",
+  "updated": "2016-02-16 21:43:04",
+  "slug_id": "742212",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "19269470",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/proquestart",
+  "enable_new": 1,
+  "enable_trial": 0
+}

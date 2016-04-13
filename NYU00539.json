@@ -1,0 +1,17 @@
+{
+  "id": "11155358",
+  "name": "Center for Research Libraries",
+  "description": "Search the holdings of the Center for Research Libraries. The Center for Research Libraries (CRL) is a consortium of North American universities, colleges, and independent research libraries. The consortium acquires and preserves newspapers, journals, documents, archives, and other traditional and digital resources for research and teaching and makes them available to member institutions through interlibrary loan and electronic delivery.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00539",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

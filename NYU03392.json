@@ -1,0 +1,53 @@
+{
+  "id": "11155255",
+  "name": "Audio Drama: The L.A. Theatre Works Collection",
+  "description": "Audio Drama: The L.A. Theatre Works Collection delivers, for the first time online, more than 300 important dramatic works in streaming audio from the curated archive of the nation’s premiere radio theatre company. The plays - which include some of the most significant dramatic literature of the nineteenth, twentieth, and twenty-first centuries - are performed by leading actors from around the world and recorded specifically for online listening.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03392",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 20:11:36",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155255",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155255",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

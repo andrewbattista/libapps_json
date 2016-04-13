@@ -1,0 +1,35 @@
+{
+  "id": "11155205",
+  "name": "Anatomy.tv via STAT!Ref (ATV)",
+  "description": "STAT!Ref’s Primal Pictures resources are the most complete, detailed and accurate 3D models of the human anatomy available anywhere. Anatomy.tv is an award-winning, internet-based solution that is an evidence-based interactive online learning tool used for patient, practitioner and student education.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04881",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 20:09:21",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155205",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

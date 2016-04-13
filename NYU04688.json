@@ -1,0 +1,35 @@
+{
+  "id": "11156050",
+  "name": "Oxford Scholarly Editions Online",
+  "description": "Oxford Scholarly Editions Online (OSEO) is a major new publishing initiative from Oxford University Press, providing an interlinked collection of authoritative Oxford editions of major works from the humanities. Scholarly editions are the cornerstone of humanities scholarship, and Oxford University Press’s list is unparalleled in breadth and quality. OSEO provides access to more than 240 scholarly editions of material written between 1485 and 1700, including all of Shakespeare’s plays, the poetry of John Donne, and works by John Milton and John Locke.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04688",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 22:22:56",
+  "slug_id": "635129",
+  "friendly_url": "http://guides.nyu.edu/OSEO",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    },
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

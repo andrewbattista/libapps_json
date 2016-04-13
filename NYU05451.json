@@ -1,0 +1,16 @@
+{
+  "id": "20695088",
+  "name": "TOXMAP",
+  "description": "TOXMAP is a Geographic Information System (GIS) from the Division of Specialized Information Services of the US National Library of Medicine (NLM) that uses maps of the United States to help users visually explore data from the US Environmental Protection Agency (EPA)'s Toxics Release Inventory (TRI) and Superfund Program, as well as some non-EPA datasets.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05451",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

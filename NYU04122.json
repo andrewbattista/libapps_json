@@ -1,0 +1,36 @@
+{
+  "id": "11156028",
+  "name": "Oxford Bibliographies Online: Social Work",
+  "description": "As a discipline grounded in social theory and the improvement of peoples' lives, social work scholarship necessarily shifts and changes along with society, which leads, in turn, to an ever-growing body of literature. Scholars and professionals must keep abreast of new discoveries, interpretations, and theories in the field, and thus require access to the most recent developments.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04122",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-19 21:52:52",
+  "slug_id": "635121",
+  "subjects": [
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11156028",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/obosocialwork"
+}

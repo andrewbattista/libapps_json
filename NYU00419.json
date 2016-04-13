@@ -1,0 +1,35 @@
+{
+  "id": "11155670",
+  "name": "Global Books in Print (Bowker)",
+  "description": "Search for books in print, forthcoming books, and out of print books. Industry’s leading international bibliographic database offering more than 8 million English-language titles from the U.S., U.K., Canada, Australia, New Zealand, and South Africa.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00419",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-12-25 23:13:46",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59192",
+      "site_id": "873",
+      "name": "Library & Information Sciences",
+      "ordering": "0",
+      "slug_id": "480992",
+      "subject_id": "59192",
+      "content_id": "11155670",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

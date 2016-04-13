@@ -1,0 +1,47 @@
+{
+  "id": "11155453",
+  "name": "Criminology: A SAGE Full-Text Journal Collection",
+  "description": "Includes the full-text of 15 journals published by SAGE and participating societies, some journals going back twenty years.Covers such subjects as Criminal Justice, Juvenile Delinquency, Juvenile Justice, Corrections, Penology, Policing, Forensic Psychology, and Family and Domestic Violence. Dates of coverage: 1968 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00691",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 21:40:21",
+  "slug_id": "635115",
+  "subjects": [
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155453",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11155453",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/criminology"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "20695059",
+  "name": "ChemIDplus Lite (United States National Library of Medicine)",
+  "description": "From the National Library of Medicine (NLM). Contains the Chemical identification (ChemIDplus) file. Core sources of substance records correspond to those substances that are cited in one or more of the NLM databases. The database contains over 367,000 chemical records, of which over 142,000 include chemical structures, and is searchable by Name, Synonym, CAS Registry Number, Molecular Formula, Classification Code, Locator Code, and Structure. Contains over 267,000 records. Updated continuously.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05388",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11156176",
+  "name": "SciELO Citation Index (Scientific Electronic Library Online via Web of Science)",
+  "description": "Provides citation index of SciELO contents, which includes regional journals from Latin American and the Caribbean as well as titles from Spain, Portugal and South Africa. You can search and view critically important regional content with international impact.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05021",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

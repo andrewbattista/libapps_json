@@ -1,0 +1,17 @@
+{
+  "id": "11155464",
+  "name": "Dacheng Data",
+  "description": "Dacheng lao jiu kan quan wen shu ju ku” is a database of scanned articles of over 7,000 Chinese journals and magazines from the late Qing Dynasty (pre-1911) through the period of Republic of China (1911-1949). Some of the journals may not have the complete run of issues. The database covers available journals in humanities, social sciences, medicine, and science and engineering.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04849",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

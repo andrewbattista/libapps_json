@@ -1,0 +1,29 @@
+{
+  "id": "11156077",
+  "name": "Pidgeon Digital: Illustrated Talks by Architects",
+  "description": "The online version of The Pidgeon Audiovisual collection of illustrated talks by architects and related designers. This continuing archive, to which new talks are being added regularly, is a unique library of contemporary attitudes which will become of priceless value to future generations. The collection was founded in 1979 by Monica Pidgeon (long-time editor of the influential magazine Architectural Design) so as to be able to hear the actual voices of the designers of buildings and listen to their ideas.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02457",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:23:02",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

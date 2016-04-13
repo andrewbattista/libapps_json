@@ -1,0 +1,29 @@
+{
+  "id": "11155926",
+  "name": "National Archives of India",
+  "description": "The National Archives of India is the repository of the non-current records of the Government of India and is holding them in trust for the use of administrators and scholars.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03042",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-15 07:17:18",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

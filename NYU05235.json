@@ -1,0 +1,42 @@
+{
+  "id": "19657144",
+  "name": "Environmental Studies in Video",
+  "description": "Contains 500 hours of film covering all realms of environmental studies, particularly ethics, policy, economics, law, sociology, planning, and environmental science. The collection addresses specific topics including alternative energy, pollution control, eco-design, sustainability, farming and agriculture, the food industry, LEED certification, waste issues, and climate change.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05235",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28929",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 08:50:34",
+  "updated": "2016-04-05 16:09:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "19657144",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

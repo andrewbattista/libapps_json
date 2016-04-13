@@ -1,0 +1,35 @@
+{
+  "id": "11156285",
+  "name": "UNBISNET (Index to UN Documents and Publications)",
+  "description": "",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02577",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "more_info": "Catalogue of United Nations documents and publications indexed by the UN Dag Hammarskjöld Library and the Library of the UN Office at Geneva. Also included are commercial publications and other non-UN sources held in the collection of the Dag Hammarskjöld Library. The coverage of UNBISnet is from 1979 onward, however, older documents are being added to the catalogue on a regular basis as a result of retrospective conversion. UNBISnet also provides instant access to a growing number of full text resources in the six official languages of the UN (Arabic, Chinese, English, French, Russian and Spanish), including resolutions adopted by the General Assembly, the Economic and Social Council and the Security Council from 1946 onward. Includes the voting records for all resolutions which were adopted - either without a vote or by roll-call or recorded vote - by the General Assembly beginning with its 32nd session (1977-) and the Security Council beginning with its 1st year (1946-). Links to the full text of resolutions are provided. Includes citations to speeches made in the General Assembly beginning with its 38th session (1983-), the Security Council beginning with its 38th year (1983-), the Economic and Social Council beginning in 1983 and the Trusteeship Council beginning with its 15th special session (1982). Links to the full text of speeches are provided.",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-15 17:48:32",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11156285",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

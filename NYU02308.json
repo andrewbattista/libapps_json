@@ -1,0 +1,36 @@
+{
+  "id": "11155311",
+  "name": "Book History Online (Brill)",
+  "description": "Book History Online (BHO) is the international bibliography in the field of book and library history. It provides a comprehensive survey of all scholarly publications written from a historical perspective. Included are monographs, articles and reviews dealing with the history of the printed book, its arts, crafts, techniques and equipment, its economic, social and cultural environment, as well as its production, distribution, preservation and description.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02308",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36990",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-12-25 23:12:51",
+  "slug_id": "714377",
+  "subjects": [
+    {
+      "id": "59192",
+      "site_id": "873",
+      "name": "Library & Information Sciences",
+      "ordering": "0",
+      "slug_id": "480992",
+      "subject_id": "59192",
+      "content_id": "11155311",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/bho"
+}

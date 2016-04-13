@@ -1,0 +1,35 @@
+{
+  "id": "11155679",
+  "name": "Global Missions and Theology (Gale)",
+  "description": "Provides access to historic documents. This collection documents the broad range of Nineteenth Century religious missionary activities, practices and thought in the United States by reproducing pivotal personal narratives, organizational records, and biographies of the essential leaders, simple missionaries, and churches. This collection includes materials on missionary activities among Native Americans and African Americans, both slaves and freedmen. In addition, it highlights activities in far-flung regions and countries, such as Africa, Fiji and Sandwich Islands, India, China, Southeast Asia, Japan, and Hawaii. Dates: 1800-1899",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03191",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:52:54",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11155679",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

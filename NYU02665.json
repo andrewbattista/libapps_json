@@ -1,0 +1,35 @@
+{
+  "id": "11155151",
+  "name": "ACRL Metrics",
+  "description": "ACRL Metrics provides access to data and reports from 2010 to the present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02665",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-06-03 20:54:52",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59192",
+      "site_id": "873",
+      "name": "Library & Information Sciences",
+      "ordering": "0",
+      "slug_id": "480992",
+      "subject_id": "59192",
+      "content_id": "11155151",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

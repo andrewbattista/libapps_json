@@ -1,0 +1,29 @@
+{
+  "id": "11155877",
+  "name": "March of Time",
+  "description": "From 1935-1967, American theatergoers and television watchers were witness to Time Inc.'s unique and controversial newsreel series, The March of Time. Now this series is available in online streaming video in a single, cross-searchable collection designed specifically to meet the needs of researchers, teaching faculty, and students. The newsreels have been restored to their original luster by HBO Archives, allowing viewers to experience these historic newsreels as audiences did in earlier decades.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04297",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-15 11:43:13",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

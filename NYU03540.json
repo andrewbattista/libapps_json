@@ -1,0 +1,46 @@
+{
+  "id": "11155870",
+  "name": "Making of Modern Law: Primary Sources 1620-1926",
+  "description": "This is a fully searchable digital archive of the published records of the American colonies, documents published by state constitutional conventions, state codes, city charters, law dictionaries, digests and more from 1620-1926. It complements The Making of Modern Law: Legal Treatises, 1800-1926.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03540",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-21 00:53:28",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59191",
+      "site_id": "873",
+      "name": "Law",
+      "ordering": "0",
+      "slug_id": "480993",
+      "subject_id": "59191",
+      "content_id": "11155870",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155870",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

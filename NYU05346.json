@@ -1,0 +1,18 @@
+{
+  "id": "20695043",
+  "name": "Bloomsbury Collections",
+  "description": "Delivers online access to scholarly books from BloomsburyÛªs Academic division. Spanning the humanities and social sciences, the site includes research publications from Bloomsbury, T&T Clark, The Arden Shakespeare and Hart Publishing, alongside scholarship from historic imprints Continuum, Berg and Bristol Classical Press. New frontlist collections are added each year.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05346",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0",
+  "enable_new": 0,
+  "enable_trial": 1
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11155720",
+  "name": "Hoover Institute Library Pamphlet Database",
+  "description": "The Hoover Institution Library’s pamphlet database is made up of 55,000 pamphlets, which cover political, social, and economic issues from all over the world, and mainly focus on the twentieth century. There are pamphlets in every language - about 33,000 of them are in English, about 10,000 in German, and about 3,000 are in Russian.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02942",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:26:33",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11155720",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

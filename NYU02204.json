@@ -1,0 +1,54 @@
+{
+  "id": "11155338",
+  "name": "Cambridge Companions Online",
+  "description": "Cambridge Companions are lively, accessible introductions to major writers, artists, philosophers, topics and periods. All are collections of specially commissioned essays, shaped and introduced to appeal to student readers. Together the chapters add up to a systematic critical account of, for example Plato, Luther, Jane Austen, Tom Stoppard or Stravinsky, the French Novel or Jewish American Literature, and each title is supported by reference features such as a chronology and guide to further reading.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02204",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28271",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-18 15:10:43",
+  "slug_id": "634189",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155338",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155338",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/cambridgecompanions",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

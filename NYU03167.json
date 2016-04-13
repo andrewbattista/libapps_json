@@ -1,0 +1,43 @@
+{
+  "id": "11155942",
+  "name": "New Pauly - Der Neue Pauly with Supplements",
+  "description": "Online access to the multivolume encyclopedia of antiquity, providing comprehensive coverage of the ancient world from the prehistory of the Aegean (2nd millennium BCE) to late antiquity (600–800 CE). A special section of the encyclopedia is devoted to the history of ancient world awareness and scholarship through later ages up to the present day. English and German versions available.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03167",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 19:23:22",
+  "slug_id": "651500",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11155942",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/newpauly",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

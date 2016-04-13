@@ -1,0 +1,47 @@
+{
+  "id": "11156171",
+  "name": "SAGE Research Methods Online",
+  "description": "SAGE Research Methods Online is a research methods tool that links over 175,000 pages of SAGE’s book, journal and reference content, including dictionaries, datasets, case studies, and books. Researchers can explore methods concepts to help them design research projects, understand particular methods or identify a new method, conduct their research, and write up their findings.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03877",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-09 21:07:49",
+  "slug_id": "670438",
+  "friendly_url": "http://guides.nyu.edu/SRMO",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    },
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "11450",
+      "site_id": "873",
+      "file": "videoicon.png",
+      "description": "Video instructions available",
+      "url": "",
+      "content_id": "11156171",
+      "icon_id": "11450",
+      "custom_url": "https://youtu.be/BCG9jeU1IHI"
+    }
+  ]
+}

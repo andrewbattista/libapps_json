@@ -1,0 +1,16 @@
+{
+  "id": "20695090",
+  "name": "Drugs and Lactation Database (LactMed)",
+  "description": "A section of Toxnet, from the National Library of Medicine (NLM). Peer-reviewed and fully referenced database of drugs to which breastfeeding mothers may be exposed. Among the data included are maternal and infant levels of drugs, possible effects on breastfed infants and on lactation, and alternate drugs to consider.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05463",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

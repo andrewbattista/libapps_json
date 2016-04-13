@@ -1,0 +1,17 @@
+{
+  "id": "11155671",
+  "name": "Global Commodities",
+  "description": "This resource brings together manuscript, printed and visual primary source materials for the study of global commodities in world history. The commodities featured in this resource have been transported, exchanged and consumed around the world for hundreds of years.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04467",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

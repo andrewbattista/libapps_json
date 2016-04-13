@@ -1,0 +1,23 @@
+{
+  "id": "11155905",
+  "name": "Mergent Web Reports",
+  "description": "Mergent Web Reports offers a comprehensive library of documents that includes company annual reports, prospectuses, industry reports and other company related documents in PDF image formats. Access more than 260,000 documents covering over 35,000 global companies from over 100 countries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02696",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "This resource is only accessible on campus. A NYU NetID and password are required.",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-03 15:31:01",
+  "slug_id": "742210",
+  "friendly_url": "http://guides.nyu.edu/mergentwebreports"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11155659",
+  "name": "Geolytics Census 2010 Redistricting",
+  "description": "Counts of the total population from Census 2010 for a variety of geographic areas to be used for the Public Law (P.L.) 94-171 redistricting process. In addition, other data items such as race, ethnicity, voting age and housing unit tallies are included in this data set. Export data as dbf, ASCII, shapefile, or mid/mif files.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04293",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-06-08 12:29:40",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58990",
+      "site_id": "873",
+      "name": "Geographic Information Systems",
+      "ordering": "0",
+      "slug_id": "481008",
+      "subject_id": "58990",
+      "content_id": "11155659",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

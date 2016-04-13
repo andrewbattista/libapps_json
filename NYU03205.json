@@ -1,0 +1,22 @@
+{
+  "id": "11155522",
+  "name": "Economist Intelligence Unit (EIU)",
+  "description": "EIU provides access to all of the subscribed publications. EIU’s country analysis and forecasts provide the independent and trustworthy intelligence you need to capitalise on business opportunities around the world. Covering over 200 countries, including our flagship Country Reports service, they highlight political, economic and business developments in all significant markets, both established and emerging.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03205",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-13 22:53:34",
+  "slug_id": "0"
+}

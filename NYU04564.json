@@ -1,0 +1,17 @@
+{
+  "id": "11155519",
+  "name": "EBSCO Discovery Service (EDS)",
+  "description": "EDS encompasses the content of 400 databases and publishers, including: Alexander Street Press, American Psychological Association (PsychARTICLES, PsychCRITIQUES), Credo Reference, EBSCO (Humanities Full Text, Social Sciences Full Text, Business Source Complete, 86 others), Elsevier (ScienceDirect, Scopus), Gale Virtual Reference Library, HeinOnline, JSTOR, Springer, Thompson Reuters (Science Citation Index, Social Sciences Citation Index), and more. Source types include: academic (scholarly) journals, company profiles & reports, conference papers, government documents, dissertations, magazines, news, reports (education, health, industry, etc.), reviews, trade publications, working papers, images, audio, video and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04564",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

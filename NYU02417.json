@@ -1,0 +1,69 @@
+{
+  "id": "11156229",
+  "name": "Social Science Research Network (SSRN)",
+  "description": "Social Science Research Network (SSRN) is composed of a number of specialized research networks in the social sciences. Topics covered by networks include accounting, economics, financial economics, legal scholarship, and management (including negotiation and marketing). The SSRN eLibrary consists of abstracts of scholarly working papers and forthcoming papers and an electronic paper collection of downloadable full text documents in pdf format.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02417",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "**In order to subscribe to the NYU network one must create an account with their NYU email address.**<br />\r\n<br />\r\n**Please note that when accessing through off-site connection you may encounter a login screen which indicates you can 'login anonymously.' If you reach this choose to login anonymously and you will be granted access.**",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-11 23:36:17",
+  "slug_id": "673756",
+  "subjects": [
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11156229",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11156229",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56191",
+      "site_id": "873",
+      "name": "Social Sciences",
+      "ordering": "0",
+      "slug_id": "480951",
+      "subject_id": "56191",
+      "content_id": "11156229",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11156229",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/SSRN"
+}

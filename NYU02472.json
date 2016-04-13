@@ -1,0 +1,36 @@
+{
+  "id": "11155819",
+  "name": "Labordoc",
+  "description": "Labordoc contains references to a wide range of print and electronic publications, including journal articles, from countries around the world, on all aspects of work and sustainable livelihoods, and the work-related aspects of economic and social development and human rights.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02472",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-10 01:11:45",
+  "slug_id": "651705",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155819",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/labordoc"
+}

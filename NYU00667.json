@@ -1,0 +1,46 @@
+{
+  "id": "11155285",
+  "name": "Biography Reference Bank (EBSCO)",
+  "description": "Contains biographical information on approximately half a million people, from antiquity to the present. Dates of coverage: Ancient Times to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00667",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 18:47:19",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155285",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155285",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

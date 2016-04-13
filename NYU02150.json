@@ -1,0 +1,18 @@
+{
+  "id": "11156150",
+  "name": "RISM Series A/II: Music Manuscripts after 1600 (EBSCO)",
+  "description": "",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02150",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "more_info": "RISM (International Inventory of Musical Sources)aims to comprehensively document the world's musical sources of manuscripts or printed music, works on music theory, and libretti stored in libraries, archives, monasteries, schools and private collections. The organization, founded in Paris in 1952, is the largest and only global operation that registers musical sources. RISM documents what exists and where it is stored. RISM - Series A/II: Music manuscripts after 1600 is the most comprehensive annotated index and guide to music manuscripts containing more than 620,000 manuscript records by over 22,500 composers found in over 800 libraries and archives in 32 countries including: Australia, Austria, Belgium, Belarus, Brazil, Canada, Croatia, Czech Republic, Denmark, Finland, France, Germany, Great Britain, Hungary, Italy, Japan, The Netherlands, Mexico, New Zealand, Norway, Poland, Portugal, Rumania, Russia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Ukraine, Uruguay and the United States.",
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

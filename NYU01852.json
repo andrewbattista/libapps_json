@@ -1,0 +1,98 @@
+{
+  "id": "11156226",
+  "name": "Springer Protocols",
+  "description": "Springer Protocols is an electronic database of reproducible laboratory protocols in the Life and Biomedical Sciences. Compiling protocols from Humana’s successful book series Methods in Molecular Biology, Methods in Molecular Medicine, Methods in Biotechnology, Methods in Pharmacology and Toxicology, and Neuromethods, as well as from a vast number of Laboratory Handbooks, such as The Biomethods Handbook, The Proteomics Handbook, and the Springer Laboratory Manuals, Springer Protocols offers researchers access to nearly thirty years worth of time tested, easily reproducible, step-by-step protocols for immediate use in their lab. Written by renowned experts in the field with an emphasis on both comprehensiveness and ease of use, each protocol is organized in an easily reproducible recipe style, and offering helpful tricks of the trade in an invaluable “notes” section, Springer Protocols is an invaluable resource for the modern research laboratory.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01852",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "40970",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-01-05 23:06:41",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58946",
+      "site_id": "873",
+      "name": "Biology",
+      "ordering": "0",
+      "slug_id": "480950",
+      "subject_id": "58946",
+      "content_id": "11156226",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58950",
+      "site_id": "873",
+      "name": "Chemistry",
+      "ordering": "0",
+      "slug_id": "480956",
+      "subject_id": "58950",
+      "content_id": "11156226",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59314",
+      "site_id": "873",
+      "name": "Neural Sciences",
+      "ordering": "0",
+      "slug_id": "480982",
+      "subject_id": "59314",
+      "content_id": "11156226",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56186",
+      "site_id": "873",
+      "name": "Science",
+      "ordering": "0",
+      "slug_id": "480955",
+      "subject_id": "56186",
+      "content_id": "11156226",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11156226",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "11450",
+      "site_id": "873",
+      "file": "videoicon.png",
+      "description": "Video instructions available",
+      "url": "",
+      "content_id": "11156226",
+      "icon_id": "11450",
+      "custom_url": "http://www.springerprotocols.com/tour/Protocols_Protocol/Protocols_Protocol.vm"
+    }
+  ]
+}

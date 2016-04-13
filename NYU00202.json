@@ -1,0 +1,121 @@
+{
+  "id": "11155392",
+  "name": "CINAHL Plus with Full Text (EBSCO)",
+  "description": "Indexes over 3,800 journals from the fields of nursing and allied health, with indexing for selected journals back to 1937. Topics covered are related to nursing, physical therapy, health education, social service/healthcare, occupational therapy, and related disciplines. CINAHL also provides access to healthcare books, nursing dissertations, selected conference proceedings, standards of professional practice, educational software and audiovisual materials in nursing. Dates of coverage: 1937 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00202",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 21:20:24",
+  "slug_id": "635107",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155392",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155392",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11155392",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155392",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59190",
+      "site_id": "873",
+      "name": "Public Health",
+      "ordering": "0",
+      "slug_id": "480966",
+      "subject_id": "59190",
+      "content_id": "11155392",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155392",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59206",
+      "site_id": "873",
+      "name": "Sociology",
+      "ordering": "0",
+      "slug_id": "480947",
+      "subject_id": "59206",
+      "content_id": "11155392",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/CINAHLplus",
+  "az_types": [
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155392",
+      "icon_id": "8403",
+      "custom_url": "http://support.ebsco.com/help/?int=ehost&lang=en&feature_id=none&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=live&dbs="
+    }
+  ]
+}

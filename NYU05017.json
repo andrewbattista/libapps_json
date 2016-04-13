@@ -1,0 +1,54 @@
+{
+  "id": "11155739",
+  "name": "IMF eLibrary",
+  "description": "The International Monetary Fund's (IMF) eLibrary simplifies analysis and research with direct access to the IMF’s periodicals, books, working papers and studies, and data and statistical tools. You will find information and perspective on macroeconomics, globalization, development, trade and aid, technical assistance, demographics, emerging markets, policy advice, poverty reduction, and so much more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05017",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-12 14:52:11",
+  "slug_id": "676564",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155739",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11155739",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/IMFelibrary",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "11155410",
+  "name": "Columbia Granger's World of Poetry",
+  "description": "Columbia Granger's World of Poetry contains over 250,000 full-text poems and over 450,000 citations. The collection includes Columbia Granger's Index to Poetry in Collected and Selected Works, editions 1-2, and The Columbia Granger's Index to African-American Poetry, the Classic Hundred Poems, and Classic Writings on Poetry. Users can search poems by title, first words, author gender, genre, and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02102",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36969",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-03-07 22:06:41",
+  "slug_id": "634166",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155410",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155410",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/grangers"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11155897",
+  "name": "MEMSO: Medieval and Early Modern Sources Online",
+  "description": "MEMSO is a resource for the study of Britain and its place in the world during the medieval and early modern period (c. 1100-1800). It combines the key printed sources for English, Irish, Scottish and Colonial history with original manuscripts and the latest web technologies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03870",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 01:42:55",
+  "slug_id": "652053",
+  "subjects": [
+    {
+      "id": "59204",
+      "site_id": "873",
+      "name": "Medieval & Renaissance Studies",
+      "ordering": "0",
+      "slug_id": "480986",
+      "subject_id": "59204",
+      "content_id": "11155897",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/MEMSO"
+}

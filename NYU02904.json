@@ -1,0 +1,17 @@
+{
+  "id": "11155489",
+  "name": "Digital Library of Classic Protestant Texts",
+  "description": "For historians, theologians, political scientists, and sociologists studying the religious and social upheavals of the 16th and 17th centuries, the Digital Library of Classic Protestant Texts gives researchers immediate, Web-based access to an extensive range of seminal works from the Reformation and post-Reformation eras.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02904",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "11156218",
+  "name": "South Asian Newspapers",
+  "description": "Search Newsbank World Newspaper Archive South Asian Newspapers -- these include the Ceylon Observer, Kayasare hinda, Leader, and the Madras Mail",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03475",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 19:54:15",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11156218",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

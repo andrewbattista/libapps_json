@@ -1,0 +1,43 @@
+{
+  "id": "16592931",
+  "name": "Russian Historical Statistics",
+  "description": "Database of historical statistics on the social and economic development of Russia over the last two centuries developed by the International Institute of Social History (Amsterdam), the New Economic School (Moscow), and the Interdisciplinary Centre for Studies in History, Economy and Society (Moscow). The database contains a selection of basic indicators of social and economic development within seven broad topics for five historical cross-sections, subdivided into twenty-six subtopics. Data are provided for individual regions according to the administrative-territorial division of the Russian state for each cross-section. Not all indicators are available (yet) for all cross-sections.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05224",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-10-12 20:44:44",
+  "updated": "2016-04-05 12:21:21",
+  "slug_id": "790300",
+  "subjects": [
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "16592931",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/russianhistoricalstats",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

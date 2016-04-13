@@ -1,0 +1,43 @@
+{
+  "id": "11155785",
+  "name": "Irish Times (1859-2012) and Weekly Irish Times (1876-1958), ProQuest Historical Newspapers",
+  "description": "This full text resource offers full page and article images with searchable full text back to the first issue of both the Irish Times (1859-2012) and the Weekly Irish Times (1876-1958). The collection includes digital reproductions providing access to every page from every available issue.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03868",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 01:38:13",
+  "slug_id": "652050",
+  "subjects": [
+    {
+      "id": "59305",
+      "site_id": "873",
+      "name": "Irish & Irish American Studies",
+      "ordering": "0",
+      "slug_id": "480999",
+      "subject_id": "59305",
+      "content_id": "11155785",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/irishtimes",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

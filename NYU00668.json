@@ -1,0 +1,47 @@
+{
+  "id": "11155763",
+  "name": "ingentaconnect Complete",
+  "description": "A multi-disciplinary searchable database of more than 4,547,834 citations from over 13,530 publications.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00668",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-11 23:19:46",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59318",
+      "site_id": "873",
+      "name": "Technology",
+      "ordering": "0",
+      "slug_id": "480935",
+      "subject_id": "59318",
+      "content_id": "11155763",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "icons": [
+    {
+      "id": "8403",
+      "site_id": "873",
+      "file": "help.gif",
+      "description": "Click \"more info...\" for additional instructions.",
+      "url": "",
+      "content_id": "11155763",
+      "icon_id": "8403",
+      "custom_url": "http://nyu.library.ingentaconnect.com.databases.poly.edu/about/help/index;jsessionid=88btcskbelgur.alice#Q8"
+    }
+  ]
+}

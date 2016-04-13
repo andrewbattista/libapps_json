@@ -1,0 +1,65 @@
+{
+  "id": "11156345",
+  "name": "World Tourism e-Library",
+  "description": "A fully cross-searchable interactive database offering a vast number of high-quality UNWTO (UN World Tourism Organization) publications including books, journals, and statistics in their respective languages. In addition to more than 900 books in English, French, Spanish, Russian or Arabic, the e-unwto also provides access to a growing number of documents which can be defined as “Gray Literature”. The latest statistical information and aggregated data on inbound and outbound tourism are very conveniently presented within the “Tourism Factbook”.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03231",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-12 15:24:25",
+  "slug_id": "676608",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11156345",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11156345",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59274",
+      "site_id": "873",
+      "name": "Hospitality & Tourism",
+      "ordering": "0",
+      "slug_id": "481000",
+      "subject_id": "59274",
+      "content_id": "11156345",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/worldtourism",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

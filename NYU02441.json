@@ -1,0 +1,35 @@
+{
+  "id": "11155968",
+  "name": "North American Women's Drama",
+  "description": "Contains 1,517 plays by 330 playwrights, together with detailed, fielded information on related productions, theaters, production companies, and more. More than 30% of the plays in the collection have never been published before. The database also includes selected playbills, production photographs and other ephemera related to the plays.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02441",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 22:05:42",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155968",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

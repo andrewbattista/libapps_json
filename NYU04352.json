@@ -1,0 +1,23 @@
+{
+  "id": "11155164",
+  "name": "African Research Online",
+  "description": "African Research Online contains the Africa Yearbook and the African Studies Companion Online. These resources contain guides for African languages, Africa cartography and maps, African film, African studies journals, magazines and newsletters, media guides and news sources for Africa, the African press, African studies library collections worldwide, national archives in Africa, centers of African studies and African studies programs worldwide, awards and prizes in African studies, and a wealth of other subjects.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04352",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "more_info": "",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-03-16 17:05:56",
+  "slug_id": "775561",
+  "friendly_url": "http://guides.nyu.edu/africanresearchonline"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "11155210",
+  "name": "Anthropology & Ethnographic Video Online",
+  "description": "Anthropology brings together a wide range of ethnographic documentaries, indigenous media, field notes, study guides and raw footage, covering human behavior the world over. Essential for study in the areas of politics, economics, history, psychology, environmental studies, religion, area studies, linguistics, and geography, the database will contain more than 1,800 films at completion. * NYU is currently subscribing to three collections; Anthropology Online, Ethnographic Video Online: Volume I and Ethnographic Video Online: Volume II.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03387",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28929",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-12 00:58:42",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58942",
+      "site_id": "873",
+      "name": "Anthropology",
+      "ordering": "0",
+      "slug_id": "480939",
+      "subject_id": "58942",
+      "content_id": "11155210",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

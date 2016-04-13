@@ -1,0 +1,42 @@
+{
+  "id": "11156088",
+  "name": "Popular Culture in Britain and America: Rock and Roll, Counterculture, Peace and Protest",
+  "description": "Rock and Roll explores the dynamic period of social, political and cultural change between 1950 and 1975. The resource offers thousands of colour images of manuscript and rare printed material as well as photographs, ephemera and memorabilia from this exciting period in our recent history. It includes an interactive chronology, visual resources, video footage, and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04159",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-10 01:48:39",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11156088",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

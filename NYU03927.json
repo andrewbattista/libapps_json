@@ -1,0 +1,29 @@
+{
+  "id": "11155317",
+  "name": "Boston Globe (1872-1982), ProQuest Historical Newspapers",
+  "description": "This full text historical newspaper provides easily-searchable first-hand accounts and coverage of the politics, society and events of the time from 1872 to 1982.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03927",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-17 10:15:51",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

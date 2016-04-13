@@ -1,0 +1,35 @@
+{
+  "id": "11155986",
+  "name": "ONE National Gay & Lesbian Archives",
+  "description": "The ONE National Gay & Lesbian Archives houses the world's largest research library on Gay, Lesbian, Bisexual,and Transgendered heritage and concerns.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02444",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 21:59:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155986",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "11156241",
+  "name": "Symptom Media",
+  "description": "Symptom Media offers an expanding library of clinical training vignettes guided by the DSM-5 (updated Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition), ICD-9 (International Statistical Classification of Diseases and Health Problems, Ninth Revision), and ICD-10 (International Statistical Classification of Diseases and Health Problems, Tenth Revision) as well as other real life behavioral health case scenarios. Clinical training vignettes illustrate symptoms unfolding on screen, serving as an educational tool for “symptom recognition” and providing visual tools that facilitate diagnosing of mental illnesses.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04802",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-15 11:46:25",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

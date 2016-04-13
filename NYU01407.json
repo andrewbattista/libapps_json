@@ -1,0 +1,47 @@
+{
+  "id": "11155628",
+  "name": "Film Indexes Online",
+  "description": "Search Film Index International and the AFI Catalog simultaneously. Film Index International is a comprehensive filmography from 1900 to the present that offers international coverage of over 120,000 films and 735,000 film personalities from over 180 countries. Includes information on international film awards, as well as searchable plot summaries and full cast and crew lists. The AFI Catalog, compiled by specialist researchers at the American Film Institute (AFI)provides an exhaustive view of American features produced between 1893 and 1971. Offering an unmatched level of detail and subject indexing, the catalog includes full production and cast information. In addition, extensive plot summaries and meticulously researched production notes written by AFI experts are included.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01407",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-24 21:36:14",
+  "slug_id": "685019",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155628",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11155628",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/filmindexesonline"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "11155713",
+  "name": "Historical Newspapers (Proquest)",
+  "description": "Search the archives of major U.S. and African American Newspapers. Includes: Atlanta Constitution (1868 - 1942), Atlanta Daily World (1931-2003), Baltimore Afro-American (1893-1988), Chicago Tribune (1849 - 1986), Christian Science Monitor (1908 - 1995), Los Angeles Times (1881 - 1986), New York Amsterdam News (1922-1993), Pittsburgh Courier (1911-2002), The Chicago Defender (1910 - 1975), The New York Times (1851 - 2005), The New York Tribune (1841-1922), The New York Tribune (1900 - 1910), San Francisco Chronical (1865-1922), The Wall Street Journal (1889 - 1991), and The Washington Post (1877 - 1992).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01808",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 20:08:47",
+  "slug_id": "652556",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155713",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56183",
+      "site_id": "873",
+      "name": "Government Information",
+      "ordering": "0",
+      "slug_id": "481005",
+      "subject_id": "56183",
+      "content_id": "11155713",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155713",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155713",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155713",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/historicalnewspapers",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

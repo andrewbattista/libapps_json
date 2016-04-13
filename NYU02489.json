@@ -1,0 +1,29 @@
+{
+  "id": "11156139",
+  "name": "ReferenceUSA",
+  "description": "The ReferenceUSA database contains detailed information on more than 14 million US businesses, 210 million US residents, 855,000 US health care providers.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02489",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 07:16:29",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

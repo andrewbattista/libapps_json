@@ -1,0 +1,16 @@
+{
+  "id": "20695022",
+  "name": "Mirabile",
+  "description": "Mirabile is the knowledge management system for study and research on medieval culture developed by the Societ Internazionale per lo Studio del Medioevo Latino and the Fondazione Ezio Franceschini ONLUS of Florence, in partnership with other institutions.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05221",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11155376",
+  "name": "China Doctoral Theses Full-Text Database",
+  "description": "** Use Internet Explorer, NOT Firefox, to access this database. ** CDMD is the most comprehensive, highest quality database of dissertations and theses in China. As of August 2005, the dissertation count reached 220,000.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03924",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

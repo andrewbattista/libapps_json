@@ -1,0 +1,43 @@
+{
+  "id": "11155761",
+  "name": "Infoshare Online",
+  "description": "Database of statistics about New York City from 1980 to the present. Consists of official statistical data from U.S., New York State, and New York City agencies. Includes population statistics, housing data, immigration trends, socio-economic indicators, birth and death data, hospitalizations, and more. Data is presented for the geographies that are unique to New York City.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02540",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 05:44:23",
+  "slug_id": "654283",
+  "subjects": [
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "11155761",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/infoshare",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "11156239",
+  "name": "Supplementum Epigraphicum Graecum Online",
+  "description": "The Supplementum Epigraphicum Graecum systematically collects newly published Greek inscriptions as well as publications on previously known documents. It presents complete Greek texts,summarizes new readings, interpretations, and studies of known inscriptions, and occasionally presents the Greek text of these documents. It allows one to search the entire corpus for particular words, names, and inscriptions. Represented are all 54 SEG volumes.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04078",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-09 20:58:21",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58952",
+      "site_id": "873",
+      "name": "Classics",
+      "ordering": "0",
+      "slug_id": "480958",
+      "subject_id": "58952",
+      "content_id": "11156239",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "19268673",
+  "name": "Docuseek2",
+  "description": "Docuseek2 is a streaming video platform for independent, documentary, educational and social issue video and films, with a growing collection of titles. Areas of particular coverage include anthropology, the environment, urban studies, the global economy and American Studies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05367",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 15:13:33",
+  "updated": "2016-03-16 14:17:20",
+  "slug_id": "742183",
+  "subjects": [
+    {
+      "id": "58942",
+      "site_id": "873",
+      "name": "Anthropology",
+      "ordering": "0",
+      "slug_id": "480939",
+      "subject_id": "58942",
+      "content_id": "19268673",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "19268673",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "19268673",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59321",
+      "site_id": "873",
+      "name": "Urban Planning",
+      "ordering": "0",
+      "slug_id": "480937",
+      "subject_id": "59321",
+      "content_id": "19268673",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/docuseek2",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ],
+  "icons": [
+    {
+      "id": "11450",
+      "site_id": "873",
+      "file": "videoicon.png",
+      "description": "Video instructions available",
+      "url": "",
+      "content_id": "19268673",
+      "icon_id": "11450",
+      "custom_url": "https://youtu.be/y9-W4FO0TfU"
+    }
+  ],
+  "enable_new": 1,
+  "enable_trial": 0
+}

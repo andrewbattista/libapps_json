@@ -1,0 +1,49 @@
+{
+  "id": "19269392",
+  "name": "Mergent Intellect",
+  "description": "Mergent Intellect is a directory of public and private companies in the US and worldwide that includes company contact information, financials, key personnel. It provides information from Hoovers Online and Dun and Bradstreet but with additional downloading capabilities.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05360",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 15:29:40",
+  "updated": "2016-03-16 14:19:44",
+  "slug_id": "742203",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "19269392",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "19269392",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/mergentintellect",
+  "enable_new": 1,
+  "enable_trial": 0
+}

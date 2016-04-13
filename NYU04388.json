@@ -1,0 +1,43 @@
+{
+  "id": "11156198",
+  "name": "Silent Film Online",
+  "description": "Silent Film Online brings together films representing the basis of modern cinematic technique and film theory. Carefully curated with ASP’s Video Advisory Board, the database covers silent features, serials, and shorts from the 1890s to the 1930s.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04388",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 21:50:21",
+  "slug_id": "685037",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11156198",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/silentfilmonline",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

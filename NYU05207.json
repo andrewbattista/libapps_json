@@ -1,0 +1,16 @@
+{
+  "id": "20695020",
+  "name": "Dead Sea Scrolls Electronic Library Biblical Texts",
+  "description": "The Dead Sea Scrolls Electronic Library presents a complete Hebrew transcription and English translation of the Biblical texts, together with high-resolution images. The contents of this online publication is identical to that of the Dead Sea Scrolls Electronic Library Biblical Texts CD-ROM, published by Brill and Brigham Young University but its interface is adapted to Brill's online platform for reference works.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05207",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "36990",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

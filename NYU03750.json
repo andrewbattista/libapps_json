@@ -1,0 +1,17 @@
+{
+  "id": "11156114",
+  "name": "ProQuest Psychology Journals",
+  "description": "ProQuest Psychology Journals provides abstracts and indexing for more than 700 titles, with over 575 titles available in full text. Users get access to charts, diagrams, graphs, tables, photos, and other graphical elements essential to psychological research.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03750",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

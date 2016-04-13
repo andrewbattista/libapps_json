@@ -1,0 +1,46 @@
+{
+  "id": "11156020",
+  "name": "Oxford Bibliographies Online: Linguistics",
+  "description": "The study of linguistics makes connections across a wide array of scholarly concerns, from the humanities to many of the social and behavioral sciences to biology, physics, engineering, and even medicine. The study of language is central to a large number of rapidly advancing fields, such as neuroscience, cognitive science, and computer science.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04114",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-06 21:15:07",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59201",
+      "site_id": "873",
+      "name": "Linguistics",
+      "ordering": "0",
+      "slug_id": "480991",
+      "subject_id": "59201",
+      "content_id": "11156020",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "11156020",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

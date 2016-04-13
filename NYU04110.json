@@ -1,0 +1,35 @@
+{
+  "id": "11156015",
+  "name": "Oxford Bibliographies Online: Hinduism",
+  "description": "As one of the world’s largest religions, Hinduism has become an increasingly important area of study today. Hinduism is related to all the major continuing and connected religions of India. About 80 percent of India’s massive population regard themselves as Hindu, and there are approximately 30 million Hindus outside of India.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04110",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 19:53:10",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11156015",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "17967761",
+  "name": "U.S. Intelligence on the Middle East, 1945-2009",
+  "description": "This comprehensive document set sheds light on the U.S. intelligence community’s spying and analytic efforts in the Middle East and North Africa. It covers the time period from the end of World War II to the present day, up until the 2002-2003 Iraqi Weapons of Mass Destruction (WMD) assessments, the Global War on Terror, the Iraq War, and Iran’s nuclear program.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05198",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-08 14:38:18",
+  "updated": "2016-04-05 12:02:28",
+  "slug_id": "696704",
+  "subjects": [
+    {
+      "id": "56180",
+      "site_id": "873",
+      "name": "Area & Cultural Studies",
+      "ordering": "0",
+      "slug_id": "480943",
+      "subject_id": "56180",
+      "content_id": "17967761",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56184",
+      "site_id": "873",
+      "name": "History",
+      "ordering": "0",
+      "slug_id": "481001",
+      "subject_id": "56184",
+      "content_id": "17967761",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79676",
+      "site_id": "873",
+      "name": "History of the United States",
+      "ordering": "0",
+      "slug_id": "672100",
+      "subject_id": "79676",
+      "content_id": "17967761",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/usintelligence",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

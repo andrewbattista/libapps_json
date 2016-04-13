@@ -1,0 +1,16 @@
+{
+  "id": "20695093",
+  "name": "GQuery: Global Cross-database NCBI Search (formerly Entrez)",
+  "description": "From the National Center for Biotechnology Information, Entrez provides cross-database search access to nucleotide and protein sequence data from more than 130,000 organisms, 3D protein structures, genomic mapping information, PubMed MEDLINE, and more. Sequence data is combined from various sources, including GenBank, EMBL, DDBJ, RefSeq, PIR-International, PRF, Swiss-Prot, and PDB. Unique features of Entrez include pre-computed similarity searches for each database record, identifying the related records within that database, and links from a record in one database to associated records in the other Entrez databases. Descriptions of individual Entrez databases and search tips are available in the Entrez Help Document.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05489",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

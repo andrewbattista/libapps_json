@@ -1,0 +1,57 @@
+{
+  "id": "11155610",
+  "name": "Europa World Yearbook",
+  "description": "Provides profiles for over 250 countries and territories. Profiles provide political and economic information as well as statistics and information on religion, media and press, and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02571",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:20:27",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155610",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11155610",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11155610",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

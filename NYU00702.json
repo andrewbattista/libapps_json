@@ -1,0 +1,131 @@
+{
+  "id": "11155854",
+  "name": "Literature Online (LION)",
+  "description": "Literature Online combines the texts of over 355,000 literary works with a vast library of key criticism and reference resources. Literature Online’s collection of accurate poetry, prose and drama is relied upon by researchers around the world on a daily basis and the essential criticism and reference resources, including an ever-growing library of full-text journals and author biographies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00702",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28491",
+  "meta": {
+    "more_info": "A fully searchable library of more than 350,000 works of English and American poetry, drama and prose. LION is the single most extensive and wide-ranging online collection of English and American literature.Resources included in this resource are: Bibliographies Biographies Columbia Companion to the 20th Century American Short Story Columbia Dictionary of Modern European Literature Columbia Dictionary of Modern Literary and Cultural Criticism Concise Oxford Companion to English Literature Concise Oxford Dictionary of Literary Terms Encyclopedia of African Literature Encyclopedia of American Poetry: The Nineteenth Century Encyclopedia of Latin American and Caribbean Literature, 1900-2003 Encyclopedia of Linguistics (2 vols.) Encyclopedia of the Novel Handbook of African American Literature New Princeton Encyclopedia of Poetry and Poetics Oxford Companion to Irish Literature Penguin Classics Introductions Routledge Encyclopedia of Narrative Theory Routledge Encyclopedia of Post-Colonial Literatures in English (2nd Edition)",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-18 14:30:32",
+  "slug_id": "634154",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11155854",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11155854",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58989",
+      "site_id": "873",
+      "name": "Food Studies",
+      "ordering": "0",
+      "slug_id": "481017",
+      "subject_id": "58989",
+      "content_id": "11155854",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59300",
+      "site_id": "873",
+      "name": "French Literature & Language",
+      "ordering": "0",
+      "slug_id": "481015",
+      "subject_id": "59300",
+      "content_id": "11155854",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59301",
+      "site_id": "873",
+      "name": "German Literature & Language",
+      "ordering": "0",
+      "slug_id": "481006",
+      "subject_id": "59301",
+      "content_id": "11155854",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59307",
+      "site_id": "873",
+      "name": "Italian Language & Literature",
+      "ordering": "0",
+      "slug_id": "480998",
+      "subject_id": "59307",
+      "content_id": "11155854",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56179",
+      "site_id": "873",
+      "name": "Literature, Languages & Linguistics",
+      "ordering": "0",
+      "slug_id": "480990",
+      "subject_id": "56179",
+      "content_id": "11155854",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56188",
+      "site_id": "873",
+      "name": "Performing Arts, Theatre & Film",
+      "ordering": "0",
+      "slug_id": "480979",
+      "subject_id": "56188",
+      "content_id": "11155854",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59267",
+      "site_id": "873",
+      "name": "Theatre",
+      "ordering": "0",
+      "slug_id": "480936",
+      "subject_id": "59267",
+      "content_id": "11155854",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/LION",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

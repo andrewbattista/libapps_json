@@ -1,0 +1,22 @@
+{
+  "id": "11155528",
+  "name": "Education: A SAGE Full-Text Journal Collection",
+  "description": "Education: A SAGE Full-Text Collection covers such subject areas as: Adult and Continuing Education, Educational Administration, Educational Policy, Elementary and Primary Education, High School and Secondary Education, Higher Education, International Education, Leadership, Measurement and Testing, Multicultural Education and Diversity, Professional Development, Teaching and Instruction, Teaching Methods.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00803",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28931",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-01-05 23:03:16",
+  "slug_id": "0"
+}

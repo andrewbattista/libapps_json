@@ -1,0 +1,17 @@
+{
+  "id": "11155348",
+  "name": "Canadian Poetry",
+  "description": "Created in partnership with the Electronic Text Centre at the University of New Brunswick Libraries, this unique collection contains the full text of more than 19,000 poems by 177 poets including Bliss Carman, Isabella Valancy Crawford, Archibald Lampman, Charles G. D. Roberts and Duncan Campbell Scott, offering a comprehensive survey of Canadian poetry from the eighteenth century to the early twentieth.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01187",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:18",
+  "slug_id": "0"
+}

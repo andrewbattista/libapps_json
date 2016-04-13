@@ -1,0 +1,36 @@
+{
+  "id": "16643147",
+  "name": "19th Century Masterfile",
+  "description": "19th Century Masterfile is a comprehensive historical exploration of pre-1930 primary sources. It allows you to search indexes to: periodicals, newspapers, books, patents, artworks, and government documents records (US Congressional Record, US and UK government documents, US Patents, and more). This covers all subject areas ranging from the humanities, STEM, law, literature, and social sciences.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00970",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-10-14 19:23:32",
+  "updated": "2016-04-05 14:40:54",
+  "slug_id": "654305",
+  "subjects": [
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "16643147",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/19thcenturymasterfile"
+}

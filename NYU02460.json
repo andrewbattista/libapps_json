@@ -1,0 +1,17 @@
+{
+  "id": "11156074",
+  "name": "Philosophy Online",
+  "description": "Provides access to full text and bibliographic sources in philosophy via two databases: Philosophy Documentation Center eCollection and Past Masters. The Philosophy Documentation Center eCollection provides access to over 80 scholarly journals, series, conference proceedings, and other titles in philosophy, religious studies, and related disciplines. Past Masters provides access to full-text electronic editions in philosophy, religious studies, and related disciplines.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02460",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "11155471",
+  "name": "Datastream",
+  "description": "Datastream encompasses a broad range of financial entities and instruments with global geographical coverage, including daily prices, trading volumes, and return indices, updated at the end of every trading day, for over 100,000 equities in nearly 200 countries around the world. Datastream also includes data on bonds, options and other derivatives, mutual funds (unit trusts), market indices, exchange rates, macroeconomic variables, and corporate financial data.",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU02725",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "This resource is only accessible in Bobst Library. To use this resource, stop by the 5th floor Research Commons.",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-24 22:32:50",
+  "slug_id": "651508",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155471",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/datastream"
+}

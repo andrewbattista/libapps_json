@@ -1,0 +1,22 @@
+{
+  "id": "11155327",
+  "name": "BrowZine",
+  "description": "A browsable newsstand of the library's top journals. Easily find, read, and monitor thousands of scholarly journals directly from your tablet. BrowZine is a tablet-based service that works in tandem with many databases to recreate the experience of browsing and reading a journal. ** How do I start using BrowZine?, <1> From your iPad or Android, download the free iOS or Android app; and install it. <2> When you open BrowZine for the first time, you will see a list of schools; select New York University. <3> Enter your NYU Username and Password.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04931",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-04-05 16:43:59",
+  "slug_id": "0"
+}

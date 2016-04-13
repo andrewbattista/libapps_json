@@ -1,0 +1,17 @@
+{
+  "id": "11155230",
+  "name": "Art and Architecture Complete (EBSCO)",
+  "description": "This database provides full-text coverage of 380 periodicals and more than 220 books. In addition, Art & Architecture Complete offers cover-to-cover indexing and abstracts for more than 780 academic journals, magazines and trade publications, as well as for over 230 books. The database also provides selective coverage for 70 additional publications and an Image Collection of over 63,000 images provided by Picture Desk and others. Full-text coverage dates back to 1937. Subjects covered include antiques, art and art history, interior and landscape design, and much more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04284",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

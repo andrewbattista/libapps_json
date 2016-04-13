@@ -1,0 +1,35 @@
+{
+  "id": "17437279",
+  "name": "Chinese Ancient Text (CHANT)",
+  "description": "Chinese Ancient Texts contains six browsable and searchable databases of traditional ancient Chinese texts from the Pre-Han (pre 220 AD) up to the Six Dynasties (581 AD).",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU05225",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-11-13 21:39:02",
+  "updated": "2015-11-13 21:39:02",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56180",
+      "site_id": "873",
+      "name": "Area & Cultural Studies",
+      "ordering": "0",
+      "slug_id": "480943",
+      "subject_id": "56180",
+      "content_id": "17437279",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

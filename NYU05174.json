@@ -1,0 +1,16 @@
+{
+  "id": "20695008",
+  "name": "UNIDO Statistics Data Portal",
+  "description": "The UNIDO Statistics Data Portal maintains a variety of databases comprising statistics of overall industrial growth, detailed data on business structure and statistics on major indicators of industrial performance by country in the historical time series The UNIDO Statistical Data Portal contains 4-digit level of ISIC (INDSTAT4), 2-digit level of ISIC (INDSTAT2), Industrial Demand-Supply Balance Database (IDSB), Mining and Utilities Statistics Database (MINSTAT), and Manufacturing Value Added Database (MVA).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05174",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

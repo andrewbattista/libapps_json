@@ -1,0 +1,17 @@
+{
+  "id": "11155661",
+  "name": "Geolytics CensusCD 1970",
+  "description": "1970 Census Long Form data with over 5,000 variables. It has data and mapping capabilities for counties and tracts, and data only for MCDs and places. The country was not fully tracted in 1970; there is no tract data available in untracted areas. Export data as dbf, ASCII, shapefile, or mid/mif files.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04275",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

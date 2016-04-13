@@ -1,0 +1,22 @@
+{
+  "id": "11155369",
+  "name": "Chicago Manual of Style",
+  "description": "Searchable, online version of the Chicago Manual of Style with information on the Chicago style of writing and citing.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02326",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-13 22:48:43",
+  "slug_id": "0"
+}

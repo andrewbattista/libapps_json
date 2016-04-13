@@ -1,0 +1,17 @@
+{
+  "id": "11155690",
+  "name": "Grande Dicionario da Lingua Portuguesa",
+  "description": "This unparalleled collection includes 50,000 poems drawn from 750 volumes by over 300 poets, including Adrienne Rich, Andrei Codrescu, Ezra Pound, William Carlos Williams, Denise Levertov, Wallace Stevens, Langston Hughes, Lucille Clifton, and Cathy Song.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04162",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:20",
+  "slug_id": "0"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "11155631",
+  "name": "Financial Times Digital Archive",
+  "description": "The Financial Times Historical Archive delivers the complete searchable run of the world’s most authoritative daily business newspaper. Every item ever printed in the paper, from 1888-2010, can be searched and browsed article by article and page by page. Founded to serve the immediate needs of the City of London, the Financial Times quickly broadened its coverage, recognising that global financial and economic issues were to become the predominant forces of the twentieth century. Incorporating its rival the Financial News in 1945, the Financial Times expanded in the post-war years, reporting on topics such as industry, energy and international politics in full for the first time. In the final decades of the twentieth century, coverage of management, personal finance and the arts was added, to make the paper what it is now—a complete general newspaper for the businessman. The historical archive of the Financial Times , which is today distributed on its distinctive pink paper to more than a million readers worldwide, is an essential, comprehensive and unbiased research tool for everyone studying the public affairs and financial history of the last 120 years.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03342",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "more_info": "",
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 10:14:01",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

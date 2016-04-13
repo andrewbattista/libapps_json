@@ -1,0 +1,17 @@
+{
+  "id": "11155308",
+  "name": "BMJ Learning",
+  "description": "**Users must create a personal account in order to access content.** BMJ Learning offers CME/CPD and postgraduate training through hundreds of accredited, peer-reviewed learning modules in text, video, and audio formats. It also features tailored module recommendations based on your profession and specialty.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04246",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-05-21 15:05:17",
+  "slug_id": "0"
+}

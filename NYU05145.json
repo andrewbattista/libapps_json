@@ -1,0 +1,35 @@
+{
+  "id": "11156219",
+  "name": "South Asian Records of the USPG (via British Online Archives)",
+  "description": "The documents in this resource come from the archives of the Society for the Propagation of the Gospel in Foreign Parts (SPG). Some are true archives, arising from the work of the Society in India; some are manuscripts which cover the period when the Society for Promoting Christian Knowledge (SPCK), founded in 1698 was working with the Royal Danish (Lutheran) Mission, founded in 1705. They chart the history of Anglican Protestant engagement in the region from shortly after the strategic turning point in the fortunes of the East India Company wrought by Colonel Robert Clive in the 1750s, through to the toppling of Tipu Sultan in 1799, the controversial changes to the EIC's charter in 1813, the Sepoy Rebellion of 1856-1857, and on right through to Partition in 1947. As with the Society's missions elsewhere in the world, the documents also trace the gradual shift that began in the early 19th century from a church dependent on English priests to one increasingly led by indigenous clergy.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05145",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 19:53:32",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59317",
+      "site_id": "873",
+      "name": "South Asian Studies",
+      "ordering": "0",
+      "slug_id": "480945",
+      "subject_id": "59317",
+      "content_id": "11156219",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

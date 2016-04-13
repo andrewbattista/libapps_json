@@ -1,0 +1,17 @@
+{
+  "id": "11156188",
+  "name": "Scriver's OMMBID (McGraw-Hill)",
+  "description": "OMMBID (Online Metabolic & Molecular Bases of Inherited Disease) provides the latest knowledge on the metabolic and molecular underpinnings of a growing list of inherited diseases – as well as updates on pathophysiology and treatment. It also provides encyclopedic coverage of a host of human disorders from the genetic variation to the clinical descriptions and treatment.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04868",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "11156106",
+  "name": "ProQuest Education Journals",
+  "description": "ProQuest Education Journals gives users access to over 900 educational publications, including more than 600 of the titles in full text. The coverage spans the literature on primary, secondary and higher education as well as special education, home schooling and adult education.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00756",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:22",
+  "slug_id": "0"
+}

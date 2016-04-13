@@ -1,0 +1,43 @@
+{
+  "id": "11155687",
+  "name": "Grand Secretariat Archives 內閣大庫檔案",
+  "description": "This database from Academia Sinica contains more than 300,000 documents from the Ming dynasty to the late Qing dynasty. Please contact the East Asian Studies librarian for access information.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02239",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-24 10:06:48",
+  "slug_id": "662154",
+  "subjects": [
+    {
+      "id": "58988",
+      "site_id": "873",
+      "name": "East Asian Studies",
+      "ordering": "0",
+      "slug_id": "480965",
+      "subject_id": "58988",
+      "content_id": "11155687",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/grandsecretariat",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    }
+  ]
+}

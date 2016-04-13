@@ -1,0 +1,72 @@
+{
+  "id": "19268331",
+  "name": "City Readers (Digital Historic Collections at the New York Society Library)",
+  "description": "City Readers (Digital Historic Collections at the New York Society Library) is a database of historic records, books, and readers. Search, browse, and visualization tools support the discovery and analysis of over 100,000 biographic, bibliographic, and transaction data, derived from digitized content from the New York Society Library’s archives. Circulation records from 1789 to 1805, when the Library shared Federal Hall with the first American Congress, have been fully digitized and transcribed, and the data is now available for free through City Readers.ledgers to provide a virtual reconstruction of the Library as a social and literary institution in New York at the turn of the eighteenth century.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05361",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-03 15:10:06",
+  "updated": "2016-03-16 14:16:51",
+  "slug_id": "742174",
+  "subjects": [
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "19268331",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59192",
+      "site_id": "873",
+      "name": "Library & Information Sciences",
+      "ordering": "0",
+      "slug_id": "480992",
+      "subject_id": "59192",
+      "content_id": "19268331",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59124",
+      "site_id": "873",
+      "name": "New York City",
+      "ordering": "0",
+      "slug_id": "480981",
+      "subject_id": "59124",
+      "content_id": "19268331",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/cityreaders",
+  "az_types": [
+    {
+      "id": 10845,
+      "name": "Archives & Manuscripts",
+      "site_id": 873
+    },
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ],
+  "enable_new": 1,
+  "enable_trial": 0
+}

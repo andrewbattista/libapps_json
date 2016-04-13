@@ -1,0 +1,36 @@
+{
+  "id": "11155646",
+  "name": "FSTA - The Food Science Resource (Web of Science)",
+  "description": "Food Science and Technology Abstracts - the food science resource' provides thorough coverage of pure and applied research in food science, food technology, and food-related nutrition. Dates of coverage: 1969 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00829",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-12-25 22:49:23",
+  "slug_id": "714374",
+  "subjects": [
+    {
+      "id": "59269",
+      "site_id": "873",
+      "name": "Nutrition and Food Science",
+      "ordering": "0",
+      "slug_id": "480980",
+      "subject_id": "59269",
+      "content_id": "11155646",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/FSTA"
+}

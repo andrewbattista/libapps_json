@@ -1,0 +1,42 @@
+{
+  "id": "11155299",
+  "name": "Black Studies Center- Newspapers",
+  "description": "Includes the full-text for the following influential black newspapers: Atlanta Daily World (1931-2003), Chicago Defender (1910-1975), Daily Defender (1956-1975), and Los Angeles Sentinel (1934-2005).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02970",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:16:18",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155299",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

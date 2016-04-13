@@ -1,0 +1,29 @@
+{
+  "id": "11155481",
+  "name": "Dialnet",
+  "description": "Dialnet is one of the major bibliographic gateways offering free and open access to scholarship, particularly from the Hispanic world. It collects and facilitates access to scholarly content, primarily through email alerts. It also updates a comprehensive interdisciplinary database and provides access to full text content when available.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01717",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 05:49:05",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 14466,
+      "name": "Dissertation Collections",
+      "site_id": 873
+    }
+  ]
+}

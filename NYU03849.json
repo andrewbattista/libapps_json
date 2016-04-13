@@ -1,0 +1,29 @@
+{
+  "id": "11155958",
+  "name": "NewsVault (Gale)",
+  "description": "The Gale NewsVault is a portal to several historical collections of British newspapers and periodicals. It enables full-text searching across several titles simultaneously, including the Times of London, Financial Times, PUNCH, and Times Literary Supplement, along with aggregate newspaper and periodical collections covering the 17th, 18th, and 19th centuries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03849",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 10:18:34",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

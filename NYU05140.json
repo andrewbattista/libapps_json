@@ -1,0 +1,42 @@
+{
+  "id": "11156063",
+  "name": "PBS Video Collection (Alexander Street Press)",
+  "description": "This collection assembles hundreds of the greatest documentary films and series from the history of the Public Broadcasting Service into one convenient online interface. A core of 245 titles, selected for their high quality and relevance to academic curricula, covers many educational disciplines, including history, science and technology, diversity studies, business, and current events. This collection provides access to the films and series users already know and trust, including Frontline, NOVA, American Experience, Odyssey, and films by Ken Burns and Michael Wood.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05140",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 21:49:11",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11156063",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

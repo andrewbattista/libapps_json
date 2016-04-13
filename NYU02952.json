@@ -1,0 +1,54 @@
+{
+  "id": "11155267",
+  "name": "Berman Jewish DataBank",
+  "description": "The Berman Jewish DataBank is the central repository of social scientific studies of North American Jewry. The Data Bank archives and makes available electronically questionnaires, reports and data files from the National Jewish Population Surveys (NJPS) of 1971, 1990 and 2000-01. The Data Bank is the sole distributor of the NJPS 2000-01 dataset, and has archived a large collection of related materials. Also provides access to other national Jewish population reports and approximately 200 local Jewish community studies from the major Jewish communities in North America.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02952",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 19:17:17",
+  "slug_id": "635070",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155267",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155267",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/bermandata",
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

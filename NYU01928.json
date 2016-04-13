@@ -1,0 +1,35 @@
+{
+  "id": "11156303",
+  "name": "Vestnik Evropy (EastView)",
+  "description": "One of the first literary and political journals in Russia. Together with literature and arts the journal enlightened its readers on problems of internal and foreign policy of Russia as well as history and political life of foreign countries. Nikolai Karamzin, the famous writer and historian, was its editor. The journal ceased publishing in 1830.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01928",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-10-12 19:40:59",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59295",
+      "site_id": "873",
+      "name": "Russian & Slavic Studies",
+      "ordering": "0",
+      "slug_id": "480959",
+      "subject_id": "59295",
+      "content_id": "11156303",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

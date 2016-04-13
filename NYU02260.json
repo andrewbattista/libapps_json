@@ -1,0 +1,42 @@
+{
+  "id": "11155145",
+  "name": "AccessSurgery (McGraw-Hill)",
+  "description": "AccessSurgery.com is an integrated online resource that provides medical students, surgical residents, and practicing surgeons with quick answers to surgical inquiries from trusted sources. Organized around the ACGME's (Accreditation Council for Graduate Medical Education) mandate for a Core Curriculum, AccessSurgery delivers content in context.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02260",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2016-02-15 11:35:04",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "11155145",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

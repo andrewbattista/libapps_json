@@ -1,0 +1,59 @@
+{
+  "id": "11156040",
+  "name": "Oxford English Dictionary (OED)",
+  "description": "The Oxford English Dictionary is the accepted authority on the evolution of the English language over the last millennium. It is an unsurpassed guide to the meaning, history, and pronunciation of over half a million words, both present and past. It traces the usage of words through 2.5 million quotations from a wide range of international English language sources, from classic literature and specialist periodicals to film scripts and cookery books.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02790",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28272",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-09-18 15:22:01",
+  "slug_id": "634202",
+  "subjects": [
+    {
+      "id": "58953",
+      "site_id": "873",
+      "name": "Comparative Literature",
+      "ordering": "0",
+      "slug_id": "480961",
+      "subject_id": "58953",
+      "content_id": "11156040",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59111",
+      "site_id": "873",
+      "name": "English Literature",
+      "ordering": "0",
+      "slug_id": "481016",
+      "subject_id": "59111",
+      "content_id": "11156040",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/oed",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    },
+    {
+      "id": 9325,
+      "name": "Popular Databases",
+      "site_id": 873
+    }
+  ]
+}

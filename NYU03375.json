@@ -1,0 +1,54 @@
+{
+  "id": "11155341",
+  "name": "Cambridge History of Islam (via Cambridge Histories Online)",
+  "description": "First published in 1970, The Cambridge History of Islam is the most comprehensive and ambitious collaborative survey of Islamic history and civilization yet to appear in English. It has now been reprinted, with corrections. Includes: Vol 1A (The central Islamic lands from pre-Islamic times to the First World War), 1B (The central Islamic lands since 1918), 2A (The Indian sub-continent, South-East Asia, Africa and the Muslim West), and 2B (Islamic Society and Civilization).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03375",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "28271",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-10 18:37:15",
+  "slug_id": "651790",
+  "subjects": [
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155341",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155341",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/cambridgeislam",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

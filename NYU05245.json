@@ -1,0 +1,47 @@
+{
+  "id": "19657141",
+  "name": "60 Minutes: 1997-2014",
+  "description": "Provides streaming video access from 17 years of the 60 MINUTES broadcasts. This resource also includes bonus segments from the CBS News program Sunday Morning, whose timely news pieces, cultural features, and newsmaker profiles form an ideal complement to 60 MINUTES content.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05245",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51764",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 08:49:00",
+  "updated": "2016-02-18 08:49:00",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "19657141",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

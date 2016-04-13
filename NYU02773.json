@@ -1,0 +1,17 @@
+{
+  "id": "11156079",
+  "name": "Pittsburgh Courier (1911-2002), ProQuest Historical Newspapers",
+  "description": "Offers full page and article images with searchable full text back to the first issue. The collection includes digital reproductions providing access to every page from every available issue. Note that that the years 1913-1921 are excluded.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02773",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

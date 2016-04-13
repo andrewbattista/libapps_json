@@ -1,0 +1,17 @@
+{
+  "id": "11156295",
+  "name": "US Patent Full-text Databases",
+  "description": "The database includes information about all US patents (including utility, design, reissue, plant patents and SIR documents) from the first patent issued in 1790 to the most recent patent issue week. The data included in the patents appear as printed on the patent on the day of issue. Changes to patent documents contained in Certificates of Correction and Re-examinations Certificates are not included in the searchable full-text of the patent databases, but are available as additional full-page images at the end of each patent's linked full-page images. Some patents and images have been excluded from the database. For more information, see the Patent Full-Text Database Contents at http://patft.uspto.gov/help/contents.htm",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03306",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

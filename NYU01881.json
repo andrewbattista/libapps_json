@@ -1,0 +1,47 @@
+{
+  "id": "11155899",
+  "name": "Mental Measurements Yearbook (EBSCO)",
+  "description": "Mental Measurements Yearbook (MMY) provides users with a comprehensive guide to over 2,000 contemporary testing instruments. Designed for an audience ranging from novice test consumers to experienced professionals, the MMY series contains information essential for a complete evaluation of test products within such diverse areas as psychology, education, business, and leadership. All MMY entries contain descriptive information (e.g., test purpose, publisher, pricing) and edited review(s) written by leading content area experts.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01881",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 21:45:48",
+  "slug_id": "635118",
+  "subjects": [
+    {
+      "id": "56177",
+      "site_id": "873",
+      "name": "Education",
+      "ordering": "0",
+      "slug_id": "480968",
+      "subject_id": "56177",
+      "content_id": "11155899",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56192",
+      "site_id": "873",
+      "name": "Social Work",
+      "ordering": "0",
+      "slug_id": "480949",
+      "subject_id": "56192",
+      "content_id": "11155899",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/mmy"
+}

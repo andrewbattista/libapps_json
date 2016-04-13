@@ -1,0 +1,17 @@
+{
+  "id": "11155957",
+  "name": "Newspaper Source Plus (EBSCO)",
+  "description": "This database provides selected full text coverage for 245 newspapers, newswires and other sources. This collection includes full text for The Christian Science Monitor and The Los Angeles Times as well as selected full text from hundreds of regional newspapers. International newspaper coverage includes full text for The Times (London), The Toronto Star, The Australian, and more. Newswire coverage includes AP Online (Associated Press), Asia Pulse, Canadian Press Wire, World Stream Newswires and more.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00305",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

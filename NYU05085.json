@@ -1,0 +1,36 @@
+{
+  "id": "11155219",
+  "name": "Applied Science & Technology Source (EBSCO)",
+  "description": "Provides extensive coverage of research and development within the applied sciences and computing disciplines. This resource offers full text for almost 1,200 journals, citations to millions of articles. The content derives from numerous sources, including leading trade journals, professional and technical society journals, and conference proceedings. ** Applied Science & Technology Source is a combination of following databases from EBSCO and H.W. Wilson:'Applied Science & Technology Index Retrospective', 'Applied Science & Technology Abstracts', 'Applied Science & Technology Full Text', and 'Computers & Applied Sciences Complete'.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05085",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-24 10:21:04",
+  "slug_id": "662172",
+  "subjects": [
+    {
+      "id": "59200",
+      "site_id": "873",
+      "name": "Environmental Sciences",
+      "ordering": "0",
+      "slug_id": "481018",
+      "subject_id": "59200",
+      "content_id": "11155219",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/appliedscience"
+}

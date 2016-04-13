@@ -1,0 +1,29 @@
+{
+  "id": "11156308",
+  "name": "Virginia Gazette",
+  "description": "The Virginia Gazette newspapers, first published in 1736, served as a critical source of news for the colonists. Publication, sometimes amongst two competing publishers, continued on a weekly basis in Williamsburg until 1780 when operations were moved to the new capital in Richmond. The online collection includes images of almost all the known extant issues, which can be searched using the index or browsed by date.'",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03930",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 10:19:15",
+  "slug_id": "0",
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "11155268",
+  "name": "Berman Jewish Policy Archive",
+  "description": "Berman Jewish Policy Archive (BJPA) at NYU's Robert F. Wagner Graduate School of Public Service is a digital library of research and scholarship relating to Jewish communities in North America and around the world. BJPA is a tool that allows any user access to policy-relevant materials free of charge. The BJPA seeks to be the central home for all those interested in Jewish communal policy, stimulating debate and discussion on critical issues. The BJPA is housed as a special collection within the Policy Archive of the Center for Governmental Studies.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04007",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 19:15:42",
+  "slug_id": "635069",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155268",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59127",
+      "site_id": "873",
+      "name": "Religion",
+      "ordering": "0",
+      "slug_id": "480960",
+      "subject_id": "59127",
+      "content_id": "11155268",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/bermanpolicy"
+}

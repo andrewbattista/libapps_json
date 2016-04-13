@@ -1,0 +1,65 @@
+{
+  "id": "16589393",
+  "name": "Art Source",
+  "description": "Art Source covers a broad range of related subjects, from fine, decorative and commercial art, to various areas of architecture and architectural design. Art Source is a combination of all the A&I and full-text records in H.W. Wilson’s Art Full Text and Art Index Retrospective: 1929-1984.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04577",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-10-12 18:36:26",
+  "updated": "2015-10-12 18:36:26",
+  "slug_id": "652459",
+  "subjects": [
+    {
+      "id": "58943",
+      "site_id": "873",
+      "name": "Archaeology",
+      "ordering": "0",
+      "slug_id": "480940",
+      "subject_id": "58943",
+      "content_id": "16589393",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "16589393",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59299",
+      "site_id": "873",
+      "name": "Dance",
+      "ordering": "0",
+      "slug_id": "480963",
+      "subject_id": "59299",
+      "content_id": "16589393",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/artsource",
+  "az_types": [
+    {
+      "id": 10843,
+      "name": "Book Reviews",
+      "site_id": 873
+    }
+  ]
+}

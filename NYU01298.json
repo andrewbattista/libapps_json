@@ -1,0 +1,35 @@
+{
+  "id": "11155292",
+  "name": "Black Drama, 2nd Edition",
+  "description": "Contains approximately 1200 plays by 201 playwrights, together with detailed, fielded information on related productions, theaters, production companies, and more. The database also includes selected playbills, production photographs and other ephemera related to the plays. Some 440 of the plays are published here for the first time, including a number by major authors.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU01298",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-10-09 19:31:39",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58941",
+      "site_id": "873",
+      "name": "Africana Studies",
+      "ordering": "0",
+      "slug_id": "480938",
+      "subject_id": "58941",
+      "content_id": "11155292",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

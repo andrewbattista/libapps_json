@@ -1,0 +1,43 @@
+{
+  "id": "11155302",
+  "name": "Black Women Writers (African, African American, and Diaspora)",
+  "description": "Provides access to fiction, poetry, and essays from three continents and 20 countries, representing voices of women from Africa and the African diaspora. Currently features over 50,000 pages of poetry and prose",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02306",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 22:03:44",
+  "slug_id": "685084",
+  "subjects": [
+    {
+      "id": "59296",
+      "site_id": "873",
+      "name": "Gender & Sexuality Studies",
+      "ordering": "0",
+      "slug_id": "481012",
+      "subject_id": "59296",
+      "content_id": "11155302",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/blackwomenwriters",
+  "az_types": [
+    {
+      "id": 10179,
+      "name": "Ebook Collections",
+      "site_id": 873
+    }
+  ]
+}

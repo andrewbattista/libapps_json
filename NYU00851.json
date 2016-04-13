@@ -1,0 +1,65 @@
+{
+  "id": "11155239",
+  "name": "ARTstor",
+  "description": "Search one million images in the arts, architecture, humanities, and social sciences and use a suite of software tools to view, present, and manage images for research and pedagogical purposes. This resource also includes the following NYU collections: United Automobile Workers of America, District 65 Photographs Collection - Part I: Negatives and the Tamiment/Wagner Poster and Broadside Collection. **Please note that in order to download images one must create a personal ARTstor account.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00851",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-09-19 23:58:34",
+  "slug_id": "635177",
+  "subjects": [
+    {
+      "id": "56182",
+      "site_id": "873",
+      "name": "Art & Architecture",
+      "ordering": "0",
+      "slug_id": "480946",
+      "subject_id": "56182",
+      "content_id": "11155239",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59309",
+      "site_id": "873",
+      "name": "Labor & the Left",
+      "ordering": "0",
+      "slug_id": "480996",
+      "subject_id": "59309",
+      "content_id": "11155239",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59202",
+      "site_id": "873",
+      "name": "Museum Studies",
+      "ordering": "0",
+      "slug_id": "480985",
+      "subject_id": "59202",
+      "content_id": "11155239",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/artstor",
+  "az_types": [
+    {
+      "id": 10844,
+      "name": "Image Collections",
+      "site_id": 873
+    }
+  ]
+}

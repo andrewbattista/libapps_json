@@ -1,0 +1,17 @@
+{
+  "id": "11156297",
+  "name": "Ut per litteras apostolicas",
+  "description": "LITPA represents an electronic version of the renowned Registres et lettres des Papes du XIIIe siècle (32 vols.; Rome, 1883- ) and the Registres et lettres des Papes du XIVe siècle (48 vols.; Rome, 1899- ). In addition, it contains a large amount of unpublished material.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04813",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:23",
+  "slug_id": "0"
+}

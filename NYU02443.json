@@ -1,0 +1,17 @@
+{
+  "id": "11155982",
+  "name": "ODS: Official Documentation System of the United Nations",
+  "description": "ODS covers all types of official United Nations documentation, beginning in 1993. Older UN documents are, however, added to the system on a daily basis. ODS also provides access to the resolutions of the General Assembly, Security Council, Economic and Social Council and the Trusteeship Council from 1946 onwards. The system does not contain press releases, UN sales publications, the United Nations Treaty Series or information brochures issued by the Department of Public Information.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02443",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

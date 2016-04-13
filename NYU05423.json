@@ -1,0 +1,22 @@
+{
+  "id": "20695084",
+  "name": "Skift Trends Reports (Skift)",
+  "description": "Skift Trends Reports describe media and marketing trends in the travel industry. Library patrons have access to all reports when they access the site from the library's page and click \"All reports\" at the top of the Skift homepage.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05423",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0,
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "Click \"All reports\" at the top of the Skift homepage to access the site.",
+    "desc_pos": 1
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 20:56:45",
+  "slug_id": "0"
+}

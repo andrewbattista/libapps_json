@@ -1,0 +1,42 @@
+{
+  "id": "11156091",
+  "name": "Primary Sources: Classic Mexican Cinema",
+  "description": "Classic Mexican Cinema is a collection of popular movie periodicals, covering the 'Golden Age' of Mexican Cinema. The resource includes chief magazines such as Cinelandia (1931-1947)which was published in both Spanish and English in Hollywood, Cinema Reporter (1943-1965) and Cine Mundial (1954-1955), with extremely rare copies of El Cine Gráfico from 1935 and of the weekly El Mundo Ilustrado (1902-1910). This collection also includes dozens of film flyers, which were distributed on the streets to lure people into the cinema. Finally, this collection also gives access to the personal scrap books of Fernando de Fuentes (1894-1958), one of the leading Latin-American filmmakers to this day.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04239",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-11-24 21:49:26",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11156091",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

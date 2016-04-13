@@ -1,0 +1,46 @@
+{
+  "id": "17791558",
+  "name": "EIU Country Commerce Global",
+  "description": "Practical reference guide to the specific operating conditions, commercial laws and business regulations in 55 countries. It offers unbiased guidance on critical issues such as obtaining proper permits and registrations, protecting your intellectual property in the Internet age and complying with local tax laws-including e-commerce rules. Covers 55 countries",
+  "url": "https://arch.library.nyu.edu/databases/database/NYU02706",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "51751",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2015-12-02 21:46:48",
+  "updated": "2015-12-02 21:46:48",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "17791558",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "17791558",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

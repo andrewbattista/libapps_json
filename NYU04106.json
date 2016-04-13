@@ -1,0 +1,17 @@
+{
+  "id": "11156010",
+  "name": "Oxford Bibliographies Online: Classics",
+  "description": "The study of the ancient world is a cornerstone of Western scholarship. It possesses a long history with a rich, well established critical literature, but is also a highly active field responding to the emergence of new discoveries, interpretations, and theories. In addition to a vast body of scholarship, classical studies has been quick to move online so that today's students and researchers have ready access to key primary source texts and a range of electronic resources.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04106",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2015-05-21 15:05:21",
+  "slug_id": "0"
+}

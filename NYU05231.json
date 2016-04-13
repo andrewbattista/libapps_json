@@ -1,0 +1,42 @@
+{
+  "id": "19657203",
+  "name": "Caribbean Newspapers, Series 1, 1718-1876 (Newsbank)",
+  "description": "Contains more than 140 newspaper titles from 22 islands between 1718-1876.",
+  "url": "https://arch.library.nyu.edu/nyuad/databases/proxy/NYU05231",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1,
+    "enable_proxy": 0
+  },
+  "created": "2016-02-18 09:14:57",
+  "updated": "2016-04-05 16:01:49",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59224",
+      "site_id": "873",
+      "name": "Latin American and Caribbean Studies",
+      "ordering": "0",
+      "slug_id": "480995",
+      "subject_id": "59224",
+      "content_id": "19657203",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10184,
+      "name": "News & Newspapers",
+      "site_id": 873
+    }
+  ]
+}

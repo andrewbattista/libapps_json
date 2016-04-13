@@ -1,0 +1,35 @@
+{
+  "id": "11155768",
+  "name": "International Directory of Medievalists",
+  "description": "This international directory of scholars working in fields relating to the Middle Ages allows searching by name, field, country, and institution. It includes scholars from over 70 countries.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02542",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-11-06 20:47:17",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59204",
+      "site_id": "873",
+      "name": "Medieval & Renaissance Studies",
+      "ordering": "0",
+      "slug_id": "480986",
+      "subject_id": "59204",
+      "content_id": "11155768",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

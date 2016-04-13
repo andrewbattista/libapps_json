@@ -1,0 +1,17 @@
+{
+  "id": "11155538",
+  "name": "EIU Country Profile",
+  "description": "Outline a country's economic and political status and background. Country Profiles put an annual perspective on the long-term political and social issues affecting each country, providing a complete introduction to all international markets. **Please note: The Country Profile product was discontinued in 2009, at which time the annually-updated data it contained was incorporated into the Country Report product. Please reference Country Profile for annual data published in between 1996-2009.**",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02710",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

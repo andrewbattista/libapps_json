@@ -1,0 +1,46 @@
+{
+  "id": "11155439",
+  "name": "CQ Congress Collection",
+  "description": "Research and reference tool allowing historical analysis of members of Congress, their legislative voting behavior, interest groups, and their interactions in crafting public policy.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00627",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-12-04 20:37:25",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56190",
+      "site_id": "873",
+      "name": "Policy & Politics",
+      "ordering": "0",
+      "slug_id": "480972",
+      "subject_id": "56190",
+      "content_id": "11155439",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "59203",
+      "site_id": "873",
+      "name": "Politics",
+      "ordering": "0",
+      "slug_id": "480971",
+      "subject_id": "59203",
+      "content_id": "11155439",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ]
+}

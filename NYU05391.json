@@ -1,0 +1,16 @@
+{
+  "id": "20695061",
+  "name": "IndexCat (NLM)",
+  "description": "IndexCat provides access to the digitized version of the printed Index-Catalogue of the Library of the Surgeon General's Office; eTK for medieval Latin texts; and eVK2 for medieval English texts; along with links to other selected NLM resources.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05391",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "11155244",
+  "name": "Asian Film Online",
+  "description": "Asian Film Online offers a view of Asian culture as seen through the lens of the independent Asian filmmaker. Through a selection curated by film scholars and critics, viewers can explore the impact of globalization and urbanization on people’s everyday lives throughout the greater Asian region. Faculty and students engaged in area studies, anthropology, film studies, philosophy, geography, education, religion, gender studies, world literature, urban development, cross-cultural communication, journalism, social sciences, and humanities will benefit from exploring this rare collection of films that make silent voices heard.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU04724",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-11-24 21:42:50",
+  "slug_id": "685027",
+  "subjects": [
+    {
+      "id": "58951",
+      "site_id": "873",
+      "name": "Cinema Studies",
+      "ordering": "0",
+      "slug_id": "480957",
+      "subject_id": "58951",
+      "content_id": "11155244",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/asianfilmonline",
+  "az_types": [
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

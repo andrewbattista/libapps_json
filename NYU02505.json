@@ -1,0 +1,47 @@
+{
+  "id": "11155656",
+  "name": "Gartner Reports",
+  "description": "Provides access to reports from the information technology consulting firm Gartner Group. **Please note: Access to Gartner is only available on campus. Further more, the access is sporadic and we do not have access to all content. If you experience problems, please wait a few minutes and try again. We regret any inconvenience.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02505",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "-1",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-10-12 19:01:37",
+  "slug_id": "652487",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11155656",
+      "featured": "0",
+      "content_id_count": "1"
+    },
+    {
+      "id": "56176",
+      "site_id": "873",
+      "name": "Media, Communication & Journalism",
+      "ordering": "0",
+      "slug_id": "480987",
+      "subject_id": "56176",
+      "content_id": "11155656",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/gartner"
+}

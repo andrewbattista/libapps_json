@@ -1,0 +1,43 @@
+{
+  "id": "11155642",
+  "name": "Foundation Directory Online",
+  "description": "Updated monthly, this directory from the Foundation Center contains information about the largest 10,000 public and private foundations in the U.S. and links to foundation web sites.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02627",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2016-02-17 07:14:23",
+  "slug_id": "673760",
+  "subjects": [
+    {
+      "id": "81615",
+      "site_id": "873",
+      "name": "Public & Nonprofit Management",
+      "ordering": "0",
+      "slug_id": "672101",
+      "subject_id": "81615",
+      "content_id": "11155642",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/foundation",
+  "az_types": [
+    {
+      "id": 10183,
+      "name": "Encyclopedias & Dictionaries",
+      "site_id": 873
+    }
+  ]
+}

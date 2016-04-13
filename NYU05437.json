@@ -1,0 +1,16 @@
+{
+  "id": "20695086",
+  "name": "Toxics Release Inventory (TRI)",
+  "description": "TRI is based on EPA collection data on the annual estimated releases of toxic chemicals into the environment. This series covers the 1987-2001 reporting years. Air, water, land, and underground injection releases data available. Data on transfers to waste sites, waste treatment methods and efficiency, source reduction, and recycling also included.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05437",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "enable_proxy": 0
+  },
+  "created": "2016-04-05 18:20:23",
+  "updated": "2016-04-05 18:20:23",
+  "slug_id": "0"
+}

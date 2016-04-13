@@ -1,0 +1,47 @@
+{
+  "id": "11155394",
+  "name": "Classical Music in Video (Alexander Street Press)",
+  "description": "Music Online: Classical Music in Video is a comprehensive streaming video collection to support the study of classical music. It currently provides streaming access to more than 400 hours of video and will grow to 1,000 hours on completion, with new titles being regularly added. The collection contain performances of all forms of classical music, including major orchestral performances by leading orchestras, plus chamber music, oratorio, and solo performances, along with masterclasses and interviews with master teachers from around the world.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05139",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:12",
+  "updated": "2015-06-09 14:05:30",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56196",
+      "site_id": "873",
+      "name": "Music",
+      "ordering": "0",
+      "slug_id": "480984",
+      "subject_id": "56196",
+      "content_id": "11155394",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10842,
+      "name": "Music Collections",
+      "site_id": 873
+    },
+    {
+      "id": 10784,
+      "name": "Video Collections",
+      "site_id": 873
+    }
+  ]
+}

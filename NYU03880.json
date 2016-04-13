@@ -1,0 +1,46 @@
+{
+  "id": "11156264",
+  "name": "Thomson ONE Banker",
+  "description": "***This resource should be used with Internet Explorer 9 only and an NYU NetID and Password is required. This database can be used on Chrome with the IE plugin from ietab.net*** Thomson ONE Banker provides access to financial data on public companies, as well as merger and acquisition information and market data. Users can search and screen across databases to identify companies that meet your specific investment criteria as well as conduct peer analysis. Includes Investext, Private Equity database (Venturexpert) and Thomson Deals (SDC Platinum).",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03880",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-25 16:56:17",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "56187",
+      "site_id": "873",
+      "name": "Business",
+      "ordering": "0",
+      "slug_id": "480953",
+      "subject_id": "56187",
+      "content_id": "11156264",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "58944",
+      "site_id": "873",
+      "name": "Economics",
+      "ordering": "0",
+      "slug_id": "480967",
+      "subject_id": "58944",
+      "content_id": "11156264",
+      "featured": "1",
+      "content_id_count": "1"
+    }
+  ]
+}

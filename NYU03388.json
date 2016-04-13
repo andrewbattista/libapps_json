@@ -1,0 +1,47 @@
+{
+  "id": "11155736",
+  "name": "IJP: Index to Jewish Periodicals (EBSCO)",
+  "description": "Index to Jewish Periodicals is the definitive index on Jewish history, activity and thought. This database provides a comprehensive guide to English-language articles, book reviews, and feature stories in more than 160 journals devoted to Jewish affairs. Dates of coverage: 1988 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU03388",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "27343",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-09-19 18:54:09",
+  "slug_id": "635059",
+  "subjects": [
+    {
+      "id": "59273",
+      "site_id": "873",
+      "name": "Hebrew & Judaic Studies",
+      "ordering": "0",
+      "slug_id": "481003",
+      "subject_id": "59273",
+      "content_id": "11155736",
+      "featured": "1",
+      "content_id_count": "1"
+    },
+    {
+      "id": "79513",
+      "site_id": "873",
+      "name": "Middle Eastern Studies",
+      "ordering": "0",
+      "slug_id": "780804",
+      "subject_id": "79513",
+      "content_id": "11155736",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/IJP"
+}

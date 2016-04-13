@@ -1,0 +1,42 @@
+{
+  "id": "11156338",
+  "name": "World Development Indicators",
+  "description": "WDI Online is the premiere data source on the global economy. It contains statistical data for over 800 development indicators and time series data from 1960-2007 for 227 economies. Data includes social, economic, financial, natural resources, and environmental indicators. Data selection screens are intuitive and easy to use. Results can be scaled, charted, and mapped.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU02340",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": 0,
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
+  },
+  "created": "2015-03-18 22:08:14",
+  "updated": "2016-02-17 05:45:17",
+  "slug_id": "0",
+  "subjects": [
+    {
+      "id": "59322",
+      "site_id": "873",
+      "name": "Public Policy & Administration",
+      "ordering": "0",
+      "slug_id": "480964",
+      "subject_id": "59322",
+      "content_id": "11156338",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "az_types": [
+    {
+      "id": 10177,
+      "name": "Data Sources",
+      "site_id": 873
+    }
+  ]
+}

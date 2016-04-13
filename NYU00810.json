@@ -1,0 +1,17 @@
+{
+  "id": "11155604",
+  "name": "Essay & General Literature Index (EBSCO)",
+  "description": "Use this tool to find out which anthologies essays are printed in. Indexes 65,000 essays contained in some 5,300 anthologies and collections. Dates of coverage: 1985 to present.",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU00810",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}

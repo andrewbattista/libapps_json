@@ -1,0 +1,17 @@
+{
+  "id": "11155645",
+  "name": "Frick Art Reference Library Periodicals Index (EBSCO)",
+  "description": "An index-only database representing more than 150 art history periodicals held at and indexed by the Frick Art Reference Library of the Frick Collection. The indexed periodicals are international in scope and cover Western European and American fine arts and some decorative arts from the 4th-19th centuries in a broad selection of languages, including English, French, Italian, German, Russian, Spanish, Dutch, and the Scandinavian languages. Coverage includes artists, works, collections (private and public), exhibitions, and reproductions. **This database is currently in a trial period. Please send feedback about this database to tpm2@nyu.edu and ael3@nyu.edu**",
+  "url": "https://arch.library.nyu.edu/databases/proxy/NYU05137",
+  "site_id": "873",
+  "type_id": "10",
+  "owner_id": "24837",
+  "az_vendor_id": "0",
+  "meta": {
+    "target": "0",
+    "enable_proxy": "0"
+  },
+  "created": "2015-03-18 22:08:13",
+  "updated": "2015-05-21 15:05:19",
+  "slug_id": "0"
+}
