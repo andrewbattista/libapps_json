@@ -1,16 +1,36 @@
 {
   "id": "20695096",
   "name": "PEDro: Physiotherapy Evidence Database",
-  "description": "PEDro is the Physiotherapy Evidence Database. It has been developed to give rapid access to bibliographic details and abstracts of randomised controlled trials, systematic reviews and evidence-based clinical practice guidelines in physiotherapy.",
+  "description": "PEDro is the Physiotherapy Evidence Database and includes access to bibliographic details and abstracts of randomized controlled trials, systematic reviews and evidence-based clinical practice guidelines in physiotherapy.",
   "url": "https://arch.library.nyu.edu/databases/proxy/NYU00831",
   "site_id": "873",
   "type_id": "10",
   "owner_id": "24837",
   "az_vendor_id": "0",
   "meta": {
-    "enable_proxy": 0
+    "enable_proxy": 0,
+    "target": "0",
+    "tn_url": "",
+    "tn_height": "",
+    "tn_width": "",
+    "more_info": "",
+    "desc_pos": 1
   },
   "created": "2016-04-05 18:20:23",
-  "updated": "2016-04-05 18:20:23",
-  "slug_id": "0"
+  "updated": "2016-04-13 17:36:40",
+  "slug_id": "796275",
+  "subjects": [
+    {
+      "id": "56185",
+      "site_id": "873",
+      "name": "Health, Nursing, Medicine & Nutrition",
+      "ordering": "0",
+      "slug_id": "481004",
+      "subject_id": "56185",
+      "content_id": "20695096",
+      "featured": "0",
+      "content_id_count": "1"
+    }
+  ],
+  "friendly_url": "http://guides.nyu.edu/PEDro"
 }

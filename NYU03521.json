@@ -1,12 +1,12 @@
 {
   "id": "11155473",
-  "name": "DbPia",
-  "description": "A database containing full text of over 1 million articles from Korean scholarly journals.",
+  "name": "DBPia",
+  "description": "DBPia contains access to full text of articles in Korean scholarly journals, ebooks, and conference proceedings.",
   "url": "https://arch.library.nyu.edu/databases/proxy/NYU03521",
   "site_id": "873",
   "type_id": "10",
   "owner_id": "24837",
-  "az_vendor_id": "-1",
+  "az_vendor_id": "0",
   "meta": {
     "target": "0",
     "enable_proxy": 0,
@@ -17,7 +17,7 @@
     "desc_pos": 1
   },
   "created": "2015-03-18 22:08:13",
-  "updated": "2015-10-24 10:13:02",
+  "updated": "2016-04-13 17:35:16",
   "slug_id": "662163",
   "subjects": [
     {
